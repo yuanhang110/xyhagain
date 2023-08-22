@@ -1,0 +1,1718 @@
+INFO: 23-08-21 16:50:00: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 16:50:00: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 16:50:00: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 16:50:00: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 16:51:24: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 16:51:24: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 16:51:24: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 16:51:24: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 16:52:14: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 16:52:14: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 16:52:14: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 16:52:14: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 16:52:14: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 16:52:14: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 16:52:14: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 16:52:14: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 16:52:14: url_table.py:52 * 123145538621440 sort url list
+INFO: 23-08-21 16:52:15: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:52:15: url_table.py:52 * 123145538621440 sort url list
+INFO: 23-08-21 16:52:16: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:52:16: url_table.py:52 * 123145538621440 sort url list
+INFO: 23-08-21 16:52:17: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:52:17: url_table.py:52 * 123145538621440 sort url list
+INFO: 23-08-21 16:52:18: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:52:18: url_table.py:52 * 123145538621440 sort url list
+INFO: 23-08-21 16:52:19: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:52:19: url_table.py:52 * 123145538621440 sort url list
+INFO: 23-08-21 16:52:20: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:52:20: url_table.py:52 * 123145538621440 sort url list
+INFO: 23-08-21 16:52:21: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:52:21: url_table.py:52 * 123145538621440 sort url list
+INFO: 23-08-21 16:52:22: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:52:22: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:22: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:23: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:23: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:24: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:24: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:25: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:25: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:26: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:26: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:27: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:27: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:28: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:28: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:29: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:29: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:30: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:30: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:31: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:31: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:32: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:32: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:33: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:33: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:34: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:34: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:35: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:35: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:36: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:36: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:37: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:37: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:38: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:38: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:39: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:39: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:40: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:40: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:41: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:41: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:42: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:42: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:43: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:43: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:44: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:44: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:45: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:45: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:46: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:46: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:47: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:47: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:48: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:48: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:49: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:49: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:50: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:50: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:51: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:51: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:52: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:52: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:53: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:53: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:54: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:54: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:55: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:55: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:56: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:56: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:57: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:57: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:58: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:58: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:52:59: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:52:59: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:00: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:00: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:01: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:01: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:02: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:02: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:03: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:03: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:04: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:04: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:05: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:05: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:06: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:06: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:07: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:07: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:08: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:08: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:09: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:09: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:10: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:10: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:11: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:11: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:12: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:12: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:13: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:13: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:14: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:14: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:15: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:15: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:16: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:16: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:17: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:17: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:18: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:18: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:19: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:19: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:20: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:20: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:21: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:21: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:22: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:22: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:23: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:23: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:24: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:24: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:25: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:25: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:26: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:26: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:27: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:27: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:28: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:28: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:29: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:29: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:30: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:30: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:31: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:31: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:32: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:32: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:33: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:33: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:34: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:34: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:35: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:35: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:36: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:36: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:37: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:37: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:38: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:38: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:39: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:39: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:40: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:40: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:41: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:41: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:42: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:42: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:43: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:43: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:44: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:44: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:45: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:45: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:46: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:46: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:47: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:47: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:48: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:48: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:49: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:49: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:50: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:50: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:51: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:51: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:52: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:52: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:53: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:53: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:54: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:54: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:55: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:55: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:56: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:56: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:57: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:57: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:58: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:58: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:53:59: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:53:59: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:00: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:00: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:01: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:01: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:02: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:02: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:03: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:03: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:04: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:04: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:05: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:05: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:06: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:06: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:07: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:07: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:08: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:08: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:09: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:09: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:10: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:10: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:11: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:11: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:12: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:12: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:16: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 16:54:16: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 16:54:16: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 16:54:16: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 16:54:16: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 16:54:16: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 16:54:16: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 16:54:16: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 16:54:16: url_table.py:52 * 123145543458816 sort url list
+INFO: 23-08-21 16:54:17: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:54:17: url_table.py:52 * 123145543458816 sort url list
+INFO: 23-08-21 16:54:18: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:54:18: url_table.py:52 * 123145543458816 sort url list
+INFO: 23-08-21 16:54:19: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:54:19: url_table.py:52 * 123145543458816 sort url list
+INFO: 23-08-21 16:54:20: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:54:20: url_table.py:52 * 123145543458816 sort url list
+INFO: 23-08-21 16:54:21: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:54:21: url_table.py:52 * 123145543458816 sort url list
+INFO: 23-08-21 16:54:22: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:54:22: url_table.py:52 * 123145543458816 sort url list
+INFO: 23-08-21 16:54:23: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:54:23: url_table.py:52 * 123145543458816 sort url list
+INFO: 23-08-21 16:54:24: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 16:54:24: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:24: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:25: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:25: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:26: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:26: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:27: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:27: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:28: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:28: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:29: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:29: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:30: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:30: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:31: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:31: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:32: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:32: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:33: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:33: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:34: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:34: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:35: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:35: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:36: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:36: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:37: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:37: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:38: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:38: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:39: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:39: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:40: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:40: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:41: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:41: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:42: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:42: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:43: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:43: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:44: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:44: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:45: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:45: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:46: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:46: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:47: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:47: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:48: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:48: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:49: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:49: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:50: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:50: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:51: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:51: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:52: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:52: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:53: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:53: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:54: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:54: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:55: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:55: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:56: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:56: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:57: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:57: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:58: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:58: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:54:59: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:54:59: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:00: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:00: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:01: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:01: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:02: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:02: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:03: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:03: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:04: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:04: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:05: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:05: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:06: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:06: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:07: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:07: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:08: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:08: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:09: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:09: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:10: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:10: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:11: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:11: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:12: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:12: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:13: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:13: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:14: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:14: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:15: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:15: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:16: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:16: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:17: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:17: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:18: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:18: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:19: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:19: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:20: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:20: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 16:55:21: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 16:55:21: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:24: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:01:24: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:01:24: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:01:24: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:01:24: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:01:24: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:01:24: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:01:24: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:01:24: url_table.py:52 * 123145580728320 sort url list
+INFO: 23-08-21 17:01:25: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:01:25: url_table.py:52 * 123145580728320 sort url list
+INFO: 23-08-21 17:01:26: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:01:26: url_table.py:52 * 123145580728320 sort url list
+INFO: 23-08-21 17:01:27: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:01:27: url_table.py:52 * 123145580728320 sort url list
+INFO: 23-08-21 17:01:28: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:01:28: url_table.py:52 * 123145580728320 sort url list
+INFO: 23-08-21 17:01:29: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:01:29: url_table.py:52 * 123145580728320 sort url list
+INFO: 23-08-21 17:01:30: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:01:30: url_table.py:52 * 123145580728320 sort url list
+INFO: 23-08-21 17:01:31: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:01:31: url_table.py:52 * 123145580728320 sort url list
+INFO: 23-08-21 17:01:32: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:01:32: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:32: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:33: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:33: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:34: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:34: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:35: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:35: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:36: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:36: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:37: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:37: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:38: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:38: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:39: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:39: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:40: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:40: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:41: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:41: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:42: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:42: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:43: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:43: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:44: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:44: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:45: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:45: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:46: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:46: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:47: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:47: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:48: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:48: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:49: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:49: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:50: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:50: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:51: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:51: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:52: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:52: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:53: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:53: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:54: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:54: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:55: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:55: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:56: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:56: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:57: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:57: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:58: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:58: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:01:59: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:01:59: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:00: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:00: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:01: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:01: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:02: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:02: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:03: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:03: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:04: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:04: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:05: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:05: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:06: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:06: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:07: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:07: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:08: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:08: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:09: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:09: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:10: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:10: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:11: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:11: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:12: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:12: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:13: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:13: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:14: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:14: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:15: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:15: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:16: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:16: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:17: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:17: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:18: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:18: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:19: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:19: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:20: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:20: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:21: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:21: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:22: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:22: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:23: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:23: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:24: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:24: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:25: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:25: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:26: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:26: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:27: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:27: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:28: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:28: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:29: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:29: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:30: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:30: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:31: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:31: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:32: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:32: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:33: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:33: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:34: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:34: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:35: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:35: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:36: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:36: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:37: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:37: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:38: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:38: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:39: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:39: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:40: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:40: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:41: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:41: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:42: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:42: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:43: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:43: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:44: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:44: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:45: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:45: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:46: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:46: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:47: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:47: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:48: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:48: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:49: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:49: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:50: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:50: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:51: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:51: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:52: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:52: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:53: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:53: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:54: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:54: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:55: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:55: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:56: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:56: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:57: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:57: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:58: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:58: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:02:59: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:02:59: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:00: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:00: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:01: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:01: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:02: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:02: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:03: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:03: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:04: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:04: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:05: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:05: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:06: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:06: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:07: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:07: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:08: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:08: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:09: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:09: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:10: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:10: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:11: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:11: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:12: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:12: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:13: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:13: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:14: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:14: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:15: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:15: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:16: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:16: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:17: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:17: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:18: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:18: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:19: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:19: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:20: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:20: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:21: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:21: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:22: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:22: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:23: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:23: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:24: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:24: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:25: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:25: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:26: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:26: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:27: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:27: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:28: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:28: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:29: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:29: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:30: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:30: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:31: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:31: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:32: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:32: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:33: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:33: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:34: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:34: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:35: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:35: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:36: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:36: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:37: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:37: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:38: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:38: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:39: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:39: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:40: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:40: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:41: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:41: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:42: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:42: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:43: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:43: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:47: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:03:47: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:03:47: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:03:47: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:03:47: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:03:47: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:03:47: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:03:47: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:03:47: url_table.py:52 * 123145354850304 sort url list
+INFO: 23-08-21 17:03:48: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:03:48: url_table.py:52 * 123145354850304 sort url list
+INFO: 23-08-21 17:03:49: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:03:49: url_table.py:52 * 123145354850304 sort url list
+INFO: 23-08-21 17:03:50: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:03:50: url_table.py:52 * 123145354850304 sort url list
+INFO: 23-08-21 17:03:51: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:03:51: url_table.py:52 * 123145354850304 sort url list
+INFO: 23-08-21 17:03:52: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:03:52: url_table.py:52 * 123145354850304 sort url list
+INFO: 23-08-21 17:03:53: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:03:53: url_table.py:52 * 123145354850304 sort url list
+INFO: 23-08-21 17:03:54: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:03:54: url_table.py:52 * 123145354850304 sort url list
+INFO: 23-08-21 17:03:55: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:03:55: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:55: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:56: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:56: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:57: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:57: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:58: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:58: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:03:59: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:03:59: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:00: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:00: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:01: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:01: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:02: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:02: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:03: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:03: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:04: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:04: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:05: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:05: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:06: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:06: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:07: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:07: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:08: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:08: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:09: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:09: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:10: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:10: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:11: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:11: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:12: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:12: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:13: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:13: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:14: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:14: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:15: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:15: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:16: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:16: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:17: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:17: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:18: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:18: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:19: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:19: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:20: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:20: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:21: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:21: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:22: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:22: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:23: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:23: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:24: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:24: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:25: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:25: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:26: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:26: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:27: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:27: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:28: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:28: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:29: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:29: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:30: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:30: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:31: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:31: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:32: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:32: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:33: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:33: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:34: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:34: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:35: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:35: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:36: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:36: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:37: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:37: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:38: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:38: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:39: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:39: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:40: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:40: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:41: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:41: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:42: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:42: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:43: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:43: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:44: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:44: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:45: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:45: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:46: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:46: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:47: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:47: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:48: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:48: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:49: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:49: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:50: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:50: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:51: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:51: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:52: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:52: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:53: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:53: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:54: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:54: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:55: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:55: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:56: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:56: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:57: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:57: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:58: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:58: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:04:59: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:04:59: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:00: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:00: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:01: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:01: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:02: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:02: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:03: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:03: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:04: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:04: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:05: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:05: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:06: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:06: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:07: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:07: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:08: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:08: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:09: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:09: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:10: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:10: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:11: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:11: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:12: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:12: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:13: thread_pool.py:71 * 140704362206976 no thread could get
+INFO: 23-08-21 17:05:13: mini_spider.py:156 * 140704362206976 wait...
+INFO: 23-08-21 17:05:16: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:05:16: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:05:16: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:05:16: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:05:16: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:05:16: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:05:16: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:05:16: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:05:16: url_table.py:52 * 123145489281024 sort url list
+INFO: 23-08-21 17:05:16: webpage_crawler.py:41 * 123145489281024 start get url:http://www.baidu.com
+INFO: 23-08-21 17:05:17: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:05:17: url_table.py:52 * 123145489281024 sort url list
+INFO: 23-08-21 17:05:17: webpage_crawler.py:41 * 123145489281024 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:05:18: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:07:03: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:07:03: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:07:03: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:07:03: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:07:03: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:07:03: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:07:03: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:07:03: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:07:03: url_table.py:52 * 123145537961984 sort url list
+INFO: 23-08-21 17:07:03: webpage_crawler.py:41 * 123145537961984 start get url:http://www.baidu.com
+INFO: 23-08-21 17:07:04: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:07:04: url_table.py:52 * 123145537961984 sort url list
+INFO: 23-08-21 17:07:04: webpage_crawler.py:41 * 123145537961984 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:07:05: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:13:06: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:13:06: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:13:06: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:13:06: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:13:06: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:13:06: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:13:06: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:13:06: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:13:06: url_table.py:52 * 123145329541120 sort url list
+INFO: 23-08-21 17:13:06: webpage_crawler.py:39 * 123145329541120 start get url:http://www.baidu.com
+INFO: 23-08-21 17:13:07: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:13:07: url_table.py:52 * 123145329541120 sort url list
+INFO: 23-08-21 17:13:07: webpage_crawler.py:39 * 123145329541120 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:13:08: mini_spider.py:154 * 140704362206976 sleep: 1
+WARNING: 23-08-21 17:14:22: webpage_crawler.py:44 * 123145329541120 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 17:24:33: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:24:33: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:24:33: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:24:33: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:24:33: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:24:33: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:24:33: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:24:33: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:24:33: url_table.py:52 * 123145502392320 sort url list
+INFO: 23-08-21 17:24:33: webpage_crawler.py:39 * 123145502392320 start get url:http://www.baidu.com
+INFO: 23-08-21 17:24:33: webpage_parser.py:59 * 123145502392320 len url: 0
+INFO: 23-08-21 17:24:33: webpage_saver.py:72 * 123145502392320 cur url: http://www.baidu.com
+INFO: 23-08-21 17:24:34: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:24:34: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 17:24:34: url_table.py:52 * 123145502392320 sort url list
+INFO: 23-08-21 17:24:34: webpage_crawler.py:39 * 123145502392320 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:24:35: mini_spider.py:154 * 140704362206976 sleep: 1
+WARNING: 23-08-21 17:25:49: webpage_crawler.py:44 * 123145502392320 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 17:25:54: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:25:54: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:25:54: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:25:54: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:25:54: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:25:54: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:25:54: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:25:54: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:25:54: url_table.py:52 * 123145553293312 sort url list
+INFO: 23-08-21 17:25:54: webpage_crawler.py:39 * 123145553293312 start get url:http://www.baidu.com
+INFO: 23-08-21 17:25:55: webpage_parser.py:59 * 123145553293312 len url: 0
+INFO: 23-08-21 17:25:55: webpage_saver.py:72 * 123145553293312 cur url: http://www.baidu.com
+INFO: 23-08-21 17:25:55: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:25:55: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 17:25:55: url_table.py:52 * 123145553293312 sort url list
+INFO: 23-08-21 17:25:55: webpage_crawler.py:39 * 123145553293312 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:25:56: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:25:58: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 17:25:58: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 17:27:10: webpage_crawler.py:44 * 123145553293312 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 17:29:23: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:29:23: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:29:23: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:29:23: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:29:23: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:29:23: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:29:23: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:29:23: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:29:23: url_table.py:52 * 123145446952960 sort url list
+INFO: 23-08-21 17:29:23: webpage_crawler.py:39 * 123145446952960 start get url:http://www.baidu.com
+INFO: 23-08-21 17:29:24: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:29:24: url_table.py:52 * 123145446952960 sort url list
+INFO: 23-08-21 17:29:24: webpage_crawler.py:39 * 123145446952960 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:29:25: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:29:27: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 17:29:27: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 17:30:39: webpage_crawler.py:44 * 123145446952960 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 17:33:31: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:33:31: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:33:31: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:33:31: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:33:31: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:33:31: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:33:31: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:33:31: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:33:31: url_table.py:52 * 123145530306560 sort url list
+INFO: 23-08-21 17:33:31: webpage_crawler.py:39 * 123145530306560 start get url:http://www.baidu.com
+INFO: 23-08-21 17:33:32: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:33:32: url_table.py:52 * 123145530306560 sort url list
+INFO: 23-08-21 17:33:32: webpage_crawler.py:39 * 123145530306560 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:33:33: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:33:35: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 17:33:35: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 17:34:47: webpage_crawler.py:44 * 123145530306560 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 17:35:54: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:35:54: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:35:54: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:35:54: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:35:54: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:35:54: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:35:54: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:35:54: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:35:54: url_table.py:52 * 123145474220032 sort url list
+INFO: 23-08-21 17:35:54: webpage_crawler.py:39 * 123145474220032 start get url:http://www.baidu.com
+INFO: 23-08-21 17:35:55: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:35:55: url_table.py:52 * 123145474220032 sort url list
+INFO: 23-08-21 17:35:55: webpage_crawler.py:39 * 123145474220032 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:35:56: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:35:58: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 17:35:58: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 17:37:10: webpage_crawler.py:44 * 123145474220032 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 17:37:49: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:37:49: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:37:49: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:37:49: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:37:49: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:37:49: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:37:49: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:37:49: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:37:49: url_table.py:52 * 123145580883968 sort url list
+INFO: 23-08-21 17:37:49: webpage_crawler.py:39 * 123145580883968 start get url:http://www.baidu.com
+INFO: 23-08-21 17:37:50: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:37:50: url_table.py:52 * 123145598746624 sort url list
+INFO: 23-08-21 17:37:50: webpage_crawler.py:39 * 123145598746624 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:37:51: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:37:53: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 17:37:53: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 17:39:05: webpage_crawler.py:44 * 123145598746624 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 17:39:33: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:39:33: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:39:33: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:39:33: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:39:33: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:39:33: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:39:33: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:39:33: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:39:33: url_table.py:52 * 123145431289856 sort url list
+INFO: 23-08-21 17:39:33: webpage_crawler.py:39 * 123145431289856 start get url:http://www.baidu.com
+INFO: 23-08-21 17:39:34: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:39:34: url_table.py:52 * 123145431289856 sort url list
+INFO: 23-08-21 17:39:34: webpage_crawler.py:39 * 123145431289856 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:39:35: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:39:37: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 17:39:37: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 17:40:08: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:40:08: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:40:08: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:40:08: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:40:08: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:40:08: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:40:08: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:40:08: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:40:08: url_table.py:52 * 123145411637248 sort url list
+INFO: 23-08-21 17:40:08: webpage_crawler.py:39 * 123145411637248 start get url:http://www.baidu.com
+INFO: 23-08-21 17:40:09: webpage_parser.py:60 * 123145411637248 len url: 0
+INFO: 23-08-21 17:40:09: webpage_saver.py:72 * 123145411637248 cur url: http://www.baidu.com
+INFO: 23-08-21 17:40:09: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:40:09: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 17:40:09: url_table.py:52 * 123145411637248 sort url list
+INFO: 23-08-21 17:40:09: webpage_crawler.py:39 * 123145411637248 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:40:10: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:40:12: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 17:40:12: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 17:41:24: webpage_crawler.py:44 * 123145411637248 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 17:42:26: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 17:42:26: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 17:42:26: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 17:42:26: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 17:42:26: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 17:42:26: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 17:42:26: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 17:42:26: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 17:42:26: url_table.py:52 * 123145405935616 sort url list
+INFO: 23-08-21 17:42:26: webpage_crawler.py:39 * 123145405935616 start get url:http://www.baidu.com
+INFO: 23-08-21 17:42:26: webpage_parser.py:60 * 123145405935616 len url: 0
+INFO: 23-08-21 17:42:26: webpage_saver.py:72 * 123145405935616 cur url: http://www.baidu.com
+INFO: 23-08-21 17:42:27: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:42:27: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 17:42:27: url_table.py:52 * 123145405935616 sort url list
+INFO: 23-08-21 17:42:27: webpage_crawler.py:39 * 123145405935616 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 17:42:28: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 17:42:30: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 17:42:30: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 17:43:42: webpage_crawler.py:44 * 123145405935616 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 18:41:51: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 18:41:51: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 18:41:51: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 18:41:51: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 18:41:51: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 18:41:51: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 18:41:51: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 18:41:51: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 18:41:51: url_table.py:52 * 123145512448000 sort url list
+INFO: 23-08-21 18:41:51: webpage_crawler.py:39 * 123145512448000 start get url:http://www.baidu.com
+INFO: 23-08-21 18:41:51: webpage_parser.py:60 * 123145512448000 len url: 0
+INFO: 23-08-21 18:41:51: webpage_saver.py:72 * 123145512448000 cur url: http://www.baidu.com
+INFO: 23-08-21 18:41:52: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 18:41:52: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 18:41:52: url_table.py:52 * 123145512448000 sort url list
+INFO: 23-08-21 18:41:52: webpage_crawler.py:39 * 123145512448000 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 18:41:53: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 18:41:55: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 18:41:55: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 18:43:07: webpage_crawler.py:44 * 123145512448000 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:05:21: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:05:21: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:05:21: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:05:21: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:05:21: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:05:21: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:05:21: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:05:21: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:05:21: url_table.py:52 * 123145424527360 sort url list
+INFO: 23-08-21 19:05:21: webpage_crawler.py:39 * 123145424527360 start get url:http://www.baidu.com
+INFO: 23-08-21 19:05:21: webpage_parser.py:59 * 123145424527360 len url: 0
+INFO: 23-08-21 19:05:21: webpage_saver.py:72 * 123145424527360 cur url: http://www.baidu.com
+INFO: 23-08-21 19:05:22: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:05:22: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:05:22: url_table.py:52 * 123145424527360 sort url list
+INFO: 23-08-21 19:05:22: webpage_crawler.py:39 * 123145424527360 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:05:23: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:05:25: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:05:25: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:06:37: webpage_crawler.py:44 * 123145424527360 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:06:58: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:06:58: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:06:58: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:06:58: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:06:58: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:06:58: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:06:58: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:06:58: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:06:58: url_table.py:52 * 123145446215680 sort url list
+INFO: 23-08-21 19:06:58: webpage_crawler.py:39 * 123145446215680 start get url:http://www.baidu.com
+INFO: 23-08-21 19:06:58: webpage_parser.py:59 * 123145446215680 len url: 0
+INFO: 23-08-21 19:06:59: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:06:59: url_table.py:52 * 123145446215680 sort url list
+INFO: 23-08-21 19:06:59: webpage_crawler.py:39 * 123145446215680 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:07:00: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:07:02: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:07:02: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 19:07:25: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:07:25: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:07:25: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:07:25: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:07:25: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:07:25: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:07:25: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:07:25: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:07:25: url_table.py:52 * 123145504866304 sort url list
+INFO: 23-08-21 19:07:25: webpage_crawler.py:39 * 123145504866304 start get url:http://www.baidu.com
+INFO: 23-08-21 19:07:25: webpage_parser.py:59 * 123145504866304 len url: 0
+INFO: 23-08-21 19:07:26: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:07:26: url_table.py:52 * 123145504866304 sort url list
+INFO: 23-08-21 19:07:26: webpage_crawler.py:39 * 123145504866304 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:07:27: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:07:29: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:07:29: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 19:07:47: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:07:47: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:07:47: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:07:47: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:07:47: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:07:47: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:07:47: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:07:47: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:07:47: url_table.py:52 * 123145425010688 sort url list
+INFO: 23-08-21 19:07:47: webpage_crawler.py:39 * 123145425010688 start get url:http://www.baidu.com
+INFO: 23-08-21 19:07:47: webpage_parser.py:59 * 123145425010688 len url: 0
+INFO: 23-08-21 19:07:48: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:07:48: url_table.py:52 * 123145425010688 sort url list
+INFO: 23-08-21 19:07:48: webpage_crawler.py:39 * 123145425010688 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:07:49: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:07:51: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:07:51: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 19:08:31: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:08:31: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:08:31: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:08:31: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:08:31: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:08:31: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:08:31: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:08:31: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:08:31: url_table.py:52 * 123145533857792 sort url list
+INFO: 23-08-21 19:08:31: webpage_crawler.py:39 * 123145533857792 start get url:http://www.baidu.com
+INFO: 23-08-21 19:08:31: webpage_parser.py:59 * 123145533857792 len url: 0
+INFO: 23-08-21 19:08:31: webpage_saver.py:72 * 123145533857792 cur url: http://www.baidu.com
+INFO: 23-08-21 19:08:32: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:08:32: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:08:32: url_table.py:52 * 123145533857792 sort url list
+INFO: 23-08-21 19:08:32: webpage_crawler.py:39 * 123145533857792 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:08:33: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:08:35: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:08:35: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:09:47: webpage_crawler.py:44 * 123145533857792 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:10:21: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:10:21: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:10:21: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:10:21: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:10:21: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:10:21: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:10:21: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:10:21: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:10:21: url_table.py:52 * 123145402122240 sort url list
+INFO: 23-08-21 19:10:21: webpage_crawler.py:39 * 123145402122240 start get url:http://www.baidu.com
+INFO: 23-08-21 19:10:21: webpage_parser.py:60 * 123145402122240 len url: 0
+INFO: 23-08-21 19:10:21: webpage_saver.py:72 * 123145402122240 cur url: http://www.baidu.com
+INFO: 23-08-21 19:10:22: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:10:22: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:10:22: url_table.py:52 * 123145402122240 sort url list
+INFO: 23-08-21 19:10:22: webpage_crawler.py:39 * 123145402122240 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:10:23: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:10:25: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:10:25: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:11:37: webpage_crawler.py:44 * 123145402122240 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:13:34: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:13:34: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:13:34: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:13:34: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:13:34: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:13:34: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:13:34: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:13:34: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:13:34: url_table.py:52 * 123145537421312 sort url list
+INFO: 23-08-21 19:13:34: webpage_crawler.py:39 * 123145537421312 start get url:http://www.baidu.com
+INFO: 23-08-21 19:13:34: webpage_parser.py:61 * 123145537421312 len url: 0
+INFO: 23-08-21 19:13:34: webpage_saver.py:72 * 123145537421312 cur url: http://www.baidu.com
+INFO: 23-08-21 19:13:35: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:13:35: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:13:35: url_table.py:52 * 123145537421312 sort url list
+INFO: 23-08-21 19:13:35: webpage_crawler.py:39 * 123145537421312 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:13:36: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:13:38: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:13:38: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:14:50: webpage_crawler.py:44 * 123145537421312 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:19:24: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:19:24: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:19:24: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:19:24: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:19:24: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:19:24: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:19:24: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:19:24: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:19:24: url_table.py:52 * 123145502969856 sort url list
+INFO: 23-08-21 19:19:24: webpage_crawler.py:39 * 123145502969856 start get url:http://www.baidu.com
+INFO: 23-08-21 19:19:24: webpage_parser.py:61 * 123145502969856 len url: 0
+INFO: 23-08-21 19:19:24: webpage_saver.py:72 * 123145502969856 cur url: http://www.baidu.com
+INFO: 23-08-21 19:19:25: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:19:25: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:19:25: url_table.py:52 * 123145502969856 sort url list
+INFO: 23-08-21 19:19:25: webpage_crawler.py:39 * 123145502969856 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:19:26: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:19:28: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:19:28: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 19:19:48: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:19:48: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:19:48: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:19:48: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:19:48: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:19:48: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:19:48: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:19:48: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:19:48: url_table.py:52 * 123145342750720 sort url list
+INFO: 23-08-21 19:19:48: webpage_crawler.py:39 * 123145342750720 start get url:http://www.baidu.com
+INFO: 23-08-21 19:19:48: webpage_parser.py:61 * 123145342750720 len url: 0
+INFO: 23-08-21 19:19:48: webpage_saver.py:72 * 123145342750720 cur url: http://www.baidu.com
+INFO: 23-08-21 19:19:49: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:19:49: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:19:49: url_table.py:52 * 123145342750720 sort url list
+INFO: 23-08-21 19:19:49: webpage_crawler.py:39 * 123145342750720 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:19:50: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:19:52: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:19:52: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:21:04: webpage_crawler.py:44 * 123145342750720 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:21:28: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:21:28: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:21:28: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:21:28: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:21:28: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:21:28: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:21:28: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:21:28: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:21:28: url_table.py:52 * 123145331597312 sort url list
+INFO: 23-08-21 19:21:28: webpage_crawler.py:39 * 123145331597312 start get url:http://www.baidu.com
+INFO: 23-08-21 19:21:29: webpage_parser.py:61 * 123145331597312 len url: 0
+INFO: 23-08-21 19:21:29: webpage_saver.py:72 * 123145331597312 cur url: http://www.baidu.com
+INFO: 23-08-21 19:21:29: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:21:29: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:21:29: url_table.py:52 * 123145331597312 sort url list
+INFO: 23-08-21 19:21:29: webpage_crawler.py:39 * 123145331597312 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:21:30: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:21:32: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:21:32: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:22:44: webpage_crawler.py:44 * 123145331597312 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:23:58: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:23:58: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:23:58: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:23:58: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:23:58: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:23:58: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:23:58: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:23:58: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:23:58: url_table.py:52 * 123145424568320 sort url list
+INFO: 23-08-21 19:23:58: webpage_crawler.py:39 * 123145424568320 start get url:http://www.baidu.com
+INFO: 23-08-21 19:23:59: webpage_parser.py:61 * 123145424568320 len url: 0
+INFO: 23-08-21 19:23:59: webpage_saver.py:72 * 123145424568320 cur url: http://www.baidu.com
+INFO: 23-08-21 19:23:59: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:23:59: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:23:59: url_table.py:52 * 123145424568320 sort url list
+INFO: 23-08-21 19:23:59: webpage_crawler.py:39 * 123145424568320 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:24:00: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:24:02: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:24:02: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:25:14: webpage_crawler.py:44 * 123145424568320 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:26:01: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:26:01: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:26:01: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:26:01: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:26:01: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:26:01: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:26:28: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:26:28: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:26:28: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:26:28: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:26:28: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:26:28: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:26:40: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:26:40: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:26:40: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:26:40: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:26:40: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:26:40: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:26:40: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:26:40: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:26:40: url_table.py:52 * 123145377226752 sort url list
+INFO: 23-08-21 19:26:40: webpage_crawler.py:39 * 123145377226752 start get url:http://www.baidu.com
+INFO: 23-08-21 19:26:40: webpage_parser.py:62 * 123145377226752 len url: 0
+INFO: 23-08-21 19:26:40: webpage_saver.py:72 * 123145377226752 cur url: http://www.baidu.com
+INFO: 23-08-21 19:26:41: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:26:41: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:26:41: url_table.py:52 * 123145377226752 sort url list
+INFO: 23-08-21 19:26:41: webpage_crawler.py:39 * 123145377226752 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:26:42: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:26:44: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:26:44: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:27:56: webpage_crawler.py:44 * 123145377226752 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:52:20: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:52:20: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:52:20: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:52:20: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:52:20: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:52:20: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:52:20: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:52:20: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:52:20: url_table.py:52 * 123145465319424 sort url list
+INFO: 23-08-21 19:52:20: webpage_crawler.py:39 * 123145465319424 start get url:http://www.baidu.com
+INFO: 23-08-21 19:52:20: webpage_parser.py:63 * 123145465319424 len url: 0
+INFO: 23-08-21 19:52:20: webpage_saver.py:72 * 123145465319424 cur url: http://www.baidu.com
+INFO: 23-08-21 19:52:21: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:52:21: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:52:21: url_table.py:52 * 123145465319424 sort url list
+INFO: 23-08-21 19:52:21: webpage_crawler.py:39 * 123145465319424 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:52:22: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:52:24: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:52:24: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 19:52:55: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:52:55: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:52:55: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:52:55: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:52:55: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:52:55: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:52:55: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:52:55: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:52:55: url_table.py:52 * 123145539276800 sort url list
+INFO: 23-08-21 19:52:55: webpage_crawler.py:39 * 123145539276800 start get url:http://www.baidu.com
+INFO: 23-08-21 19:52:55: webpage_parser.py:63 * 123145539276800 len url: 0
+INFO: 23-08-21 19:52:55: webpage_saver.py:72 * 123145539276800 cur url: http://www.baidu.com
+INFO: 23-08-21 19:52:56: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:52:56: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:52:56: url_table.py:52 * 123145539276800 sort url list
+INFO: 23-08-21 19:52:56: webpage_crawler.py:39 * 123145539276800 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:52:57: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:52:59: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:52:59: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:54:11: webpage_crawler.py:44 * 123145539276800 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:56:28: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:56:28: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:56:28: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:56:28: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:56:28: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:56:28: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:56:28: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:56:28: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:56:28: url_table.py:52 * 123145379303424 sort url list
+INFO: 23-08-21 19:56:28: webpage_crawler.py:39 * 123145379303424 start get url:http://www.baidu.com
+INFO: 23-08-21 19:56:28: webpage_parser.py:63 * 123145379303424 len url: 0
+INFO: 23-08-21 19:56:28: webpage_saver.py:72 * 123145379303424 cur url: http://www.baidu.com
+INFO: 23-08-21 19:56:29: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:56:29: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:56:29: url_table.py:52 * 123145379303424 sort url list
+INFO: 23-08-21 19:56:29: webpage_crawler.py:39 * 123145379303424 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:56:30: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:56:32: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:56:32: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:57:44: webpage_crawler.py:44 * 123145379303424 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 19:57:54: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 19:57:54: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 19:57:54: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 19:57:54: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 19:57:54: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 19:57:54: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 19:57:54: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 19:57:54: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 19:57:54: url_table.py:52 * 123145514909696 sort url list
+INFO: 23-08-21 19:57:54: webpage_crawler.py:39 * 123145514909696 start get url:http://www.baidu.com
+INFO: 23-08-21 19:57:54: webpage_parser.py:63 * 123145514909696 len url: 0
+INFO: 23-08-21 19:57:54: webpage_saver.py:72 * 123145514909696 cur url: http://www.baidu.com
+INFO: 23-08-21 19:57:55: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:57:55: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 19:57:55: url_table.py:52 * 123145514909696 sort url list
+INFO: 23-08-21 19:57:55: webpage_crawler.py:39 * 123145514909696 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 19:57:56: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 19:57:58: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 19:57:58: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 19:59:10: webpage_crawler.py:44 * 123145514909696 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 20:06:04: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:06:04: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:06:04: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:06:04: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:06:04: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:06:04: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:06:04: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:06:04: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:06:04: url_table.py:52 * 123145393602560 sort url list
+INFO: 23-08-21 20:06:04: webpage_crawler.py:39 * 123145393602560 start get url:http://www.baidu.com
+INFO: 23-08-21 20:06:05: webpage_parser.py:64 * 123145393602560 len url: 0
+INFO: 23-08-21 20:06:05: webpage_saver.py:72 * 123145393602560 cur url: http://www.baidu.com
+INFO: 23-08-21 20:06:05: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:06:05: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:06:05: url_table.py:52 * 123145393602560 sort url list
+INFO: 23-08-21 20:06:05: webpage_crawler.py:39 * 123145393602560 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:06:06: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:06:08: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:06:08: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 20:06:33: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:06:33: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:06:33: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:06:33: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:06:33: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:06:33: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:06:33: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:06:33: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:06:33: url_table.py:52 * 123145339531264 sort url list
+INFO: 23-08-21 20:06:33: webpage_crawler.py:39 * 123145339531264 start get url:http://www.baidu.com
+INFO: 23-08-21 20:06:33: webpage_parser.py:64 * 123145339531264 len url: 0
+INFO: 23-08-21 20:06:33: webpage_saver.py:72 * 123145339531264 cur url: http://www.baidu.com
+INFO: 23-08-21 20:06:34: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:06:34: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:06:34: url_table.py:52 * 123145339531264 sort url list
+INFO: 23-08-21 20:06:34: webpage_crawler.py:39 * 123145339531264 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:06:35: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:06:37: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:06:37: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 20:07:18: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:07:18: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:07:18: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:07:18: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:07:18: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:07:18: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:07:18: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:07:18: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:07:18: url_table.py:52 * 123145543544832 sort url list
+INFO: 23-08-21 20:07:18: webpage_crawler.py:39 * 123145543544832 start get url:http://www.baidu.com
+INFO: 23-08-21 20:07:18: webpage_parser.py:64 * 123145543544832 len url: 0
+INFO: 23-08-21 20:07:18: webpage_saver.py:72 * 123145543544832 cur url: http://www.baidu.com
+INFO: 23-08-21 20:07:19: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:07:19: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:07:19: url_table.py:52 * 123145543544832 sort url list
+INFO: 23-08-21 20:07:19: webpage_crawler.py:39 * 123145543544832 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:07:20: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:07:22: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:07:22: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 20:07:40: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:07:40: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:07:40: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:07:40: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:07:40: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:07:40: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:07:40: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:07:40: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:07:40: url_table.py:52 * 123145448542208 sort url list
+INFO: 23-08-21 20:07:40: webpage_crawler.py:39 * 123145448542208 start get url:http://www.baidu.com
+INFO: 23-08-21 20:07:40: webpage_parser.py:64 * 123145448542208 len url: 0
+INFO: 23-08-21 20:07:40: webpage_saver.py:72 * 123145448542208 cur url: http://www.baidu.com
+INFO: 23-08-21 20:07:41: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:07:41: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:07:41: url_table.py:52 * 123145448542208 sort url list
+INFO: 23-08-21 20:07:41: webpage_crawler.py:39 * 123145448542208 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:07:42: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:07:44: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:07:44: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 20:08:25: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:08:25: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:08:25: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:08:25: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:08:25: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:08:25: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:08:25: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:08:25: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:08:25: url_table.py:52 * 123145470730240 sort url list
+INFO: 23-08-21 20:08:25: webpage_crawler.py:39 * 123145470730240 start get url:http://www.baidu.com
+INFO: 23-08-21 20:08:25: webpage_parser.py:64 * 123145470730240 len url: 0
+INFO: 23-08-21 20:08:25: webpage_saver.py:72 * 123145470730240 cur url: http://www.baidu.com
+INFO: 23-08-21 20:08:26: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:08:26: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:08:26: url_table.py:52 * 123145470730240 sort url list
+INFO: 23-08-21 20:08:26: webpage_crawler.py:39 * 123145470730240 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:08:27: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:08:29: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:08:29: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 20:09:05: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:09:05: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:09:05: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:09:05: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:09:05: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:09:05: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:09:05: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:09:05: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:09:05: url_table.py:52 * 123145473437696 sort url list
+INFO: 23-08-21 20:09:05: webpage_crawler.py:39 * 123145473437696 start get url:http://www.baidu.com
+INFO: 23-08-21 20:09:05: webpage_parser.py:64 * 123145473437696 len url: 0
+INFO: 23-08-21 20:09:05: webpage_saver.py:72 * 123145473437696 cur url: http://www.baidu.com
+INFO: 23-08-21 20:09:06: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:09:06: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:09:06: url_table.py:52 * 123145473437696 sort url list
+INFO: 23-08-21 20:09:06: webpage_crawler.py:39 * 123145473437696 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:09:07: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:09:09: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:09:09: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 20:10:21: webpage_crawler.py:44 * 123145473437696 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 20:13:55: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:13:55: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:13:55: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:13:55: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:13:55: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:13:55: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:13:55: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:13:55: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:13:55: url_table.py:52 * 123145451327488 sort url list
+INFO: 23-08-21 20:13:55: webpage_crawler.py:39 * 123145451327488 start get url:http://www.baidu.com
+INFO: 23-08-21 20:13:56: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:13:56: url_table.py:52 * 123145451327488 sort url list
+INFO: 23-08-21 20:13:56: webpage_crawler.py:39 * 123145451327488 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:13:57: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:13:59: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:13:59: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 20:15:11: webpage_crawler.py:44 * 123145451327488 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 20:18:34: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:18:34: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:18:34: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:18:34: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:18:34: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:18:34: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:18:34: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:18:34: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:18:34: url_table.py:52 * 123145415630848 sort url list
+INFO: 23-08-21 20:18:34: webpage_crawler.py:39 * 123145415630848 start get url:http://www.baidu.com
+INFO: 23-08-21 20:18:35: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:18:35: url_table.py:52 * 123145415630848 sort url list
+INFO: 23-08-21 20:18:35: webpage_crawler.py:39 * 123145415630848 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:18:36: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:18:38: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:18:38: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 20:19:50: webpage_crawler.py:44 * 123145415630848 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 20:20:19: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:20:19: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:20:19: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:20:19: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:20:19: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:20:19: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:20:19: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:20:19: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:20:19: url_table.py:52 * 123145350610944 sort url list
+INFO: 23-08-21 20:20:19: webpage_crawler.py:39 * 123145350610944 start get url:http://www.baidu.com
+INFO: 23-08-21 20:20:19: webpage_parser.py:67 * 123145350610944 len url: 0
+INFO: 23-08-21 20:20:19: webpage_saver.py:72 * 123145350610944 cur url: http://www.baidu.com
+INFO: 23-08-21 20:20:20: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:20:20: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:20:20: url_table.py:52 * 123145350610944 sort url list
+INFO: 23-08-21 20:20:20: webpage_crawler.py:39 * 123145350610944 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:20:21: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:20:23: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:20:23: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 20:21:35: webpage_crawler.py:44 * 123145350610944 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 20:21:54: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:21:54: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:21:54: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:21:54: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:21:54: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:21:54: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:21:54: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:21:54: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:21:54: url_table.py:52 * 123145489178624 sort url list
+INFO: 23-08-21 20:21:54: webpage_crawler.py:39 * 123145489178624 start get url:http://www.baidu.com
+INFO: 23-08-21 20:21:54: webpage_parser.py:67 * 123145489178624 len url: 0
+INFO: 23-08-21 20:21:54: webpage_saver.py:72 * 123145489178624 cur url: http://www.baidu.com
+INFO: 23-08-21 20:21:55: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:21:55: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:21:55: url_table.py:52 * 123145489178624 sort url list
+INFO: 23-08-21 20:21:55: webpage_crawler.py:39 * 123145489178624 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:21:56: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:21:58: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:21:58: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 20:23:10: webpage_crawler.py:44 * 123145489178624 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 20:29:11: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:29:11: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:29:11: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:29:11: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:29:11: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:29:11: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:29:11: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:29:11: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:29:11: url_table.py:52 * 123145565577216 sort url list
+INFO: 23-08-21 20:29:11: webpage_crawler.py:39 * 123145565577216 start get url:http://www.baidu.com
+INFO: 23-08-21 20:29:11: webpage_parser.py:67 * 123145565577216 len url: 0
+INFO: 23-08-21 20:29:11: webpage_saver.py:72 * 123145565577216 cur url: http://www.baidu.com
+INFO: 23-08-21 20:29:12: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:29:12: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:29:12: url_table.py:52 * 123145565577216 sort url list
+INFO: 23-08-21 20:29:12: webpage_crawler.py:39 * 123145565577216 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:29:13: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:29:15: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:29:15: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 20:30:27: webpage_crawler.py:44 * 123145565577216 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-21 20:31:22: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:31:22: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:31:22: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:31:22: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:31:22: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:31:22: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:31:22: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:31:22: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:31:22: url_table.py:52 * 123145458720768 sort url list
+INFO: 23-08-21 20:31:22: webpage_crawler.py:39 * 123145458720768 start get url:http://www.baidu.com
+INFO: 23-08-21 20:31:22: webpage_parser.py:67 * 123145458720768 len url: 0
+INFO: 23-08-21 20:31:22: webpage_saver.py:72 * 123145458720768 cur url: http://www.baidu.com
+INFO: 23-08-21 20:31:23: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:31:23: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:31:23: url_table.py:52 * 123145458720768 sort url list
+INFO: 23-08-21 20:31:23: webpage_crawler.py:39 * 123145458720768 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:31:24: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:31:26: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:31:26: mini_spider.py:149 * 140704362206976 spider end
+INFO: 23-08-21 20:32:00: mini_spider.py:39 * 140704362206976 Init Mini_spider
+INFO: 23-08-21 20:32:00: mini_spider.py:138 * 140704362206976 begin to run...
+INFO: 23-08-21 20:32:00: mini_spider.py:47 * 140704362206976 init
+INFO: 23-08-21 20:32:00: mini_spider.py:49 * 140704362206976 read config file:spider.conf
+INFO: 23-08-21 20:32:00: mini_spider.py:68 * 140704362206976 init crawler.
+INFO: 23-08-21 20:32:00: mini_spider.py:71 * 140704362206976 init parser.
+INFO: 23-08-21 20:32:00: mini_spider.py:74 * 140704362206976 init saver.
+INFO: 23-08-21 20:32:00: mini_spider.py:77 * 140704362206976 init thread_pool.
+INFO: 23-08-21 20:32:00: url_table.py:52 * 123145321160704 sort url list
+INFO: 23-08-21 20:32:00: webpage_crawler.py:39 * 123145321160704 start get url:http://www.baidu.com
+INFO: 23-08-21 20:32:00: webpage_parser.py:67 * 123145321160704 len url: 0
+INFO: 23-08-21 20:32:00: webpage_saver.py:72 * 123145321160704 cur url: http://www.baidu.com
+INFO: 23-08-21 20:32:01: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:32:01: thread_pool.py:83 * 140704362206976 have thread finish
+INFO: 23-08-21 20:32:01: url_table.py:52 * 123145321160704 sort url list
+INFO: 23-08-21 20:32:01: webpage_crawler.py:39 * 123145321160704 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-21 20:32:02: mini_spider.py:154 * 140704362206976 sleep: 1
+INFO: 23-08-21 20:32:04: mini_spider.py:129 * 140704362206976 finish
+INFO: 23-08-21 20:32:04: mini_spider.py:149 * 140704362206976 spider end
+WARNING: 23-08-21 20:33:16: webpage_crawler.py:44 * 123145321160704 url error:http://pycm.baidu.com:8081 <urlopen error [Errno 60] Operation timed out>
+INFO: 23-08-22 17:34:19: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 17:34:19: mini_spider.py:138 * 140704542533376 begin to run...
+INFO: 23-08-22 17:34:19: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 17:34:19: mini_spider.py:49 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 17:34:19: mini_spider.py:68 * 140704542533376 init crawler.
+INFO: 23-08-22 17:34:19: mini_spider.py:71 * 140704542533376 init parser.
+INFO: 23-08-22 17:34:19: mini_spider.py:74 * 140704542533376 init saver.
+INFO: 23-08-22 17:34:19: mini_spider.py:77 * 140704542533376 init thread_pool.
+INFO: 23-08-22 17:34:19: url_table.py:52 * 123145473667072 sort url list
+INFO: 23-08-22 17:34:19: webpage_crawler.py:39 * 123145473667072 start get url:http://www.baidu.com
+INFO: 23-08-22 17:34:19: webpage_parser.py:67 * 123145473667072 len url: 0
+INFO: 23-08-22 17:34:19: webpage_saver.py:72 * 123145473667072 cur url: http://www.baidu.com
+INFO: 23-08-22 17:34:20: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 17:34:20: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 17:34:20: url_table.py:52 * 123145473667072 sort url list
+INFO: 23-08-22 17:34:20: webpage_crawler.py:39 * 123145473667072 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 17:34:21: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 17:34:23: mini_spider.py:129 * 140704542533376 finish
+INFO: 23-08-22 17:34:23: mini_spider.py:149 * 140704542533376 spider end
+WARNING: 23-08-22 17:35:20: webpage_crawler.py:44 * 123145473667072 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 17:35:57: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 17:35:57: mini_spider.py:138 * 140704542533376 begin to run...
+INFO: 23-08-22 17:35:57: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 17:35:57: mini_spider.py:49 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 17:35:57: mini_spider.py:68 * 140704542533376 init crawler.
+INFO: 23-08-22 17:35:57: mini_spider.py:71 * 140704542533376 init parser.
+INFO: 23-08-22 17:35:57: mini_spider.py:74 * 140704542533376 init saver.
+INFO: 23-08-22 17:35:57: mini_spider.py:77 * 140704542533376 init thread_pool.
+INFO: 23-08-22 17:35:57: url_table.py:52 * 123145503551488 sort url list
+INFO: 23-08-22 17:35:57: webpage_crawler.py:39 * 123145503551488 start get url:http://www.baidu.com
+INFO: 23-08-22 17:35:58: webpage_parser.py:67 * 123145503551488 len url: 0
+INFO: 23-08-22 17:35:58: webpage_saver.py:72 * 123145503551488 cur url: http://www.baidu.com
+INFO: 23-08-22 17:35:58: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 17:35:58: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 17:35:58: url_table.py:52 * 123145503551488 sort url list
+INFO: 23-08-22 17:35:58: webpage_crawler.py:39 * 123145503551488 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 17:35:59: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 17:36:01: mini_spider.py:129 * 140704542533376 finish
+INFO: 23-08-22 17:36:01: mini_spider.py:149 * 140704542533376 spider end
+WARNING: 23-08-22 17:36:58: webpage_crawler.py:44 * 123145503551488 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 18:02:36: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 18:02:36: mini_spider.py:138 * 140704542533376 begin to run...
+INFO: 23-08-22 18:02:36: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 18:02:36: mini_spider.py:49 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 18:02:36: mini_spider.py:68 * 140704542533376 init crawler.
+INFO: 23-08-22 18:02:36: mini_spider.py:71 * 140704542533376 init parser.
+INFO: 23-08-22 18:02:36: mini_spider.py:74 * 140704542533376 init saver.
+INFO: 23-08-22 18:02:36: mini_spider.py:77 * 140704542533376 init thread_pool.
+INFO: 23-08-22 18:02:36: url_table.py:52 * 123145575116800 sort url list
+INFO: 23-08-22 18:02:36: webpage_crawler.py:39 * 123145575116800 start get url:http://www.baidu.com
+INFO: 23-08-22 18:02:36: webpage_parser.py:67 * 123145575116800 len url: 0
+INFO: 23-08-22 18:02:36: webpage_saver.py:72 * 123145575116800 cur url: http://www.baidu.com
+INFO: 23-08-22 18:02:37: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 18:02:37: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 18:02:37: url_table.py:52 * 123145575116800 sort url list
+INFO: 23-08-22 18:02:37: webpage_crawler.py:39 * 123145575116800 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 18:02:38: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 18:02:40: mini_spider.py:129 * 140704542533376 finish
+INFO: 23-08-22 18:02:40: mini_spider.py:149 * 140704542533376 spider end
+WARNING: 23-08-22 18:03:37: webpage_crawler.py:44 * 123145575116800 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
