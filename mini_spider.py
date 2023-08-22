@@ -30,7 +30,8 @@ class MiniSpider(object):
         conf:文件配置
     """    
     def __init__(self, conf):
-        """Init Mini_spider class and variables
+        """
+        Init Mini_spider class and variables
         Args:   conf:配置文件
         Return:
         """
@@ -46,16 +47,7 @@ class MiniSpider(object):
         """
         self.logger.info('init')
         try:
-            self.logger.info("read config file:%s" % (self.conf))
-            self.config = configparser.ConfigParser()
-            self.config.read(self.conf)
-            self.url_list_file = self.config.get("spider", "url_list_file")
-            self.output_dir = self.config.get("spider", "output_directory")
-            self.max_depth = self.config.getint("spider", "max_depth")
-            self.crawl_interval = self.config.getint("spider", "crawl_interval")
-            self.crawl_timeout = self.config.getint("spider", "crawl_timeout")
-            self.target_url = self.config.get("spider", "target_url")
-            self.thread_count = self.config.getint("spider", "thread_count")
+            self.read_config_file()
         except configparser.Error as e: 
             self.logger.warn(e)
             return -1
@@ -65,19 +57,40 @@ class MiniSpider(object):
             self.logger.warn('init url queue fail,return...')
             return -1 
         #初始化抓取类
-        self.logger.info('init crawler.')
-        page_crawler = webpage_crawler.WebpageCrawler(self.logger)
+        self.init_crawler()
         #初始化解析类
-        self.logger.info('init parser.')
-        page_parser = webpage_parser.WebpageParser(self.logger, self.max_depth)
+        self.init_parser()
         #初始化保存类
-        self.logger.info('init saver.')
-        page_saver = webpage_saver.WebpageSaver(self.logger, self.target_url, self.output_dir)
+        self.init_saver()
         #初始化线程池
-        self.logger.info('init thread_pool.')
-        self.thread_pools = thread_pool.ThreadPool(self.logger, self.thread_count, page_crawler,\
-                            page_parser, page_saver, self.url_queue)
+        self.init_thread_pool()
         return 0
+    def init_thread_pool(self):
+        """
+        初始化线程池。
+        """
+        self.logger.info('init thread_pool.')
+        self.thread_pools = thread_pool.ThreadPool(self.logger, self.thread_count, 
+                                               self.init_crawler(),
+                                               self.init_parser(), 
+                                               self.init_saver(), 
+                                               self.url_queue)
+        return self.thread_pools
+
+    def read_config_file(self):
+        """
+        读取配置文件，并获取相关的配置参数。
+        """
+        self.logger.info("read config file:%s" % (self.conf))
+        self.config = configparser.ConfigParser()
+        self.config.read(self.conf)
+        self.url_list_file = self.config.get("spider", "url_list_file")
+        self.output_dir = self.config.get("spider", "output_directory")
+        self.max_depth = self.config.getint("spider", "max_depth")
+        self.crawl_interval = self.config.getint("spider", "crawl_interval")
+        self.crawl_timeout = self.config.getint("spider", "crawl_timeout")
+        self.target_url = self.config.get("spider", "target_url")
+        self.thread_count = self.config.getint("spider", "thread_count")
 
     def init_url_queue(self):
         """初始化url_queue
@@ -102,6 +115,29 @@ class MiniSpider(object):
         url_queue.add_url_node_list(father_node_list)
         return url_queue 
 
+    def init_crawler(self):
+        """
+        初始化抓取类。
+        """
+        self.logger.info('init crawler.')
+        page_crawler = webpage_crawler.WebpageCrawler(self.logger)
+        return page_crawler
+
+    def init_parser(self):
+        """
+        初始化解析类。
+        """
+        self.logger.info('init parser.')
+        page_parser = webpage_parser.WebpageParser(self.logger, self.max_depth)
+        return page_parser
+
+    def init_saver(self):
+        """
+        初始化保存类。
+        """
+        self.logger.info('init saver.')
+        page_saver = webpage_saver.WebpageSaver(self.logger, self.target_url, self.output_dir)
+        return page_saver
     def get_url_list(self, path):
         """读取url列表
         Args:   文件目录

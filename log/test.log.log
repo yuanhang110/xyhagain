@@ -1716,3 +1716,798 @@ INFO: 23-08-22 18:02:38: mini_spider.py:154 * 140704542533376 sleep: 1
 INFO: 23-08-22 18:02:40: mini_spider.py:129 * 140704542533376 finish
 INFO: 23-08-22 18:02:40: mini_spider.py:149 * 140704542533376 spider end
 WARNING: 23-08-22 18:03:37: webpage_crawler.py:44 * 123145575116800 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 19:33:01: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 19:33:01: mini_spider.py:138 * 140704542533376 begin to run...
+INFO: 23-08-22 19:33:01: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 19:33:01: mini_spider.py:49 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 19:33:01: mini_spider.py:68 * 140704542533376 init crawler.
+INFO: 23-08-22 19:33:01: mini_spider.py:71 * 140704542533376 init parser.
+INFO: 23-08-22 19:33:01: mini_spider.py:74 * 140704542533376 init saver.
+INFO: 23-08-22 19:33:01: mini_spider.py:77 * 140704542533376 init thread_pool.
+INFO: 23-08-22 19:33:01: url_table.py:52 * 123145586159616 sort url list
+INFO: 23-08-22 19:33:01: webpage_crawler.py:39 * 123145586159616 start get url:http://www.baidu.com
+INFO: 23-08-22 19:33:01: webpage_parser.py:67 * 123145586159616 len url: 0
+INFO: 23-08-22 19:33:01: webpage_saver.py:72 * 123145586159616 cur url: http://www.baidu.com
+INFO: 23-08-22 19:33:02: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 19:33:02: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 19:33:02: url_table.py:52 * 123145586159616 sort url list
+INFO: 23-08-22 19:33:02: webpage_crawler.py:39 * 123145586159616 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 19:33:03: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 19:33:05: mini_spider.py:129 * 140704542533376 finish
+INFO: 23-08-22 19:33:05: mini_spider.py:149 * 140704542533376 spider end
+WARNING: 23-08-22 19:34:02: webpage_crawler.py:44 * 123145586159616 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 19:36:03: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 19:36:03: mini_spider.py:138 * 140704542533376 begin to run...
+INFO: 23-08-22 19:36:03: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 19:36:03: mini_spider.py:49 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 19:36:03: mini_spider.py:68 * 140704542533376 init crawler.
+INFO: 23-08-22 19:36:03: mini_spider.py:71 * 140704542533376 init parser.
+INFO: 23-08-22 19:36:03: mini_spider.py:74 * 140704542533376 init saver.
+INFO: 23-08-22 19:36:03: mini_spider.py:77 * 140704542533376 init thread_pool.
+INFO: 23-08-22 19:36:03: url_table.py:52 * 123145400000512 sort url list
+INFO: 23-08-22 19:36:03: webpage_crawler.py:39 * 123145400000512 start get url:http://www.baidu.com
+INFO: 23-08-22 19:36:03: webpage_parser.py:67 * 123145400000512 len url: 0
+INFO: 23-08-22 19:36:03: webpage_saver.py:72 * 123145400000512 cur url: http://www.baidu.com
+INFO: 23-08-22 19:36:04: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 19:36:04: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 19:36:04: url_table.py:52 * 123145400000512 sort url list
+INFO: 23-08-22 19:36:04: webpage_crawler.py:39 * 123145400000512 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 19:36:05: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 19:36:07: mini_spider.py:129 * 140704542533376 finish
+INFO: 23-08-22 19:36:07: mini_spider.py:149 * 140704542533376 spider end
+WARNING: 23-08-22 19:37:04: webpage_crawler.py:44 * 123145400000512 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 19:44:44: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 19:44:44: mini_spider.py:220 * 140704542533376 begin to run...
+INFO: 23-08-22 19:44:44: mini_spider.py:88 * 140704542533376 init
+INFO: 23-08-22 19:44:44: mini_spider.py:106 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 19:44:44: mini_spider.py:135 * 140704542533376 init crawler.
+INFO: 23-08-22 19:44:44: mini_spider.py:143 * 140704542533376 init parser.
+INFO: 23-08-22 19:44:44: mini_spider.py:151 * 140704542533376 init saver.
+INFO: 23-08-22 19:44:44: mini_spider.py:158 * 140704542533376 init thread_pool.
+INFO: 23-08-22 19:45:05: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 19:45:05: mini_spider.py:219 * 140704542533376 begin to run...
+INFO: 23-08-22 19:45:05: mini_spider.py:88 * 140704542533376 init
+INFO: 23-08-22 19:45:05: mini_spider.py:106 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 19:45:05: mini_spider.py:135 * 140704542533376 init crawler.
+INFO: 23-08-22 19:45:05: mini_spider.py:143 * 140704542533376 init parser.
+INFO: 23-08-22 19:45:05: mini_spider.py:151 * 140704542533376 init saver.
+INFO: 23-08-22 19:45:05: mini_spider.py:158 * 140704542533376 init thread_pool.
+INFO: 23-08-22 19:46:54: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 19:46:54: mini_spider.py:219 * 140704542533376 begin to run...
+INFO: 23-08-22 19:46:54: mini_spider.py:88 * 140704542533376 init
+INFO: 23-08-22 19:46:54: mini_spider.py:106 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 19:46:54: mini_spider.py:135 * 140704542533376 init crawler.
+INFO: 23-08-22 19:46:54: mini_spider.py:143 * 140704542533376 init parser.
+INFO: 23-08-22 19:46:54: mini_spider.py:151 * 140704542533376 init saver.
+INFO: 23-08-22 19:46:54: mini_spider.py:158 * 140704542533376 init thread_pool.
+INFO: 23-08-22 19:52:48: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 19:52:48: mini_spider.py:222 * 140704542533376 begin to run...
+INFO: 23-08-22 19:52:48: mini_spider.py:88 * 140704542533376 init
+INFO: 23-08-22 19:52:48: mini_spider.py:106 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 19:52:48: mini_spider.py:135 * 140704542533376 init crawler.
+INFO: 23-08-22 19:52:48: mini_spider.py:143 * 140704542533376 init parser.
+INFO: 23-08-22 19:52:48: mini_spider.py:151 * 140704542533376 init saver.
+INFO: 23-08-22 19:52:48: mini_spider.py:158 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:05:03: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:05:03: mini_spider.py:225 * 140704542533376 begin to run...
+INFO: 23-08-22 20:05:03: mini_spider.py:88 * 140704542533376 init
+INFO: 23-08-22 20:05:03: mini_spider.py:108 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:05:03: mini_spider.py:137 * 140704542533376 init crawler.
+INFO: 23-08-22 20:05:03: mini_spider.py:145 * 140704542533376 init parser.
+INFO: 23-08-22 20:05:03: mini_spider.py:153 * 140704542533376 init saver.
+INFO: 23-08-22 20:05:03: mini_spider.py:96 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:05:03: mini_spider.py:137 * 140704542533376 init crawler.
+INFO: 23-08-22 20:05:03: mini_spider.py:145 * 140704542533376 init parser.
+INFO: 23-08-22 20:05:03: mini_spider.py:153 * 140704542533376 init saver.
+INFO: 23-08-22 20:06:04: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:06:04: mini_spider.py:225 * 140704542533376 begin to run...
+INFO: 23-08-22 20:06:04: mini_spider.py:88 * 140704542533376 init
+INFO: 23-08-22 20:06:04: mini_spider.py:108 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:06:04: mini_spider.py:137 * 140704542533376 init crawler.
+INFO: 23-08-22 20:06:04: mini_spider.py:145 * 140704542533376 init parser.
+INFO: 23-08-22 20:06:04: mini_spider.py:153 * 140704542533376 init saver.
+INFO: 23-08-22 20:06:04: mini_spider.py:96 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:06:04: mini_spider.py:137 * 140704542533376 init crawler.
+INFO: 23-08-22 20:06:04: mini_spider.py:145 * 140704542533376 init parser.
+INFO: 23-08-22 20:06:04: mini_spider.py:153 * 140704542533376 init saver.
+INFO: 23-08-22 20:06:04: url_table.py:52 * 123145439215616 sort url list
+INFO: 23-08-22 20:06:04: webpage_crawler.py:39 * 123145439215616 start get url:http://www.baidu.com
+INFO: 23-08-22 20:06:05: webpage_parser.py:67 * 123145439215616 len url: 0
+INFO: 23-08-22 20:06:05: webpage_saver.py:72 * 123145439215616 cur url: http://www.baidu.com
+INFO: 23-08-22 20:06:05: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:05: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:05: url_table.py:52 * 123145439215616 sort url list
+INFO: 23-08-22 20:06:05: webpage_crawler.py:39 * 123145439215616 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:06:06: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:07: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:07: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:08: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:08: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:09: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:09: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:10: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:10: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:11: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:11: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:12: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:12: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:13: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:13: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:14: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:14: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:15: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:15: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:16: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:16: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:17: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:17: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:18: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:18: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:19: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:19: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:20: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:20: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:21: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:21: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:22: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:22: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:23: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:23: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:24: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:24: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:25: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:25: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:26: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:26: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:27: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:27: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:28: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:28: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:29: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:29: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:30: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:30: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:31: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:31: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:32: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:32: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:33: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:33: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:34: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:34: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:35: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:35: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:36: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:36: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:37: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:37: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:38: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:38: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:39: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:39: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:40: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:40: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:41: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:41: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:42: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:42: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:43: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:43: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:44: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:44: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:45: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:45: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:47: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:47: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:48: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:48: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:49: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:49: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:50: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:50: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:51: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:51: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:52: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:52: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:53: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:53: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:54: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:54: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:55: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:55: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:56: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:56: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:57: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:57: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:58: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:58: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:06:59: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:06:59: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:00: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:00: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:01: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:01: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:02: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:02: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:03: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:03: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:04: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:04: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:05: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:05: thread_pool.py:83 * 140704542533376 have thread finish
+WARNING: 23-08-22 20:07:05: webpage_crawler.py:44 * 123145439215616 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 20:07:06: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:06: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:07: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:07: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:08: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:08: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:09: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:09: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:10: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:10: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:11: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:11: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:12: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:12: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:13: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:13: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:14: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:14: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:15: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:15: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:17: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:07:17: mini_spider.py:225 * 140704542533376 begin to run...
+INFO: 23-08-22 20:07:17: mini_spider.py:88 * 140704542533376 init
+INFO: 23-08-22 20:07:17: mini_spider.py:108 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:07:17: mini_spider.py:137 * 140704542533376 init crawler.
+INFO: 23-08-22 20:07:17: mini_spider.py:145 * 140704542533376 init parser.
+INFO: 23-08-22 20:07:17: mini_spider.py:153 * 140704542533376 init saver.
+INFO: 23-08-22 20:07:17: mini_spider.py:96 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:07:17: mini_spider.py:137 * 140704542533376 init crawler.
+INFO: 23-08-22 20:07:17: mini_spider.py:145 * 140704542533376 init parser.
+INFO: 23-08-22 20:07:17: mini_spider.py:153 * 140704542533376 init saver.
+INFO: 23-08-22 20:07:17: url_table.py:52 * 123145356820480 sort url list
+INFO: 23-08-22 20:07:17: webpage_crawler.py:39 * 123145356820480 start get url:http://www.baidu.com
+INFO: 23-08-22 20:07:17: webpage_parser.py:67 * 123145356820480 len url: 0
+INFO: 23-08-22 20:07:17: webpage_saver.py:72 * 123145356820480 cur url: http://www.baidu.com
+INFO: 23-08-22 20:07:18: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:18: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:18: url_table.py:52 * 123145356820480 sort url list
+INFO: 23-08-22 20:07:18: webpage_crawler.py:39 * 123145356820480 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:07:19: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:20: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:20: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:21: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:21: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:22: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:22: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:23: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:23: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:24: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:24: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:25: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:25: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:26: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:26: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:27: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:27: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:28: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:28: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:29: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:29: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:30: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:30: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:31: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:31: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:32: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:32: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:33: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:33: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:34: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:34: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:35: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:35: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:36: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:36: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:37: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:37: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:38: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:38: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:39: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:39: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:40: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:40: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:41: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:41: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:42: mini_spider.py:241 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:07:42: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:07:44: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:07:44: mini_spider.py:225 * 140704542533376 begin to run...
+INFO: 23-08-22 20:07:44: mini_spider.py:88 * 140704542533376 init
+INFO: 23-08-22 20:07:44: mini_spider.py:108 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:07:44: mini_spider.py:137 * 140704542533376 init crawler.
+INFO: 23-08-22 20:07:44: mini_spider.py:145 * 140704542533376 init parser.
+INFO: 23-08-22 20:07:44: mini_spider.py:153 * 140704542533376 init saver.
+INFO: 23-08-22 20:07:44: mini_spider.py:96 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:07:44: mini_spider.py:137 * 140704542533376 init crawler.
+INFO: 23-08-22 20:07:44: mini_spider.py:145 * 140704542533376 init parser.
+INFO: 23-08-22 20:07:44: mini_spider.py:153 * 140704542533376 init saver.
+INFO: 23-08-22 20:11:42: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:11:42: mini_spider.py:218 * 140704542533376 begin to run...
+INFO: 23-08-22 20:11:42: mini_spider.py:88 * 140704542533376 init
+INFO: 23-08-22 20:11:42: mini_spider.py:112 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:11:42: mini_spider.py:130 * 140704542533376 init crawler.
+INFO: 23-08-22 20:11:42: mini_spider.py:138 * 140704542533376 init parser.
+INFO: 23-08-22 20:11:42: mini_spider.py:146 * 140704542533376 init saver.
+INFO: 23-08-22 20:11:42: mini_spider.py:100 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:11:42: mini_spider.py:130 * 140704542533376 init crawler.
+INFO: 23-08-22 20:11:42: mini_spider.py:138 * 140704542533376 init parser.
+INFO: 23-08-22 20:11:42: mini_spider.py:146 * 140704542533376 init saver.
+INFO: 23-08-22 20:11:42: url_table.py:52 * 123145324994560 sort url list
+INFO: 23-08-22 20:11:42: webpage_crawler.py:39 * 123145324994560 start get url:http://www.baidu.com
+INFO: 23-08-22 20:11:42: webpage_parser.py:67 * 123145324994560 len url: 0
+INFO: 23-08-22 20:11:42: webpage_saver.py:72 * 123145324994560 cur url: http://www.baidu.com
+INFO: 23-08-22 20:11:43: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:43: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:43: url_table.py:52 * 123145324994560 sort url list
+INFO: 23-08-22 20:11:43: webpage_crawler.py:39 * 123145324994560 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:11:44: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:45: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:45: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:46: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:46: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:47: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:47: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:48: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:48: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:49: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:49: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:50: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:50: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:51: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:51: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:52: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:52: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:53: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:53: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:54: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:54: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:55: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:55: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:56: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:56: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:57: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:57: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:58: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:58: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:11:59: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:11:59: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:00: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:00: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:01: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:01: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:02: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:02: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:03: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:03: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:04: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:04: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:05: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:05: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:06: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:06: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:07: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:07: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:08: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:08: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:09: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:09: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:10: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:10: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:11: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:11: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:12: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:12: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:13: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:13: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:14: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:14: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:15: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:15: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:16: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:16: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:17: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:17: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:18: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:18: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:19: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:19: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:20: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:20: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:21: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:21: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:22: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:22: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:23: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:23: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:24: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:24: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:25: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:25: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:26: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:26: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:27: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:27: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:28: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:28: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:29: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:29: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:30: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:30: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:31: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:31: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:32: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:32: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:33: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:33: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:34: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:34: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:35: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:35: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:36: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:36: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:37: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:37: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:38: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:38: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:39: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:39: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:40: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:40: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:41: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:41: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:42: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:42: thread_pool.py:83 * 140704542533376 have thread finish
+WARNING: 23-08-22 20:12:43: webpage_crawler.py:44 * 123145324994560 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 20:12:43: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:43: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:44: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:44: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:45: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:45: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:46: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:46: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:47: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:47: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:48: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:48: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:49: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:49: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:50: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:50: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:51: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:51: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:52: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:52: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:53: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:53: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:54: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:54: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:55: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:55: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:56: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:56: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:57: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:57: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:58: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:58: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:12:59: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:12:59: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:00: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:00: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:01: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:01: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:02: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:02: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:03: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:03: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:04: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:04: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:05: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:05: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:06: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:06: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:07: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:07: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:08: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:08: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:09: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:09: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:10: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:10: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:11: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:11: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:12: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:12: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:13: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:13: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:14: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:14: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:15: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:15: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:16: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:16: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:17: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:17: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:18: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:18: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:19: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:19: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:20: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:20: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:21: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:21: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:22: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:22: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:23: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:23: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:24: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:24: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:25: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:25: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:26: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:26: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:27: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:27: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:28: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:28: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:29: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:29: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:30: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:30: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:31: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:31: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:32: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:32: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:33: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:33: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:34: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:34: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:35: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:35: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:36: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:36: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:37: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:37: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:38: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:38: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:39: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:39: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:40: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:40: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:41: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:41: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:42: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:42: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:43: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:43: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:44: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:44: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:45: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:45: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:46: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:46: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:47: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:47: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:48: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:48: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:49: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:49: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:50: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:50: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:51: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:51: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:52: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:52: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:53: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:53: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:54: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:54: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:55: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:55: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:56: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:56: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:57: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:57: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:58: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:58: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:13:59: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:13:59: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:00: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:00: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:01: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:01: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:02: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:02: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:03: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:03: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:04: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:04: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:05: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:05: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:06: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:06: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:07: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:07: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:08: mini_spider.py:234 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:08: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:10: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:14:10: mini_spider.py:138 * 140704542533376 begin to run...
+INFO: 23-08-22 20:14:10: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 20:14:10: mini_spider.py:49 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:14:10: mini_spider.py:68 * 140704542533376 init crawler.
+INFO: 23-08-22 20:14:10: mini_spider.py:71 * 140704542533376 init parser.
+INFO: 23-08-22 20:14:10: mini_spider.py:74 * 140704542533376 init saver.
+INFO: 23-08-22 20:14:10: mini_spider.py:77 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:14:10: url_table.py:52 * 123145365999616 sort url list
+INFO: 23-08-22 20:14:10: webpage_crawler.py:39 * 123145365999616 start get url:http://www.baidu.com
+INFO: 23-08-22 20:14:10: webpage_parser.py:67 * 123145365999616 len url: 0
+INFO: 23-08-22 20:14:10: webpage_saver.py:72 * 123145365999616 cur url: http://www.baidu.com
+INFO: 23-08-22 20:14:11: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:11: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:14:11: url_table.py:52 * 123145365999616 sort url list
+INFO: 23-08-22 20:14:11: webpage_crawler.py:39 * 123145365999616 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:14:12: mini_spider.py:154 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:14:14: mini_spider.py:129 * 140704542533376 finish
+INFO: 23-08-22 20:14:14: mini_spider.py:149 * 140704542533376 spider end
+WARNING: 23-08-22 20:15:11: webpage_crawler.py:44 * 123145365999616 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 20:28:15: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:28:15: mini_spider.py:144 * 140704542533376 begin to run...
+INFO: 23-08-22 20:28:15: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 20:28:15: mini_spider.py:77 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:28:15: mini_spider.py:59 * 140704542533376 init crawler.
+INFO: 23-08-22 20:28:15: mini_spider.py:62 * 140704542533376 init parser.
+INFO: 23-08-22 20:28:15: mini_spider.py:65 * 140704542533376 init saver.
+INFO: 23-08-22 20:28:15: mini_spider.py:68 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:28:15: url_table.py:52 * 123145556946944 sort url list
+INFO: 23-08-22 20:28:15: webpage_crawler.py:39 * 123145556946944 start get url:http://www.baidu.com
+INFO: 23-08-22 20:28:15: webpage_parser.py:67 * 123145556946944 len url: 0
+INFO: 23-08-22 20:28:15: webpage_saver.py:72 * 123145556946944 cur url: http://www.baidu.com
+INFO: 23-08-22 20:28:16: mini_spider.py:160 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:28:16: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:28:16: url_table.py:52 * 123145556946944 sort url list
+INFO: 23-08-22 20:28:16: webpage_crawler.py:39 * 123145556946944 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:28:17: mini_spider.py:160 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:28:19: mini_spider.py:135 * 140704542533376 finish
+INFO: 23-08-22 20:28:19: mini_spider.py:155 * 140704542533376 spider end
+WARNING: 23-08-22 20:29:16: webpage_crawler.py:44 * 123145556946944 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 20:30:46: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:30:46: mini_spider.py:161 * 140704542533376 begin to run...
+INFO: 23-08-22 20:30:46: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 20:30:46: mini_spider.py:71 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:30:46: mini_spider.py:109 * 140704542533376 init crawler.
+INFO: 23-08-22 20:30:46: mini_spider.py:117 * 140704542533376 init parser.
+INFO: 23-08-22 20:30:46: mini_spider.py:125 * 140704542533376 init saver.
+INFO: 23-08-22 20:30:46: mini_spider.py:62 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:31:11: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:31:11: mini_spider.py:170 * 140704542533376 begin to run...
+INFO: 23-08-22 20:31:11: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 20:31:11: mini_spider.py:80 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:31:11: mini_spider.py:118 * 140704542533376 init crawler.
+INFO: 23-08-22 20:31:11: mini_spider.py:126 * 140704542533376 init parser.
+INFO: 23-08-22 20:31:11: mini_spider.py:134 * 140704542533376 init saver.
+INFO: 23-08-22 20:31:11: mini_spider.py:62 * 140704542533376 init crawler.
+INFO: 23-08-22 20:31:11: mini_spider.py:65 * 140704542533376 init parser.
+INFO: 23-08-22 20:31:11: mini_spider.py:68 * 140704542533376 init saver.
+INFO: 23-08-22 20:31:11: mini_spider.py:71 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:31:11: url_table.py:52 * 123145511616512 sort url list
+INFO: 23-08-22 20:31:11: webpage_crawler.py:39 * 123145511616512 start get url:http://www.baidu.com
+INFO: 23-08-22 20:31:11: webpage_parser.py:67 * 123145511616512 len url: 0
+INFO: 23-08-22 20:31:11: webpage_saver.py:72 * 123145511616512 cur url: http://www.baidu.com
+INFO: 23-08-22 20:31:12: mini_spider.py:186 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:31:12: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:31:12: url_table.py:52 * 123145511616512 sort url list
+INFO: 23-08-22 20:31:12: webpage_crawler.py:39 * 123145511616512 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:31:13: mini_spider.py:186 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:31:15: mini_spider.py:161 * 140704542533376 finish
+INFO: 23-08-22 20:31:15: mini_spider.py:181 * 140704542533376 spider end
+INFO: 23-08-22 20:31:29: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:31:29: mini_spider.py:169 * 140704542533376 begin to run...
+INFO: 23-08-22 20:31:29: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 20:31:29: mini_spider.py:79 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:31:29: mini_spider.py:117 * 140704542533376 init crawler.
+INFO: 23-08-22 20:31:29: mini_spider.py:125 * 140704542533376 init parser.
+INFO: 23-08-22 20:31:29: mini_spider.py:133 * 140704542533376 init saver.
+INFO: 23-08-22 20:31:29: mini_spider.py:62 * 140704542533376 init crawler.
+INFO: 23-08-22 20:31:29: mini_spider.py:65 * 140704542533376 init parser.
+INFO: 23-08-22 20:31:29: mini_spider.py:68 * 140704542533376 init saver.
+INFO: 23-08-22 20:31:29: mini_spider.py:71 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:31:29: url_table.py:52 * 123145328443392 sort url list
+INFO: 23-08-22 20:31:29: webpage_crawler.py:39 * 123145328443392 start get url:http://www.baidu.com
+INFO: 23-08-22 20:31:29: webpage_parser.py:67 * 123145328443392 len url: 0
+INFO: 23-08-22 20:31:29: webpage_saver.py:72 * 123145328443392 cur url: http://www.baidu.com
+INFO: 23-08-22 20:31:30: mini_spider.py:185 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:31:30: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:31:30: url_table.py:52 * 123145328443392 sort url list
+INFO: 23-08-22 20:31:30: webpage_crawler.py:39 * 123145328443392 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:31:31: mini_spider.py:185 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:31:33: mini_spider.py:160 * 140704542533376 finish
+INFO: 23-08-22 20:31:33: mini_spider.py:180 * 140704542533376 spider end
+WARNING: 23-08-22 20:32:30: webpage_crawler.py:44 * 123145328443392 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 20:33:23: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:33:23: mini_spider.py:166 * 140704542533376 begin to run...
+INFO: 23-08-22 20:33:23: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 20:33:23: mini_spider.py:76 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:33:23: mini_spider.py:114 * 140704542533376 init crawler.
+INFO: 23-08-22 20:33:23: mini_spider.py:122 * 140704542533376 init parser.
+INFO: 23-08-22 20:33:23: mini_spider.py:130 * 140704542533376 init saver.
+INFO: 23-08-22 20:33:23: mini_spider.py:68 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:33:23: url_table.py:52 * 123145522847744 sort url list
+INFO: 23-08-22 20:33:23: webpage_crawler.py:39 * 123145522847744 start get url:http://www.baidu.com
+INFO: 23-08-22 20:33:23: webpage_parser.py:67 * 123145522847744 len url: 0
+INFO: 23-08-22 20:33:23: webpage_saver.py:72 * 123145522847744 cur url: http://www.baidu.com
+INFO: 23-08-22 20:33:24: mini_spider.py:182 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:33:24: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:33:24: url_table.py:52 * 123145522847744 sort url list
+INFO: 23-08-22 20:33:24: webpage_crawler.py:39 * 123145522847744 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:33:25: mini_spider.py:182 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:33:27: mini_spider.py:157 * 140704542533376 finish
+INFO: 23-08-22 20:33:27: mini_spider.py:177 * 140704542533376 spider end
+WARNING: 23-08-22 20:34:24: webpage_crawler.py:44 * 123145522847744 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 20:35:25: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:35:25: mini_spider.py:174 * 140704542533376 begin to run...
+INFO: 23-08-22 20:35:25: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 20:35:25: mini_spider.py:84 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:35:25: mini_spider.py:122 * 140704542533376 init crawler.
+INFO: 23-08-22 20:35:25: mini_spider.py:130 * 140704542533376 init parser.
+INFO: 23-08-22 20:35:25: mini_spider.py:138 * 140704542533376 init saver.
+INFO: 23-08-22 20:35:25: mini_spider.py:65 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:35:25: mini_spider.py:72 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:36:21: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:36:21: mini_spider.py:174 * 140704542533376 begin to run...
+INFO: 23-08-22 20:36:21: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 20:36:21: mini_spider.py:84 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:36:21: mini_spider.py:122 * 140704542533376 init crawler.
+INFO: 23-08-22 20:36:21: mini_spider.py:130 * 140704542533376 init parser.
+INFO: 23-08-22 20:36:21: mini_spider.py:138 * 140704542533376 init saver.
+INFO: 23-08-22 20:36:21: mini_spider.py:65 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:36:21: mini_spider.py:72 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:36:21: mini_spider.py:122 * 140704542533376 init crawler.
+INFO: 23-08-22 20:36:21: mini_spider.py:130 * 140704542533376 init parser.
+INFO: 23-08-22 20:36:21: mini_spider.py:138 * 140704542533376 init saver.
+INFO: 23-08-22 20:36:21: url_table.py:52 * 123145569812480 sort url list
+INFO: 23-08-22 20:36:21: webpage_crawler.py:39 * 123145569812480 start get url:http://www.baidu.com
+INFO: 23-08-22 20:36:21: webpage_parser.py:67 * 123145569812480 len url: 0
+INFO: 23-08-22 20:36:21: webpage_saver.py:72 * 123145569812480 cur url: http://www.baidu.com
+INFO: 23-08-22 20:36:22: mini_spider.py:190 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:36:22: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:36:22: url_table.py:52 * 123145569812480 sort url list
+INFO: 23-08-22 20:36:22: webpage_crawler.py:39 * 123145569812480 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:36:23: mini_spider.py:190 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:36:25: mini_spider.py:165 * 140704542533376 finish
+INFO: 23-08-22 20:36:25: mini_spider.py:185 * 140704542533376 spider end
+WARNING: 23-08-22 20:37:22: webpage_crawler.py:44 * 123145569812480 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-22 20:37:26: mini_spider.py:39 * 140704542533376 Init Mini_spider
+INFO: 23-08-22 20:37:26: mini_spider.py:173 * 140704542533376 begin to run...
+INFO: 23-08-22 20:37:26: mini_spider.py:47 * 140704542533376 init
+INFO: 23-08-22 20:37:26: mini_spider.py:83 * 140704542533376 read config file:spider.conf
+INFO: 23-08-22 20:37:26: mini_spider.py:121 * 140704542533376 init crawler.
+INFO: 23-08-22 20:37:26: mini_spider.py:129 * 140704542533376 init parser.
+INFO: 23-08-22 20:37:26: mini_spider.py:137 * 140704542533376 init saver.
+INFO: 23-08-22 20:37:26: mini_spider.py:71 * 140704542533376 init thread_pool.
+INFO: 23-08-22 20:37:26: mini_spider.py:121 * 140704542533376 init crawler.
+INFO: 23-08-22 20:37:26: mini_spider.py:129 * 140704542533376 init parser.
+INFO: 23-08-22 20:37:26: mini_spider.py:137 * 140704542533376 init saver.
+INFO: 23-08-22 20:37:26: url_table.py:52 * 123145462312960 sort url list
+INFO: 23-08-22 20:37:26: webpage_crawler.py:39 * 123145462312960 start get url:http://www.baidu.com
+INFO: 23-08-22 20:37:26: webpage_parser.py:67 * 123145462312960 len url: 0
+INFO: 23-08-22 20:37:26: webpage_saver.py:72 * 123145462312960 cur url: http://www.baidu.com
+INFO: 23-08-22 20:37:27: mini_spider.py:189 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:37:27: thread_pool.py:83 * 140704542533376 have thread finish
+INFO: 23-08-22 20:37:27: url_table.py:52 * 123145462312960 sort url list
+INFO: 23-08-22 20:37:27: webpage_crawler.py:39 * 123145462312960 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-22 20:37:28: mini_spider.py:189 * 140704542533376 sleep: 1
+INFO: 23-08-22 20:37:30: mini_spider.py:164 * 140704542533376 finish
+INFO: 23-08-22 20:37:30: mini_spider.py:184 * 140704542533376 spider end
+WARNING: 23-08-22 20:38:27: webpage_crawler.py:44 * 123145462312960 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
