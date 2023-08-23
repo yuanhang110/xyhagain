@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>性能平台</title>
+        <style>*{margin:0;padding:0;box-sizing:border-box}html{font-size:5vw}</style>
+        <script>var e=e||[];!function(){var e=document.createElement("script");e.src="https://hm.baidu.com/hm.js?0ab5c89c399def06d4442b16d361f1c1";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}()</script>
+    <link rel="icon" href="//rtad-fe.cdn.bcebos.com/performance/online/favicon.ico"><link href="//rtad-fe.cdn.bcebos.com/performance/online/202308231753/css/vendors.css" rel="stylesheet"><link href="//rtad-fe.cdn.bcebos.com/performance/online/202308231753/css/index.css" rel="stylesheet"></head>
+    <body ontouchstart="">
+        <div id="app"></div>
+    <script src="//rtad-fe.cdn.bcebos.com/performance/online/202308231753/js/vendors.js"></script><script src="//rtad-fe.cdn.bcebos.com/performance/online/202308231753/js/index.js"></script></body>
+</html>

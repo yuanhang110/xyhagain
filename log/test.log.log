@@ -2511,3 +2511,751 @@ INFO: 23-08-22 20:37:28: mini_spider.py:189 * 140704542533376 sleep: 1
 INFO: 23-08-22 20:37:30: mini_spider.py:164 * 140704542533376 finish
 INFO: 23-08-22 20:37:30: mini_spider.py:184 * 140704542533376 spider end
 WARNING: 23-08-22 20:38:27: webpage_crawler.py:44 * 123145462312960 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 10:15:14: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 10:15:14: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 10:15:14: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 10:15:14: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 10:15:14: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 10:15:14: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 10:15:14: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 10:15:14: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 10:15:14: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 10:15:14: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 10:15:14: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 10:15:14: url_table.py:52 * 123145439285248 sort url list
+INFO: 23-08-23 10:15:14: webpage_crawler.py:39 * 123145439285248 start get url:http://www.baidu.com
+INFO: 23-08-23 10:15:14: webpage_parser.py:67 * 123145439285248 len url: 0
+INFO: 23-08-23 10:15:14: webpage_saver.py:72 * 123145439285248 cur url: http://www.baidu.com
+INFO: 23-08-23 10:15:15: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 10:15:15: thread_pool.py:83 * 140704445781760 have thread finish
+INFO: 23-08-23 10:15:15: url_table.py:52 * 123145439285248 sort url list
+INFO: 23-08-23 10:15:15: webpage_crawler.py:39 * 123145439285248 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 10:15:16: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 10:15:18: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 10:15:18: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 10:16:15: webpage_crawler.py:44 * 123145439285248 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 11:42:46: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 11:42:46: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 11:42:46: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 11:42:46: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 11:42:46: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 11:42:46: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 11:42:46: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 11:42:46: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 11:42:46: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 11:42:46: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 11:42:46: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 11:42:46: url_table.py:52 * 123145419243520 sort url list
+INFO: 23-08-23 11:42:46: webpage_crawler.py:39 * 123145419243520 start get url:http://www.baidu.com
+INFO: 23-08-23 11:42:46: webpage_parser.py:67 * 123145419243520 len url: 0
+INFO: 23-08-23 11:42:46: webpage_saver.py:72 * 123145419243520 cur url: http://www.baidu.com
+INFO: 23-08-23 11:42:47: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 11:42:47: thread_pool.py:83 * 140704445781760 have thread finish
+INFO: 23-08-23 11:42:47: url_table.py:52 * 123145419243520 sort url list
+INFO: 23-08-23 11:42:47: webpage_crawler.py:39 * 123145419243520 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 11:42:48: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 11:42:50: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 11:42:50: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 11:43:47: webpage_crawler.py:44 * 123145419243520 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 11:49:48: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 11:49:48: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 11:49:48: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 11:49:48: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 11:49:48: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 11:49:48: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 11:49:48: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 11:49:48: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 11:49:48: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 11:49:48: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 11:49:48: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 11:49:48: url_table.py:52 * 123145406885888 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 11:49:48: webpage_crawler.py:39 * 123145406885888 start get url:http://www.baidu.com
+INFO: 23-08-23 11:49:48: webpage_parser.py:67 * 123145406885888 len url: 0
+INFO: 23-08-23 11:49:48: webpage_saver.py:72 * 123145406885888 cur url: http://www.baidu.com
+INFO: 23-08-23 11:49:49: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 11:49:49: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 11:49:49: url_table.py:52 * 123145406885888 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 11:49:49: webpage_crawler.py:39 * 123145406885888 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 11:49:50: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 11:49:52: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 11:49:52: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 11:50:49: webpage_crawler.py:44 * 123145406885888 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 11:51:30: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 11:51:30: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 11:51:30: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 11:51:30: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 11:51:30: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 11:51:30: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 11:51:30: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 11:51:30: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 11:51:30: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 11:51:30: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 11:51:30: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 11:51:30: url_table.py:52 * 123145427316736 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 11:51:30: webpage_crawler.py:39 * 123145427316736 start get url:http://www.baidu.com
+INFO: 23-08-23 11:51:31: webpage_parser.py:67 * 123145427316736 len url: 0
+INFO: 23-08-23 11:51:31: webpage_saver.py:72 * 123145427316736 cur url: http://www.baidu.com
+INFO: 23-08-23 11:51:31: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 11:51:31: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 11:51:31: url_table.py:52 * 123145427316736 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 11:51:31: webpage_crawler.py:39 * 123145427316736 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 11:51:32: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 11:51:34: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 11:51:34: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 11:52:31: webpage_crawler.py:44 * 123145427316736 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 11:55:06: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 11:55:06: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 11:55:06: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 11:55:06: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 11:55:06: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 11:55:06: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 11:55:06: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 11:55:06: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 11:55:06: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 11:55:06: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 11:55:06: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 11:55:06: url_table.py:52 * 123145421164544 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 11:55:06: webpage_crawler.py:39 * 123145421164544 start get url:http://www.baidu.com
+INFO: 23-08-23 11:55:06: webpage_parser.py:67 * 123145421164544 len url: 0
+INFO: 23-08-23 11:55:06: webpage_saver.py:72 * 123145421164544 cur url: http://www.baidu.com
+INFO: 23-08-23 11:55:07: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 11:55:07: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 11:55:07: url_table.py:52 * 123145421164544 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 11:55:07: webpage_crawler.py:39 * 123145421164544 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 11:55:08: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 11:55:10: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 11:55:10: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 11:56:07: webpage_crawler.py:44 * 123145421164544 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 14:36:43: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 14:36:43: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 14:36:43: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 14:36:43: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 14:36:43: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:36:43: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:36:43: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:36:43: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 14:36:43: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:36:43: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:36:43: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:36:43: url_table.py:52 * 123145423953920 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:36:43: webpage_crawler.py:39 * 123145423953920 start get url:http://www.baidu.com
+INFO: 23-08-23 14:36:44: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:36:44: url_table.py:52 * 123145441816576 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:36:44: webpage_crawler.py:39 * 123145441816576 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 14:36:45: webpage_parser.py:67 * 123145423953920 len url: 0
+INFO: 23-08-23 14:36:45: webpage_saver.py:72 * 123145423953920 cur url: http://www.baidu.com
+INFO: 23-08-23 14:36:45: webpage_saver.py:106 * 123145423953920 url: http://www.baidu.com
+INFO: 23-08-23 14:36:45: webpage_saver.py:111 * 123145423953920 transfer url:http$--www.baidu.com
+INFO: 23-08-23 14:36:45: webpage_saver.py:85 * 123145423953920 write file...
+INFO: 23-08-23 14:36:45: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:36:45: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 14:36:47: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 14:36:47: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 14:37:20: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 14:37:20: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 14:37:20: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 14:37:20: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 14:37:20: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:37:20: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:37:20: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:37:20: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 14:37:20: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:37:20: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:37:20: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:37:20: url_table.py:52 * 123145321787392 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:37:20: webpage_crawler.py:39 * 123145321787392 start get url:http://www.baidu.com
+INFO: 23-08-23 14:37:21: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:37:21: url_table.py:52 * 123145339650048 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:37:21: webpage_crawler.py:39 * 123145339650048 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 14:37:21: webpage_parser.py:67 * 123145321787392 len url: 0
+INFO: 23-08-23 14:37:21: webpage_saver.py:72 * 123145321787392 cur url: http://www.baidu.com
+INFO: 23-08-23 14:37:21: webpage_saver.py:106 * 123145321787392 url: http://www.baidu.com
+INFO: 23-08-23 14:37:21: webpage_saver.py:111 * 123145321787392 transfer url:http$--www.baidu.com
+INFO: 23-08-23 14:37:21: webpage_saver.py:85 * 123145321787392 write file...
+INFO: 23-08-23 14:37:22: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:37:22: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 14:37:24: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 14:37:24: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 14:38:21: webpage_crawler.py:44 * 123145339650048 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 14:39:07: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 14:39:07: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 14:39:07: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 14:39:07: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 14:39:07: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:39:07: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:39:07: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:39:07: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 14:39:07: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:39:07: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:39:07: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:39:07: url_table.py:52 * 123145570492416 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:39:07: webpage_crawler.py:39 * 123145570492416 start get url:http://www.baidu.com
+INFO: 23-08-23 14:39:08: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:39:08: url_table.py:52 * 123145588355072 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:39:08: webpage_crawler.py:39 * 123145588355072 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 14:39:09: webpage_parser.py:67 * 123145570492416 len url: 0
+INFO: 23-08-23 14:39:09: webpage_saver.py:72 * 123145570492416 cur url: http://www.baidu.com
+INFO: 23-08-23 14:39:09: webpage_saver.py:106 * 123145570492416 url: http://www.baidu.com
+INFO: 23-08-23 14:39:09: webpage_saver.py:111 * 123145570492416 transfer url:http$--www.baidu.com
+INFO: 23-08-23 14:39:09: webpage_saver.py:85 * 123145570492416 write file...
+INFO: 23-08-23 14:39:09: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:39:09: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 14:39:11: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 14:39:11: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 14:40:09: webpage_crawler.py:44 * 123145588355072 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 14:42:37: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 14:42:37: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 14:42:37: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 14:42:37: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 14:42:37: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:42:37: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:42:37: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:42:37: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 14:42:37: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:42:37: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:42:37: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:42:37: url_table.py:52 * 123145425952768 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:42:37: webpage_crawler.py:39 * 123145425952768 start get url:http://www.baidu.com
+INFO: 23-08-23 14:42:37: webpage_parser.py:67 * 123145425952768 len url: 0
+INFO: 23-08-23 14:42:37: webpage_saver.py:72 * 123145425952768 cur url: http://www.baidu.com
+INFO: 23-08-23 14:42:37: webpage_saver.py:106 * 123145425952768 url: http://www.baidu.com
+INFO: 23-08-23 14:42:37: webpage_saver.py:111 * 123145425952768 transfer url:http$--www.baidu.com
+INFO: 23-08-23 14:42:37: webpage_saver.py:85 * 123145425952768 write file...
+INFO: 23-08-23 14:42:38: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:42:38: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 14:42:38: url_table.py:52 * 123145425952768 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:42:38: webpage_crawler.py:39 * 123145425952768 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 14:42:39: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:42:41: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 14:42:41: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 14:43:02: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 14:43:02: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 14:43:02: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 14:43:02: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 14:43:02: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:43:02: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:43:02: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:43:02: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 14:43:02: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:43:02: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:43:02: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:43:02: url_table.py:52 * 123145405501440 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:43:02: webpage_crawler.py:39 * 123145405501440 start get url:http://www.baidu.com
+INFO: 23-08-23 14:43:03: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:43:03: url_table.py:52 * 123145423364096 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:43:03: webpage_crawler.py:39 * 123145423364096 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 14:43:03: webpage_parser.py:67 * 123145405501440 len url: 0
+INFO: 23-08-23 14:43:03: webpage_saver.py:72 * 123145405501440 cur url: http://www.baidu.com
+INFO: 23-08-23 14:43:03: webpage_saver.py:106 * 123145405501440 url: http://www.baidu.com
+INFO: 23-08-23 14:43:03: webpage_saver.py:111 * 123145405501440 transfer url:http$--www.baidu.com
+INFO: 23-08-23 14:43:03: webpage_saver.py:85 * 123145405501440 write file...
+INFO: 23-08-23 14:43:04: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:43:04: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 14:43:06: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 14:43:06: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 14:44:03: webpage_crawler.py:44 * 123145423364096 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 14:44:40: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 14:44:40: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 14:44:40: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 14:44:40: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 14:44:40: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:44:40: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:44:40: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:44:40: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 14:44:40: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:44:40: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:44:40: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:44:40: url_table.py:52 * 123145435525120 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:44:40: webpage_crawler.py:39 * 123145435525120 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 14:44:41: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:44:41: url_table.py:52 * 123145453387776 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:44:41: webpage_crawler.py:39 * 123145453387776 start get url:http://www.baidu.com
+INFO: 23-08-23 14:44:42: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:44:42: webpage_parser.py:67 * 123145453387776 len url: 0
+INFO: 23-08-23 14:44:42: webpage_saver.py:72 * 123145453387776 cur url: http://www.baidu.com
+INFO: 23-08-23 14:44:42: webpage_saver.py:106 * 123145453387776 url: http://www.baidu.com
+INFO: 23-08-23 14:44:42: webpage_saver.py:111 * 123145453387776 transfer url:http$--www.baidu.com
+INFO: 23-08-23 14:44:42: webpage_saver.py:85 * 123145453387776 write file...
+INFO: 23-08-23 14:44:44: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 14:44:44: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 14:45:15: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 14:45:15: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 14:45:15: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 14:45:15: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 14:45:15: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:45:15: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:45:15: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:45:15: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 14:45:15: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 14:45:15: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 14:45:15: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 14:45:15: url_table.py:52 * 123145481117696 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:45:15: webpage_crawler.py:39 * 123145481117696 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 14:45:16: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:45:16: url_table.py:52 * 123145498980352 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 14:45:16: webpage_crawler.py:39 * 123145498980352 start get url:http://www.baidu.com
+INFO: 23-08-23 14:45:16: webpage_parser.py:67 * 123145498980352 len url: 0
+INFO: 23-08-23 14:45:16: webpage_saver.py:72 * 123145498980352 cur url: http://www.baidu.com
+INFO: 23-08-23 14:45:16: webpage_saver.py:106 * 123145498980352 url: http://www.baidu.com
+INFO: 23-08-23 14:45:16: webpage_saver.py:111 * 123145498980352 transfer url:http$--www.baidu.com
+INFO: 23-08-23 14:45:16: webpage_saver.py:85 * 123145498980352 write file...
+INFO: 23-08-23 14:45:17: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 14:45:17: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 14:45:19: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 14:45:19: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 14:46:15: webpage_crawler.py:44 * 123145481117696 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 15:52:23: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 15:52:23: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 15:52:23: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 15:52:23: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 15:52:23: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:52:23: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:52:23: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:52:23: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 15:52:23: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:52:23: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:52:23: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:52:23: url_table.py:52 * 123145572286464 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:52:23: webpage_crawler.py:39 * 123145572286464 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 15:52:24: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:52:24: url_table.py:52 * 123145590149120 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:52:24: webpage_crawler.py:39 * 123145590149120 start get url:http://www.baidu.com
+INFO: 23-08-23 15:52:24: webpage_parser.py:67 * 123145590149120 len url: 0
+INFO: 23-08-23 15:52:24: webpage_saver.py:72 * 123145590149120 cur url: http://www.baidu.com
+INFO: 23-08-23 15:52:25: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:52:25: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 15:52:27: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 15:52:27: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 15:52:48: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 15:52:48: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 15:52:48: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 15:52:48: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 15:52:48: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:52:48: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:52:48: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:52:48: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 15:52:48: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:52:48: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:52:48: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:52:48: url_table.py:52 * 123145511858176 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:52:48: webpage_crawler.py:39 * 123145511858176 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 15:52:49: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:52:49: url_table.py:52 * 123145529720832 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:52:49: webpage_crawler.py:39 * 123145529720832 start get url:http://www.baidu.com
+INFO: 23-08-23 15:52:49: webpage_parser.py:67 * 123145529720832 len url: 0
+INFO: 23-08-23 15:52:49: webpage_saver.py:72 * 123145529720832 cur url: http://www.baidu.com
+INFO: 23-08-23 15:52:50: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:52:50: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 15:52:52: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 15:52:52: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 15:53:27: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 15:53:27: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 15:53:27: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 15:53:27: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 15:53:27: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:53:27: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:53:27: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:53:42: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 15:53:42: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 15:53:42: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 15:53:42: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 15:53:42: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:53:42: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:53:42: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:53:42: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 15:53:42: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:53:42: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:53:42: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:53:42: url_table.py:52 * 123145572945920 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:53:42: webpage_crawler.py:39 * 123145572945920 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 15:53:43: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:53:43: url_table.py:52 * 123145590808576 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:53:43: webpage_crawler.py:39 * 123145590808576 start get url:http://www.baidu.com
+INFO: 23-08-23 15:53:44: webpage_parser.py:67 * 123145590808576 len url: 0
+INFO: 23-08-23 15:53:44: webpage_saver.py:72 * 123145590808576 cur url: http://www.baidu.com
+INFO: 23-08-23 15:53:44: webpage_saver.py:106 * 123145590808576 url: http://www.baidu.com
+INFO: 23-08-23 15:53:44: webpage_saver.py:111 * 123145590808576 transfer url:http$--www.baidu.com
+INFO: 23-08-23 15:53:44: webpage_saver.py:85 * 123145590808576 write file...
+INFO: 23-08-23 15:53:44: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:53:44: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 15:53:46: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 15:53:46: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 15:54:35: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 15:54:35: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 15:54:35: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 15:54:35: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 15:54:35: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:54:35: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:54:35: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:54:35: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 15:54:35: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:54:35: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:54:35: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:54:35: url_table.py:52 * 123145500106752 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:54:35: webpage_crawler.py:39 * 123145500106752 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 15:54:36: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:54:36: url_table.py:52 * 123145517969408 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:54:36: webpage_crawler.py:39 * 123145517969408 start get url:http://www.baidu.com
+INFO: 23-08-23 15:54:37: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:54:39: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 15:54:39: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 15:54:52: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 15:54:52: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 15:54:52: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 15:54:52: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 15:54:52: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:54:52: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:54:52: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:54:52: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 15:54:52: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:54:52: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:54:52: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:54:52: url_table.py:52 * 123145440763904 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:54:52: webpage_crawler.py:39 * 123145440763904 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 15:54:53: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:54:53: url_table.py:52 * 123145458626560 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:54:53: webpage_crawler.py:39 * 123145458626560 start get url:http://www.baidu.com
+INFO: 23-08-23 15:54:53: webpage_parser.py:68 * 123145458626560 len url: 0
+INFO: 23-08-23 15:54:53: webpage_saver.py:72 * 123145458626560 cur url: http://www.baidu.com
+INFO: 23-08-23 15:54:53: webpage_saver.py:106 * 123145458626560 url: http://www.baidu.com
+INFO: 23-08-23 15:54:53: webpage_saver.py:111 * 123145458626560 transfer url:http$--www.baidu.com
+INFO: 23-08-23 15:54:53: webpage_saver.py:85 * 123145458626560 write file...
+INFO: 23-08-23 15:54:54: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:54:54: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 15:54:56: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 15:54:56: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 15:55:10: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 15:55:10: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 15:55:10: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 15:55:10: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 15:55:10: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:55:10: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:55:10: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:55:10: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 15:55:10: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:55:10: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:55:10: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:55:10: url_table.py:52 * 123145360207872 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:55:10: webpage_crawler.py:39 * 123145360207872 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 15:55:11: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:55:11: url_table.py:52 * 123145378070528 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:55:11: webpage_crawler.py:39 * 123145378070528 start get url:http://www.baidu.com
+INFO: 23-08-23 15:55:11: webpage_parser.py:68 * 123145378070528 len url: 0
+INFO: 23-08-23 15:55:11: webpage_saver.py:72 * 123145378070528 cur url: http://www.baidu.com
+INFO: 23-08-23 15:55:11: webpage_saver.py:106 * 123145378070528 url: http://www.baidu.com
+INFO: 23-08-23 15:55:11: webpage_saver.py:111 * 123145378070528 transfer url:http$--www.baidu.com
+INFO: 23-08-23 15:55:11: webpage_saver.py:85 * 123145378070528 write file...
+INFO: 23-08-23 15:55:12: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:55:12: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 15:55:14: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 15:55:14: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 15:55:51: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 15:55:51: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 15:55:51: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 15:55:51: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 15:55:51: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:55:51: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:55:51: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:55:51: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 15:55:51: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:55:51: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:55:51: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:55:51: url_table.py:52 * 123145323208704 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:55:51: webpage_crawler.py:39 * 123145323208704 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 15:55:52: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:55:52: url_table.py:52 * 123145341071360 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:55:52: webpage_crawler.py:39 * 123145341071360 start get url:http://www.baidu.com
+INFO: 23-08-23 15:55:52: webpage_parser.py:68 * 123145341071360 len url: 0
+INFO: 23-08-23 15:55:52: webpage_saver.py:72 * 123145341071360 cur url: http://www.baidu.com
+INFO: 23-08-23 15:55:52: webpage_saver.py:106 * 123145341071360 url: http://www.baidu.com
+INFO: 23-08-23 15:55:52: webpage_saver.py:111 * 123145341071360 transfer url:http$--www.baidu.com
+INFO: 23-08-23 15:55:52: webpage_saver.py:85 * 123145341071360 write file...
+INFO: 23-08-23 15:55:53: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:55:53: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 15:55:53: url_table.py:52 * 123145341071360 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:55:53: webpage_crawler.py:39 * 123145341071360 start get url:http://performance.baidu.com/
+INFO: 23-08-23 15:55:53: webpage_parser.py:68 * 123145341071360 len url: 0
+INFO: 23-08-23 15:55:53: webpage_saver.py:72 * 123145341071360 cur url: http://performance.baidu.com/
+INFO: 23-08-23 15:55:53: webpage_saver.py:106 * 123145341071360 url: http://performance.baidu.com/
+INFO: 23-08-23 15:55:53: webpage_saver.py:111 * 123145341071360 transfer url:http$--performance.baidu.com-
+INFO: 23-08-23 15:55:53: webpage_saver.py:85 * 123145341071360 write file...
+INFO: 23-08-23 15:55:54: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 15:55:54: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 15:55:56: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 15:55:56: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 15:56:51: webpage_crawler.py:44 * 123145323208704 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 15:59:59: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 15:59:59: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 15:59:59: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 15:59:59: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 15:59:59: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:59:59: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:59:59: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:59:59: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 15:59:59: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 15:59:59: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 15:59:59: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 15:59:59: url_table.py:52 * 123145580134400 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 15:59:59: webpage_crawler.py:39 * 123145580134400 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 16:00:00: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 16:00:00: url_table.py:52 * 123145597997056 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 16:00:00: webpage_crawler.py:39 * 123145597997056 start get url:http://www.baidu.com
+INFO: 23-08-23 16:00:00: webpage_parser.py:68 * 123145597997056 len url: 0
+INFO: 23-08-23 16:00:00: webpage_saver.py:72 * 123145597997056 cur url: http://www.baidu.com
+INFO: 23-08-23 16:00:00: webpage_saver.py:106 * 123145597997056 url: http://www.baidu.com
+INFO: 23-08-23 16:00:00: webpage_saver.py:111 * 123145597997056 transfer url:http$--www.baidu.com
+INFO: 23-08-23 16:00:00: webpage_saver.py:85 * 123145597997056 write file...
+INFO: 23-08-23 16:00:01: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 16:00:01: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 16:00:01: url_table.py:52 * 123145597997056 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 16:00:01: webpage_crawler.py:39 * 123145597997056 start get url:http://performance.baidu.com/
+INFO: 23-08-23 16:00:01: webpage_parser.py:68 * 123145597997056 len url: 0
+INFO: 23-08-23 16:00:01: webpage_saver.py:72 * 123145597997056 cur url: http://performance.baidu.com/
+INFO: 23-08-23 16:00:01: webpage_saver.py:106 * 123145597997056 url: http://performance.baidu.com/
+INFO: 23-08-23 16:00:01: webpage_saver.py:111 * 123145597997056 transfer url:http$--performance.baidu.com-
+INFO: 23-08-23 16:00:01: webpage_saver.py:85 * 123145597997056 write file...
+INFO: 23-08-23 16:00:02: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 16:00:02: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 16:00:04: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 16:00:04: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 16:00:19: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 16:00:19: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 16:00:19: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 16:00:19: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 16:00:19: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 16:00:19: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 16:00:19: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 16:00:19: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 16:00:19: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 16:00:19: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 16:00:19: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 16:00:19: url_table.py:52 * 123145484697600 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 16:00:19: webpage_crawler.py:39 * 123145484697600 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 16:00:20: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 16:00:20: url_table.py:52 * 123145502560256 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 16:00:20: webpage_crawler.py:39 * 123145502560256 start get url:http://www.baidu.com
+INFO: 23-08-23 16:00:20: webpage_parser.py:68 * 123145502560256 len url: 0
+INFO: 23-08-23 16:00:20: webpage_saver.py:72 * 123145502560256 cur url: http://www.baidu.com
+INFO: 23-08-23 16:00:20: webpage_saver.py:106 * 123145502560256 url: http://www.baidu.com
+INFO: 23-08-23 16:00:20: webpage_saver.py:111 * 123145502560256 transfer url:http$--www.baidu.com
+INFO: 23-08-23 16:00:20: webpage_saver.py:85 * 123145502560256 write file...
+INFO: 23-08-23 16:00:21: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 16:00:21: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 16:00:21: url_table.py:52 * 123145502560256 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 16:00:21: webpage_crawler.py:39 * 123145502560256 start get url:http://performance.baidu.com/
+INFO: 23-08-23 16:00:21: webpage_parser.py:68 * 123145502560256 len url: 0
+INFO: 23-08-23 16:00:21: webpage_saver.py:72 * 123145502560256 cur url: http://performance.baidu.com/
+INFO: 23-08-23 16:00:21: webpage_saver.py:106 * 123145502560256 url: http://performance.baidu.com/
+INFO: 23-08-23 16:00:21: webpage_saver.py:111 * 123145502560256 transfer url:http$--performance.baidu.com-
+INFO: 23-08-23 16:00:21: webpage_saver.py:85 * 123145502560256 write file...
+INFO: 23-08-23 16:00:22: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 16:00:22: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 16:00:24: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 16:00:24: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 19:43:48: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 19:43:48: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 19:43:48: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 19:43:48: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 19:43:48: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:43:48: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:43:48: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:43:48: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 19:43:48: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:43:48: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:43:48: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:43:48: url_table.py:52 * 123145399197696 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:43:48: webpage_crawler.py:39 * 123145399197696 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 19:43:49: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:43:49: url_table.py:52 * 123145417060352 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:43:49: webpage_crawler.py:39 * 123145417060352 start get url:http://www.baidu.com
+INFO: 23-08-23 19:43:49: webpage_parser.py:79 * 123145417060352 len url: 30
+INFO: 23-08-23 19:43:49: webpage_saver.py:72 * 123145417060352 cur url: http://www.baidu.com
+INFO: 23-08-23 19:43:49: webpage_saver.py:106 * 123145417060352 url: http://www.baidu.com
+INFO: 23-08-23 19:43:49: webpage_saver.py:111 * 123145417060352 transfer url:http$--www.baidu.com
+INFO: 23-08-23 19:43:49: webpage_saver.py:85 * 123145417060352 write file...
+INFO: 23-08-23 19:43:50: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:43:50: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:43:50: url_table.py:52 * 123145417060352 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:43:50: webpage_crawler.py:39 * 123145417060352 start get url:http://performance.baidu.com/
+INFO: 23-08-23 19:43:51: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:43:51: webpage_parser.py:79 * 123145417060352 len url: 30
+INFO: 23-08-23 19:43:51: webpage_saver.py:72 * 123145417060352 cur url: http://performance.baidu.com/
+INFO: 23-08-23 19:43:51: webpage_saver.py:106 * 123145417060352 url: http://performance.baidu.com/
+INFO: 23-08-23 19:43:51: webpage_saver.py:111 * 123145417060352 transfer url:http$--performance.baidu.com-
+INFO: 23-08-23 19:43:51: webpage_saver.py:85 * 123145417060352 write file...
+INFO: 23-08-23 19:43:53: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 19:43:53: mini_spider.py:185 * 140704445781760 spider end
+INFO: 23-08-23 19:46:34: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 19:46:34: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 19:46:34: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 19:46:34: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 19:46:34: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:46:34: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:46:34: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:46:34: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 19:46:34: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:46:34: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:46:34: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:46:34: url_table.py:52 * 123145586343936 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:46:34: webpage_crawler.py:39 * 123145586343936 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 19:46:35: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:46:35: url_table.py:52 * 123145604206592 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:46:35: webpage_crawler.py:39 * 123145604206592 start get url:http://www.baidu.com
+INFO: 23-08-23 19:46:35: webpage_parser.py:79 * 123145604206592 len url: 30
+INFO: 23-08-23 19:46:35: webpage_saver.py:72 * 123145604206592 cur url: http://www.baidu.com
+INFO: 23-08-23 19:46:35: webpage_saver.py:106 * 123145604206592 url: http://www.baidu.com
+INFO: 23-08-23 19:46:35: webpage_saver.py:111 * 123145604206592 transfer url:http$--www.baidu.com
+INFO: 23-08-23 19:46:35: webpage_saver.py:85 * 123145604206592 write file...
+INFO: 23-08-23 19:46:36: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:46:36: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:46:36: url_table.py:52 * 123145604206592 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:46:36: webpage_crawler.py:39 * 123145604206592 start get url:http://performance.baidu.com/
+INFO: 23-08-23 19:46:36: webpage_parser.py:79 * 123145604206592 len url: 30
+INFO: 23-08-23 19:46:36: webpage_saver.py:72 * 123145604206592 cur url: http://performance.baidu.com/
+INFO: 23-08-23 19:46:36: webpage_saver.py:106 * 123145604206592 url: http://performance.baidu.com/
+INFO: 23-08-23 19:46:36: webpage_saver.py:111 * 123145604206592 transfer url:http$--performance.baidu.com-
+INFO: 23-08-23 19:46:36: webpage_saver.py:85 * 123145604206592 write file...
+INFO: 23-08-23 19:46:37: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:46:37: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:46:39: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 19:46:39: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 19:47:34: webpage_crawler.py:44 * 123145586343936 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 19:49:14: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 19:49:14: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 19:49:14: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 19:49:14: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 19:49:14: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:49:14: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:49:14: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:49:14: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 19:49:14: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:49:14: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:49:14: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:49:14: url_table.py:52 * 123145442983936 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:49:14: webpage_crawler.py:39 * 123145442983936 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 19:49:15: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:49:15: url_table.py:52 * 123145460846592 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:49:15: webpage_crawler.py:39 * 123145460846592 start get url:http://www.baidu.com
+INFO: 23-08-23 19:49:15: webpage_parser.py:76 * 123145460846592 len url: 30
+INFO: 23-08-23 19:49:15: webpage_saver.py:72 * 123145460846592 cur url: http://www.baidu.com
+INFO: 23-08-23 19:49:15: webpage_saver.py:106 * 123145460846592 url: http://www.baidu.com
+INFO: 23-08-23 19:49:15: webpage_saver.py:111 * 123145460846592 transfer url:http$--www.baidu.com
+INFO: 23-08-23 19:49:15: webpage_saver.py:85 * 123145460846592 write file...
+INFO: 23-08-23 19:49:16: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:49:16: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:49:16: url_table.py:52 * 123145460846592 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:49:16: webpage_crawler.py:39 * 123145460846592 start get url:http://performance.baidu.com/
+INFO: 23-08-23 19:49:16: webpage_parser.py:76 * 123145460846592 len url: 30
+INFO: 23-08-23 19:49:16: webpage_saver.py:72 * 123145460846592 cur url: http://performance.baidu.com/
+INFO: 23-08-23 19:49:16: webpage_saver.py:106 * 123145460846592 url: http://performance.baidu.com/
+INFO: 23-08-23 19:49:16: webpage_saver.py:111 * 123145460846592 transfer url:http$--performance.baidu.com-
+INFO: 23-08-23 19:49:16: webpage_saver.py:85 * 123145460846592 write file...
+INFO: 23-08-23 19:49:17: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:49:17: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:49:19: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 19:49:19: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 19:50:14: webpage_crawler.py:44 * 123145442983936 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 19:50:56: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 19:50:56: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 19:50:56: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 19:50:56: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 19:50:56: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:50:56: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:50:56: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:50:56: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 19:50:56: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:50:56: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:50:56: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:50:56: url_table.py:52 * 123145390804992 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:50:56: webpage_crawler.py:39 * 123145390804992 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 19:50:57: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:50:57: url_table.py:52 * 123145408667648 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:50:57: webpage_crawler.py:39 * 123145408667648 start get url:http://www.baidu.com
+INFO: 23-08-23 19:50:57: webpage_parser.py:77 * 123145408667648 len url: 30
+INFO: 23-08-23 19:50:57: webpage_saver.py:72 * 123145408667648 cur url: http://www.baidu.com
+INFO: 23-08-23 19:50:57: webpage_saver.py:106 * 123145408667648 url: http://www.baidu.com
+INFO: 23-08-23 19:50:57: webpage_saver.py:111 * 123145408667648 transfer url:http$--www.baidu.com
+INFO: 23-08-23 19:50:57: webpage_saver.py:85 * 123145408667648 write file...
+INFO: 23-08-23 19:50:58: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:50:58: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:50:58: url_table.py:52 * 123145408667648 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:50:58: webpage_crawler.py:39 * 123145408667648 start get url:http://performance.baidu.com/
+INFO: 23-08-23 19:50:58: webpage_parser.py:77 * 123145408667648 len url: 30
+INFO: 23-08-23 19:50:58: webpage_saver.py:72 * 123145408667648 cur url: http://performance.baidu.com/
+INFO: 23-08-23 19:50:58: webpage_saver.py:106 * 123145408667648 url: http://performance.baidu.com/
+INFO: 23-08-23 19:50:58: webpage_saver.py:111 * 123145408667648 transfer url:http$--performance.baidu.com-
+INFO: 23-08-23 19:50:58: webpage_saver.py:85 * 123145408667648 write file...
+INFO: 23-08-23 19:50:59: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:50:59: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:51:01: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 19:51:01: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 19:51:56: webpage_crawler.py:44 * 123145390804992 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 19:54:15: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 19:54:15: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 19:54:15: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 19:54:15: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 19:54:15: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:54:15: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:54:15: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:54:15: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 19:54:15: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:54:15: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:54:15: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:54:15: url_table.py:52 * 123145445613568 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:54:15: webpage_crawler.py:39 * 123145445613568 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 19:54:16: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:54:16: url_table.py:52 * 123145463476224 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:54:16: webpage_crawler.py:39 * 123145463476224 start get url:http://www.baidu.com
+INFO: 23-08-23 19:54:16: webpage_parser.py:77 * 123145463476224 长度len url: 30
+INFO: 23-08-23 19:54:16: webpage_saver.py:72 * 123145463476224 cur url: http://www.baidu.com
+INFO: 23-08-23 19:54:16: webpage_saver.py:106 * 123145463476224 url: http://www.baidu.com
+INFO: 23-08-23 19:54:16: webpage_saver.py:111 * 123145463476224 transfer url:http$--www.baidu.com
+INFO: 23-08-23 19:54:16: webpage_saver.py:85 * 123145463476224 write file...
+INFO: 23-08-23 19:54:17: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:54:17: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:54:17: url_table.py:52 * 123145463476224 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:54:17: webpage_crawler.py:39 * 123145463476224 start get url:http://performance.baidu.com/
+INFO: 23-08-23 19:54:18: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:54:18: webpage_parser.py:77 * 123145463476224 长度len url: 30
+INFO: 23-08-23 19:54:18: webpage_saver.py:72 * 123145463476224 cur url: http://performance.baidu.com/
+INFO: 23-08-23 19:54:18: webpage_saver.py:106 * 123145463476224 url: http://performance.baidu.com/
+INFO: 23-08-23 19:54:18: webpage_saver.py:111 * 123145463476224 transfer url:http$--performance.baidu.com-
+INFO: 23-08-23 19:54:18: webpage_saver.py:85 * 123145463476224 write file...
+INFO: 23-08-23 19:54:20: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 19:54:20: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 19:55:15: webpage_crawler.py:44 * 123145445613568 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+INFO: 23-08-23 19:55:27: mini_spider.py:40 * 140704445781760 Init Mini_spider
+INFO: 23-08-23 19:55:27: mini_spider.py:174 * 140704445781760 begin to run...
+INFO: 23-08-23 19:55:27: mini_spider.py:48 * 140704445781760 init
+INFO: 23-08-23 19:55:27: mini_spider.py:84 * 140704445781760 read config file:spider.conf
+INFO: 23-08-23 19:55:27: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:55:27: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:55:27: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:55:27: mini_spider.py:72 * 140704445781760 init thread_pool.
+INFO: 23-08-23 19:55:27: mini_spider.py:122 * 140704445781760 init crawler.
+INFO: 23-08-23 19:55:27: mini_spider.py:130 * 140704445781760 init parser.
+INFO: 23-08-23 19:55:27: mini_spider.py:138 * 140704445781760 init saver.
+INFO: 23-08-23 19:55:27: url_table.py:52 * 123145448271872 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:55:27: webpage_crawler.py:39 * 123145448271872 start get url:http://pycm.baidu.com:8081
+INFO: 23-08-23 19:55:28: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:55:28: url_table.py:52 * 123145466134528 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:55:28: webpage_crawler.py:39 * 123145466134528 start get url:http://www.baidu.com
+INFO: 23-08-23 19:55:28: webpage_parser.py:77 * 123145466134528 长度len url: 30
+INFO: 23-08-23 19:55:28: webpage_saver.py:72 * 123145466134528 cur url: http://www.baidu.com
+INFO: 23-08-23 19:55:28: webpage_saver.py:106 * 123145466134528 url: http://www.baidu.com
+INFO: 23-08-23 19:55:28: webpage_saver.py:111 * 123145466134528 transfer url:http$--www.baidu.com
+INFO: 23-08-23 19:55:28: webpage_saver.py:85 * 123145466134528 write file...
+INFO: 23-08-23 19:55:29: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:55:29: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:55:29: url_table.py:52 * 123145466134528 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-23 19:55:29: webpage_crawler.py:39 * 123145466134528 start get url:http://performance.baidu.com/
+INFO: 23-08-23 19:55:29: webpage_parser.py:77 * 123145466134528 长度len url: 30
+INFO: 23-08-23 19:55:29: webpage_saver.py:72 * 123145466134528 cur url: http://performance.baidu.com/
+INFO: 23-08-23 19:55:29: webpage_saver.py:106 * 123145466134528 url: http://performance.baidu.com/
+INFO: 23-08-23 19:55:29: webpage_saver.py:111 * 123145466134528 transfer url:http$--performance.baidu.com-
+INFO: 23-08-23 19:55:29: webpage_saver.py:85 * 123145466134528 write file...
+INFO: 23-08-23 19:55:30: mini_spider.py:190 * 140704445781760 sleep: 1
+INFO: 23-08-23 19:55:30: thread_pool.py:83 * 140704445781760 线程完成have thread finish
+INFO: 23-08-23 19:55:32: mini_spider.py:165 * 140704445781760 finish
+INFO: 23-08-23 19:55:32: mini_spider.py:185 * 140704445781760 spider end
+WARNING: 23-08-23 19:56:27: webpage_crawler.py:44 * 123145448271872 url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out

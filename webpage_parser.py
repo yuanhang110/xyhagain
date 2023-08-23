@@ -24,19 +24,28 @@ class WebpageParser(HTMLParser):
         logger: 用于写日志的对象
         max_depth:抓取的最大深度
     """ 
-    
     def __init__(self, logger, max_depth):
         """初始化
         Args:
         logger: 用于写日志的对象
         Returns:
         """
+        super().__init__()
         self.logger = logger
         self.get_url_list = []
         self.max_depth = max_depth
-        HTMLParser.__init__(self)
-        print("想获得urllist"+str(self.get_url_list))
-        
+        #HTMLParser.__init__(self)
+        #print("想获得urllist"+str(self.get_url_list))
+    def handle_starttag(self, tag, attrs):
+        if tag == 'a':
+            for attr in attrs:
+                if attr[0] == 'href':
+                    url = attr[1]
+                    parsed_url = urlparse(url)
+                    if parsed_url.scheme and parsed_url.netloc:
+                        self.get_url_list.append(url)
+        print("看看现在urllist"+str(self.get_url_list))
+
     def analys_html(self, html, url_node):   
         """解析html中的url
         Args:
@@ -44,9 +53,10 @@ class WebpageParser(HTMLParser):
             url_node:需要抓取的url_node
         Returns: 解析出的url_list
         """ 
-        print(str(self.get_url_list)+"开始1"+str(url_node)+"\n")
         #print ("开始"+html.decode())
-        self.feed(html.decode(encoding="utf-8"))
+        #self.feed(html.decode(encoding="utf-8"))
+        self.feed(str(html))
+        print(str(self.get_url_list)+"开始1"+str(url_node)+"\n")
         #self.feed('<html><head><title>Test</title></head>'
         # '<body><li><a href=page1.html>page 1</a></li><h1>Parse me!</h1></body></html>')
         url_node_list = []
@@ -64,8 +74,8 @@ class WebpageParser(HTMLParser):
             #如果大于最大深度则不用入队列
             if int(curr_node['level']) <= int(self.max_depth):
                 url_node_list.append(curr_node)
-        self.logger.info('len url: ' + str(len(self.get_url_list))) 
-        #print(str(url_node_list)+"\n")
+        self.logger.info('长度len url: ' + str(len(self.get_url_list))) 
+        print("看看nodelist"+str(url_node_list)+"\n")
         return url_node_list
     
     def get_url_path(self, father_url, url):   
@@ -161,25 +171,29 @@ class WebpageParser(HTMLParser):
                 self.get_url_list.append(value)
                 break   
 
+def parse_html(html):
+    spider_log = log.Log()
+    parser = WebpageParser(spider_log,2)
+    parser.feed(html)
+    return parser.get_url_list
+    
 if __name__ == "__main__": 
-    page_source = u"""
-        <!DOCTYPE html>
-            <html>
-                <head>
-                    <meta charset=utf8>
-                    <title>Crawl</title>
-                </head>
-                <body>
-                    <ul>
-                        <li><a href=page1.html>page 1</a></li>
-                        <li><a href="page2.html">page 2</a></li>
-                        <li><a href='page3.html'>page 3</a></li>
-                    </ul>
-                </body>
-            </html>
-        """
+    html = '''
+    <html>
+    <body>
+        <a href="https://www.example.com">Example</a>
+        <a href="https://www.google.com">Google</a>
+        <a href="/about">About</a>
+    </body>
+    </html>
+    '''
+
+    urls = parse_html(html)
+    print(urls)
+    """
     spider_log = log.Log()
     IParser = WebpageParser(spider_log,2)
     IParser.feed(page_source)
     #print(IParser.analys_html())
     IParser.close()
+    """

@@ -80,7 +80,5 @@ class ThreadPool(object):
         """
         for work in self.thread_list:
             if not work.thread_is_runed():
-                self.log.info('have thread finish')
+                self.log.info('线程完成have thread finish')
                 self.thread_list.remove(work)
-    
-    
