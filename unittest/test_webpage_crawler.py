@@ -48,14 +48,12 @@ class WebPageCrawlerTest(unittest.TestCase):
            Args:
            Returns:
         """
-        print '\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' \
-                    % (self.__class__.__name__, inspect.stack()[0][3])
-        url = 'http://pycm.baidu.com:8081'
+        print ('\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
+        url = 'http://www.baidu.com'
         html = self.webpage_crawler_test.get_html(url)
         res = bool(html != -1)
-        self.assertEqual(res, True, 'get html fail')
-        print '\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' \
-                    % (self.__class__.__name__, inspect.stack()[0][3])
+        self.assertEqual(res, True, 'get html success')
+        print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
     
     def test_get_html_error(self):
         
@@ -63,14 +61,12 @@ class WebPageCrawlerTest(unittest.TestCase):
            Args:
            Returns:
         """
-        print '\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' \
-                    % (self.__class__.__name__, inspect.stack()[0][3])
-        url = 'http://pycm.baidu.com:8081/page4.html'
+        print ('\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
+        url = 'http://www.baidu.com/page4.html'
         html = self.webpage_crawler_test.get_html(url)
         res = bool(html == -1)
         self.assertEqual(res, True, 'get error html fail')
-        print '\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' \
-                    % (self.__class__.__name__, inspect.stack()[0][3])
+        print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
         
 if __name__ == '__main__': 
     

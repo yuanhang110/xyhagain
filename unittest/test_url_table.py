@@ -34,8 +34,15 @@ class UrlTableTest(unittest.TestCase):
         self.test_url_table = url_table.UrlTable(self.logger)
         self.url_node = {}
         self.url_node['url'] = 'www.baidu.com'
+        self.url_node['level'] = 0
+        self.url_node['father'] = 'www.baidu.com'
+        self.url_node1 = {}
+        self.url_node1['url'] = 'www.baidu.com/page1.html'
+        self.url_node1['level'] = 1
+        self.url_node1['father'] = 'www.baidu.com'
         self.url_node_list= []
         self.url_node_list.append(self.url_node)
+        self.url_node_list.append(self.url_node1)
         
     def init_url_table(self):
                 
@@ -78,9 +85,7 @@ class UrlTableTest(unittest.TestCase):
         """
         print ('\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
         self.test_url_table.add_url_node_list(self.url_node_list)
-        #这里
         res_node = self.test_url_table.get_url_node()
-        print ("看看res_node的值"+res_node+'\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
         res_get = bool(res_node['url'] == self.url_node['url'])
         self.assertEqual(res_get, True, 'get_url_node fail')
         print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))

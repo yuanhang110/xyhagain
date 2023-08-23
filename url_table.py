@@ -49,18 +49,18 @@ class UrlTable(object):
              Returns:待抓取的url_node
         """
         if len(self.queue_url) > 0:
-            print('url_node的长度'+str(len(self.queue_url))+' 已经抓取过')
+            #print('url_node的长度'+str(len(self.queue_url))+' 已经抓取过')
             self.logger.info('将url列表按照深度进行深度排序，sort url list')
             #因为线程执行顺序不定，对列表按照深度排序，为了达到广度优先遍历目的，按照深度进行升序排序
             #self.queue_url.sort(lambda x, y: cmp(x['level'], y['level'])) 
             for url in self.queue_url:
-                print(str(url)+"url的值")
+                #print(str(url)+"url的值")
                 if 'level' not in url:
                     raise ValueError("Queue URL dictionary missing 'level' key.")
             self.queue_url.sort(key=lambda x: x['level'], reverse=False)
             url_node = self.queue_url[0]
             del self.queue_url[0]
-            #self.logger.info('get url node finish')
+            self.logger.info('get url node finish')
             return url_node
         self.logger.info('no url node can get')
         return -1

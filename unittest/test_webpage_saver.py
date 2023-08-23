@@ -52,14 +52,12 @@ class WebpageSaveTest(unittest.TestCase):
            Args:
            Returns:
         """
-        print '\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' \
-                    % (self.__class__.__name__, inspect.stack()[0][3])
+        print ('\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
         url = 'http://pycm.baidu.com:8081/'
         html = self.webpage_crawler_test.get_html(url)
         res = self.webpage_saver_test.judge_chaset(html)
         self.assertEqual(res, 'ascii', 'test_judge_chaset_ascii fail')
-        print '\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' \
-                    % (self.__class__.__name__, inspect.stack()[0][3])
+        print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
 
     def test_judge_chaset_GB2312(self):
         
@@ -67,14 +65,12 @@ class WebpageSaveTest(unittest.TestCase):
            Args:
            Returns:
         """
-        print '\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' \
-                    % (self.__class__.__name__, inspect.stack()[0][3])
+        print ('\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
         url = 'http://pycm.baidu.com:8081/page3.html'
         html = self.webpage_crawler_test.get_html(url)
         res = self.webpage_saver_test.judge_chaset(html)
         self.assertEqual(res, 'GB2312', 'test_judge_chaset_GB2312 fail')
-        print '\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' \
-                    % (self.__class__.__name__, inspect.stack()[0][3])
+        print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
 
     def test_is_image_yes(self):
         

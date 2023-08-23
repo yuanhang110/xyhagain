@@ -41,9 +41,9 @@ class WebpageCrawler(object):
             html=page.read() 
             page.close()
         except urllib.request.URLError as e:
-            self.logger.warn('url error:' + url + ' ' + str(e))
+            self.logger.warning('url error:' + url + ' ' + str(e))
             return -1
         except socket.timeout as e:
-            self.logger.warn('time out' + str(e)) 
+            self.logger.warning('time out' + str(e)) 
             return -2
         return html
