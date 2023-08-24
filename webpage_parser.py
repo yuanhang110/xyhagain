@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#coding=utf-8
+# -*- coding: utf-8 -*-
 ################################################################################
 #
 # Copyright (c) 2023 Baidu.com, Inc. All Rights Reserved
@@ -7,8 +7,8 @@
 ################################################################################
 """
 解析类，用于解析网页
-Authors: xyh(xyh@baidu.com)
-Date:    2023/8/10 11:30:41
+Authors: xiaoyuanhang(xiaoyuanhang@baidu.com)
+Date:    2023/8/24 11:30:41
 """
 from urllib.parse import urlparse,urljoin
 import urllib

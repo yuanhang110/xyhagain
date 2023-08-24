@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#coding=utf-8
+# -*- coding: utf-8 -*-
 ################################################################################
 #
 # Copyright (c) 2023 Baidu.com, Inc. All Rights Reserved
@@ -7,8 +7,8 @@
 ################################################################################
 """
 程序入口，加载配置，初始化参数  
-Authors: xyh(xyh@baidu.com)
-Date:    2023/8/10 11:30:41
+Authors: xiaoyuanhang(xiaoyuanhang@baidu.com)
+Date:    2023/8/24 11:30:41
 """
 
 import sys
@@ -148,7 +148,7 @@ class MiniSpider(object):
                 for url in url_line:
                     url_list.append(url.strip())    
         except IOError as e:
-            self.logger.warn("Get url_list fail:%s" % e)
+            self.logger.warning("Get url_list fail:%s" % e)
             return -1
         return url_list
 

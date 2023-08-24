@@ -27,9 +27,22 @@ urls: 种子地址列表
 
 # 执行方式
 默认参数执行: python3 mini_spider.py -c spider.conf 
+
 参看帮助: python3 mini_spider.py -h  
 
+全部单元测试执行: python3 test_all.py
 
+单个功能单元测试,在Test目录下
+
+webpage_crawler: python3 test_webpage_crawler.py
+
+webpage_parser: python3 test_webpage_parser.py
+
+webpage_saver: python3 test_webpage_saver.py
+
+url_table: python3 test_url_table.py
+
+mini_spider_test: python3 test_mini_spider_test.py
 # python 题目说明
 
 在调研过程中，经常需要对一些网站进行定向抓取。由于python包含各种强大的库，使用python做定向抓取比较简单。请使用python开发一个迷你定向抓取器mini\_spider.py，实现对种子链接的广度优先抓取，并把URL长相符合特定pattern的网页保存到磁盘上。

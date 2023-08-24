@@ -6,9 +6,9 @@
 #
 ################################################################################
 """
-This module init log
-Authors: xyh(xyh@baidu.com)
-Date:    2023/8/10 11:30:41
+初始化log的模块
+Authors: xiaoyuanhang(xiaoyuanhang@baidu.com)
+Date:    2023/8/24 11:30:41
 """
 import os
 import logging
