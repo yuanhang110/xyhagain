@@ -1,0 +1,325 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>百度文库 - 让每个人平等地提升自我</title><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="referrer" content="always"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="shortcut icon" href="https://edu-wenku.bdimg.com/v1/pc/2020%E6%96%B0%E9%A6%96%E9%A1%B5/wenku-header-icon.ico" type="image/x-icon"><link rel="icon" sizes="any" href="https://edu-wenku.bdimg.com/v1/pc/2020%E6%96%B0%E9%A6%96%E9%A1%B5/wenku-header-icon.svg"><link rel="manifest" href="https://edu-wenku.bdimg.com/v1/pc/view/pwa/ai/manifest.json"><link href="//wkstatic.bdimg.com/static/ndpcwenku/static/pcCoreClient/css/index.6f8e124003f83e9fbe4e.css" rel="stylesheet"></head><body><style>
+html {
+    color: #000;
+    background: #fff;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset,
+img {
+    border: 0;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var,
+b {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+caption,
+th {
+    text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+abbr,
+acronym {
+    border:0;
+    font-variant:normal;
+}
+
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+
+/* 1 */
+
+q {
+    quotes: none;
+}
+
+/* 2 */
+
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+/*
+ * links
+ */
+
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+
+a:hover,
+a:active {
+    outline: 0;
+}
+
+/*
+ * form
+ */
+
+/*
+ * 1. Corrects color not being inherited in IE6/7/8/9
+ * 2. Corrects text not wrapping in FF3 
+ */
+
+legend {
+    border: 0; /* 1 */
+    white-space: normal; /* 2 */
+    color:#000;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+    vertical-align: baseline;
+    *vertical-align: middle;
+}
+
+/*
+ * Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
+ */
+
+button,
+input {
+    line-height: normal; /* 1 */
+}
+
+/*
+ * 1. Improves usability and consistency of cursor style between image-type 'input' and others
+ * 2. Corrects inability to style clickable 'input' types in iOS
+ * 3. Removes inner spacing in IE7 without affecting normal text inputs
+ *    Known issue: inner spacing remains in IE6
+ */
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    cursor: pointer; /* 1 */
+    -webkit-appearance: button; /* 2 */
+    *overflow: visible;  /* 3 */
+}
+
+/*
+ * 1. Addresses box sizing set to content-box in IE8/9
+ * 2. Removes excess padding in IE8/9
+ * 3. Removes excess padding in IE7
+      Known issue: excess padding remains in IE6
+ */
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+    *height: 13px; /* 3 */
+    *width: 13px; /* 3 */
+}
+
+
+/*
+ * Removes inner padding and border in FF3+
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/*
+ * FF3的一些版本hidden没有隐藏
+ */
+input[type="hidden"] {
+    display: none!important;
+}
+
+/*
+ * 1. Removes default vertical scrollbar in IE6/7/8/9
+ * 2. Improves readability and alignment in all browsers
+ * 3. 不让textarea可以resize
+ */
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+    resize: none; /* 3 */
+}
+
+/*
+ * font
+ */
+
+/* 
+ * 1.333为默认行高16px(16/12),去除sans-serif防止ie8\9下字体变形
+ */
+body {
+    min-width: 1280px;
+    height:100%;
+    font: 12px/1.333 "\5FAE\8F6F\96C5\9ED1", "Hiragino Sans GB", arial,helvetica,clean;
+}
+
+select,
+input,
+button,
+textarea {
+    font:100% arial,helvetica,clean;
+}
+
+table {
+    font-size: inherit;
+    font: 100%;
+}
+
+/*
+ * Corrects font family set oddly in IE6, S4/5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
+
+pre,
+code,
+kbd,
+samp {
+    font-family: monospace, serif;
+    _font-family: 'courier new', monospace;
+    font-size: 100%;
+    line-height: 100%;
+}
+
+small {
+    font-size: 75%;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;  
+    clear: both;
+}
+</style>
+<div id="app"></div><script>window.pageData = {"infrastructure":{"logId":"1325902001","queryInfo":{"wkQuery":"","bdQuery":"","bdQueryFromFather":false}},"passUserInfo":{"isLogin":false},"mixVipAndUserInfo":{"userInfo":{"isLogin":false,"isPGC":0,"isBGC":0,"isUGC":0,"isAGC":0,"isRealName":0,"isHadSecuremobil":0},"region":0},"vipInfo":{},"classList":{"docs":[{"className":"专利","url":"https://wenku.baidu.com/ndthirdparty/patent"},{"className":"优质办公模板","url":"https://abg.baidu.com"},{"className":"高校与高等教育","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=2"},{"className":"语言/资格考试","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=3"},{"className":"实用模板","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=10"},{"className":"法律","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=4"},{"className":"建筑","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=5"},{"className":"互联网","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=6"},{"className":"行业资料","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=7"},{"className":"政务民生","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=8"},{"className":"说明书","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=9"},{"className":"生活娱乐","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=11"}],"books":[{"class":"converter","className":"格式转化","url":"https://box.baidu.com/ndtool/home#/","iconUrl":"https://edu-wenku.bdimg.com/v1/pc/2022%E6%96%B0%E9%A6%96%E9%A1%B5/geshizhuanhua-1658909544284.svg"},{"class":"cut","className":"PDF拆分","url":"https://box.baidu.com/ndtool/home#/doc-split","iconUrl":"https://edu-wenku.bdimg.com/v1/pc/2022%E6%96%B0%E9%A6%96%E9%A1%B5/pdf-chaifen-1658909299083.svg"},{"class":"merge","className":"PDF合并","url":"https://box.baidu.com/ndtool/home#/doc-merge","iconUrl":"https://edu-wenku.bdimg.com/v1/pc/2022%E6%96%B0%E9%A6%96%E9%A1%B5/pdf-hebing-1658909299571.svg"},{"class":"imgtotext","className":"图片转文字","url":"https://box.baidu.com/ndtool/home#/img-to-text","iconUrl":"https://edu-wenku.bdimg.com/v1/pc/2022%E6%96%B0%E9%A6%96%E9%A1%B5/tupian-wenzi-1658909302026.svg"},{"class":"watermark","className":"PDF加水印","url":"https://box.baidu.com/ndtool/home#/doc-add-watermark","iconUrl":"https://edu-wenku.bdimg.com/v1/pc/2022%E6%96%B0%E9%A6%96%E9%A1%B5/pdf-shuiyin-1658909300076.svg"},{"class":"slim","className":"文档瘦身","url":"https://box.baidu.com/ndtool/home#/doc-slim","iconUrl":"https://edu-wenku.bdimg.com/v1/pc/2022%E6%96%B0%E9%A6%96%E9%A1%B5/shoushen-1658909301666.svg"},{"class":"pdftoword","className":"PDF转Word","url":"https://converter.baidu.com/detail?type=1&origin=wenkuConverterOther","iconUrl":"https://edu-wenku.bdimg.com/v1/pc/2022%E6%96%B0%E9%A6%96%E9%A1%B5/pdf-word-1658909300620.svg"},{"class":"wordtopdf","className":"Word转PDF","url":"https://converter.baidu.com/detail?type=12&origin=wenkuConverterOther","iconUrl":"https://edu-wenku.bdimg.com/v1/pc/2022%E6%96%B0%E9%A6%96%E9%A1%B5/word-pdf-1658909303263.svg"}],"brands":[{"className":"艺术留学","url":"https://wenku.baidu.com/ndbgc/channel/sifenke?sifenke"},{"className":"装修","url":"https://wenku.baidu.com/ndbgc/channel/jutong?ch=jutong"},{"className":"学历提升","url":"https://wenku.baidu.com/ndbgc/channel/xuelitisheng?ch=xuelitisheng"},{"className":"考研培训","url":"https://wenku.baidu.com/ndbgc/channel/wendukaoyan"},{"className":"在职考研","url":"https://wenku.baidu.com/ndbgc/channel/postgraduate"},{"className":"人事管理软件","url":"https://wenku.baidu.com/ndbgc/channel/secondhr?ch=secondhr"},{"className":"MBA","url":"https://wenku.baidu.com/ndbgc/channel/mba?ch=mba"},{"className":"执业医师","url":"https://wenku.baidu.com/ndbgc/channel/pharmacist?ch=pharmacist"},{"className":"教师资格证","url":"https://wenku.baidu.com/ndbgc/channel/teacherqc?ch=teacherqc"},{"className":"初级会计","url":"https://wenku.baidu.com/ndbgc/channel/cjaccountant2020?ch=cjaccountant2020"},{"className":"思维导图","url":"https://wenku.baidu.com/ndbgc/channel/aimonaotu?ch=aimonaotu"},{"className":"日语培训","url":"https://wenku.baidu.com/ndbgc/channel/japanesetrain?ch=japanesetrain"}],"vips":[{"className":"VIP福利社","url":"https://wenku.baidu.com/ndwelfare/membercenter/welfarecenter"},{"className":"VIP领券中心","url":"https://wenku.baidu.com/ndwelfare/browse/vouchercenter"},{"className":"VIP权益","url":"https://wenku.baidu.com/ndvipmember/browse/vipprivilege"}],"client":[{"className":"PC客户端","url":"https://wenku.baidu.com/pcactivity/landingPage"},{"className":"百度文库APP","url":"https://wenku.baidu.com/pcactivity/landingPage#appLink"},{"className":"不挂科APP","url":"https://wenku.baidu.com/pcactivity/landingPage#collegeLink"}]},"searchData":{"opHotWord":[{"bgColor":"#22AB82","activeBgColor":"#1C9F78"}],"normalHotWords":[{"query":"协议书"},{"query":"贷款合同"},{"query":"日历表"},{"query":"简历模板"},{"query":"入党申请书"},{"query":"建筑"},{"query":"考研"},{"query":"新冠肺炎"},{"query":"课件"}],"bgImgs":[{"startTime":"2021-04-06T00:00","endTime":"","imgSrc":"https://edu-wenku.bdimg.com/v1/pc/2020%E6%96%B0%E9%A6%96%E9%A1%B5/test/%E8%83%8C%E6%99%AF%E5%9B%BE.jpg"},{"startTime":"2021-04-12T00:00","endTime":"2021-04-25T23:59","imgSrc":"https://edu-tob.bdimg.com/v1/pc/%E6%96%87%E5%BA%93%E9%A6%96%E9%A1%B5%E7%AC%AC%E4%BA%8C%E5%B8%A7banner-1618203221905.png","linkUrl":"https://wenku.baidu.com/pcactivity/wxCommunity"},{"startTime":"2021-04-12T00:00","endTime":"2021-04-18T23:59","imgSrc":"https://edu-tob.bdimg.com/v1/wap/b30c058f34c2e730f63b9346e8a2e4d4-1618136643466.PNG","linkUrl":"https://wenku.baidu.com/video/courseview/bb565527a5e9856a5612606c"}],"teachersDayOpen":false},"userCardData":{"confNotLogin":{"tipText":"会员享精品图书、格式转换特权","btnText":"16元立即开通VIP","cashierCode":"new_shouye_vipcard_unlogin_kt"},"confNotVip":{"tipText":"会员享精品图书、格式转换特权","btnText":"16元立即开通VIP","cashierCode":"new_shouye_vipcard_xinke_kt"},"confVipExpired":{"tipText":"会员享精品图书、格式转换特权","btnText":"立即续费","cashierCode":"new_shouye_vipcard_laoke_kt"},"confVip":{"tipText":"会员享精品图书、格式转换特权","btnText":"立即续费","cashierCode":"new_shouye_vipcard_vip_xf_morethan15"},"confVipAlmostExpired":{"tipText":"您的VIP即将到期，续费立享优惠","btnText":"立即续费","cashierCode":"new_shouye_vipcard_vip_xf_lessthan15"},"tools":[{"toolName":"限量好券","url":"https://wenku.baidu.com/ndwelfare/browse/vouchercenter","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E4%BC%98%E6%83%A0%E5%88%B8-1588823694533.png"},{"toolName":"格式转化","url":"https://wenku.baidu.com/ndvipmember/browse/huixueconvert","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1585665603540.svg"},{"toolName":"福利社","url":"https://wenku.baidu.com/ndwelfare/membercenter/welfarecenter","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E7%A4%BC%E5%8C%85%E5%A4%87%E4%BB%BD%402x-1592812400637.png"},{"toolName":"PPT定制","url":"https://wenku.baidu.com/ndgoods/browse/customizedppt","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/ppt%E5%AE%9A%E5%88%B6-1585665680399.svg"},{"toolName":"合同拟定","url":"https://wenku.baidu.com/ndgoods/browse/customized","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E5%90%88%E5%90%8C-1585665741975.svg"},{"toolName":"组卷","url":"https://wenku.baidu.com/ndvertical/zujuan/index?pn=1&chapter_id=0422192e453610661ed9f405","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E7%BB%84%E5%8D%B7-1585665781559.svg"}],"bannerConf":[{"url":"https://wenku.baidu.com/ndwelfare/membercenter/welfarecenter","imgSrc":"https://edu-wenku.bdimg.com/v1/icon/PC%E4%BC%9A%E5%91%98%E5%8D%A1%E7%89%87/25-80-3-1616986926164.png"},{"url":"https://edu-xtopic.bdimg.com/v1/topic/output1173.html","imgSrc":"https://edu-wenku.bdimg.com/v1/pc/aibangong-7-14/253-80-1657800053521.jpg"},{"url":"https://wenku.baidu.com/ndvipmember/browse/index","imgSrc":"https://edu-wenku.bdimg.com/v1/icon/PC%E4%BC%9A%E5%91%98%E5%8D%A1%E7%89%87/9bbcd9fa110b287765478a03b-1616986926716.png"},{"url":"https://converter.baidu.com/?origin=wenkuConverterOther","imgSrc":"https://edu-wenku.bdimg.com/v1/icon/PC%E4%BC%9A%E5%91%98%E5%8D%A1%E7%89%87/25-80-1619081393300.png"}],"bannerSpeed":10000},"vouchers":{},"promotionData":{"list":[{"id":"3f08844769eae009581bec01","title":"500强企业特聘讲师亲授：108套销售心法！","type":4,"original_price":"108.00","price":"108.00","img_url":"https://edu-tob.bdimg.com/v1/ad/f1d60a7d76ab9d63a4c0e248a738ef4d-1610420276571.PNG","jump_url":"https://wenku.baidu.com/video/courseview/28fdc9d376eeaeaad1f33005","startTime":"","endTime":"","typeName":"course"},{"id":"d9fcf705cc17552707220806","title":"幼儿成长发育各阶段知识","type":4,"original_price":"169.90","price":"89.90","img_url":"https://edu-tob.bdimg.com/v1/pc/b4783337a567b013155aebea41a034f6-1606706050903.PNG","jump_url":"https://wenku.baidu.com/video/courseview/a9fe4727a5e9856a561260c4","startTime":"2020-09-01T12:12","endTime":"","typeName":"course"},{"id":"90df5022aaea998fcc220e06","title":"500强企业特聘讲师亲授：中国式饭局社交进阶指南，教你玩转饭局社交","type":4,"original_price":"99.00","price":"79.00","img_url":"https://edu-tob.bdimg.com/v1/pc/5d4c3eb5e9ee561b7fe16289073de161-1617938996689.PNG","jump_url":"https://wenku.baidu.com/video/courseview/6da2be23482fb4daa58d4bfd","startTime":"","endTime":"","typeName":"course"},{"id":"3121bcd126fff705cc170a06","title":"高中数学暑期特训班：必修1至必修5考点合辑","type":4,"original_price":"998.00","price":"498.00","img_url":"https://edu-tob.bdimg.com/v1/pc/xianshicuxiao-1594982102257.PNG","jump_url":"https://wenku.baidu.com/video/courseview/c314e65c3b3567ec102d8a5b","startTime":"","endTime":"","typeName":"course"},{"id":"8419ff00bed5b9f3f90f1c06","title":"英语语法入门：写好简单句子","type":4,"original_price":"99.00","price":"9.90","img_url":"https://edu-wenku.bdimg.com/v1/na/0807/%E5%9E%82%E7%B1%BB%E8%BF%90%E8%90%A5/d808b646c8a30afb3554ef306f0ac96c-1593397923770.PNG","jump_url":"https://wenku.baidu.com/video/courseview/613a900ef12d2af90242e6c1","startTime":"","endTime":"","typeName":"course"},{"id":"1303bed5b9f3f90f76c61b06","title":"引爆执行力","type":2,"original_price":"25.99","price":"17.98","img_url":"https://edu-wenku.bdimg.com/v1/na/0807/99%E7%9F%A5%E8%AF%86%E8%8A%82%E5%88%86%E4%BA%AB%E8%90%BD%E5%9C%B0%E9%A1%B5/d0c8a786c9177f3ec24ac1577fcf3bc79f3d5669-1590669309420.jpg","jump_url":"https://yuedu.baidu.com/ebook/f1b8d6edec630b1c59eef8c75fbfc77da3699745?fr=sy","startTime":"","endTime":"","typeName":"book"},{"id":"160c76c66137ee06eff91806","title":"创新创业战略工具-商业模式画布","type":4,"original_price":"599","price":"199","img_url":"https://edu-wenku.bdimg.com/v1/na/0807/99%E7%9F%A5%E8%AF%86%E8%8A%82%E5%88%86%E4%BA%AB%E8%90%BD%E5%9C%B0%E9%A1%B5/55992-66009-d8102dc62984a354e6c1ce397ca15202-1585900788918.png","jump_url":"https://wenku.baidu.com/video/courseview/4985b8f67c1cfad6195fa768","startTime":"","endTime":"","typeName":"course"},{"id":"611da76e58fafab069dc0206","title":"陈鸣：学会高效表达，带你决胜未来","type":4,"original_price":"199","price":"69","img_url":"https://edu-wenku.bdimg.com/v1/na/0807/99%E7%9F%A5%E8%AF%86%E8%8A%82%E5%88%86%E4%BA%AB%E8%90%BD%E5%9C%B0%E9%A1%B5/57889-43968-fc5e1d2a39beb4a6200a53764faa23c7-1585900789915.jpg","jump_url":"https://wenku.baidu.com/video/courseview/c251647d27284b73f242507d","startTime":"","endTime":"","typeName":"course"},{"id":"84ca4131b90d6c85ec3ac6de","title":"敏捷开发系列实践","type":4,"original_price":"50","price":"38.8","img_url":"https://wk-video-img.cdn.bcebos.com/13778-30749-2ff955a18b83c93146c4e9e6d3bdc37b.png","jump_url":"https://wenku.baidu.com/video/courseinfo/84ca4131b90d6c85ec3ac6de?fr=pcsy","typeName":"course"},{"id":"91c1ad114431b90d6c85c7de","title":"60分钟敏捷开发入门","type":4,"original_price":"35","price":"28.88","img_url":"https://wk-video-img.cdn.bcebos.com/13778-29826-1b58a06006ca8afda831c6c6806633a1.png","jump_url":"https://wenku.baidu.com/video/courseinfo/91c1ad114431b90d6c85c7de?fr=pcsy","typeName":"course"},{"id":"9833ccaedd3383c4bb4cd254","title":"老板经理人双赢之道","type":4,"original_price":"199","price":"160","img_url":"https://wk-video-img.cdn.bcebos.com/52550-26348-033c1de81e7856bfc2865e96436b45ee.png","jump_url":"https://wenku.baidu.com/video/courseinfo/9833ccaedd3383c4bb4cd254?fr=pcsy","typeName":"course"},{"id":"b4962e160b4e767f5acfcede","title":"敏捷项目管理工具从零开始-Confluence","type":4,"original_price":"20","price":"18.8","img_url":"https://wk-video-img.cdn.bcebos.com/13778-42449-ca68fcae42ca26cbd8cf28e290c53893.png","jump_url":"https://wenku.baidu.com/video/courseinfo/b4962e160b4e767f5acfcede?fr=pcsy","typeName":"course"}]},"myShopInfo":null,"controlFeature":{"pcAssistControl":{"enabled":true},"pcGrayTheme":false},"forCacheToken":"1692876125_190e223f30465df151d2b6ef45b377e7","smallFlowData":{"testId":"","testData":{},"feedSample":{"exptinfo":[{"id":"109673_1"},{"id":"109650_1"},{"id":"109869_1"},{"id":"108997_1"},{"id":"110591_2"},{"id":"107150_3"},{"id":"108168_2"},{"id":"108342_1"},{"id":"108440_2"},{"id":"108800_2"},{"id":"109093_2"},{"id":"109547_2"},{"id":"109484_1"},{"id":"109587_1"},{"id":"109771_3"},{"id":"109464_1"},{"id":"110227_2"},{"id":"110242_2"},{"id":"110812_2"},{"id":"112002_2"}]}},"noticeData":[{"title":"福利社抽奖进行中","url":"https://wenku.baidu.com/ndwelfare/membercenter/welfarecenter","sort":"1"}],"showNewIndex":true,"showNewIndexChangeText":true,"feedSample":"109673_1,109650_1,109869_1,108997_1,110591_2,107150_3,108168_2,108342_1,108440_2,108800_2,109093_2,109547_2,109484_1,109587_1,109771_3,109464_1,110227_2,110242_2,110812_2,112002_2","hitAiResume":false};
+        window.pageData.page = 'newIndex';
+        var vipInfo = pageData.vipInfo || {};
+        var mixVipAndUserInfo = pageData.mixVipAndUserInfo || {};
+        var userInfo = mixVipAndUserInfo.userInfo || {};
+        window.wkCommonLogParam = {
+            page: 'new_index',
+            sampleId: window.pageData.feedSample || '',
+            isLogin: userInfo.isLogin ? 1 : 0,
+            isVip: vipInfo.isVip ? 1 : 0,
+            isNewUser: vipInfo.is_new_user ? 1 : 0,
+            vipExpiredDays: vipInfo.vipExpiredDays,
+            isSuperVip: vipInfo.global_svip_status ? 1 : 0,
+        };</script><!-- built files will be auto injected --><div><script>window.__sula_scope = window.__sula_scope || {
+        beforeBootstrapModCaches: [],
+        define: function () {
+            window.__sula_scope.beforeBootstrapModCaches.push(arguments);
+        },
+        config: {"cdnPrefix":"https://wkstatic.bdimg.com/static/ndpcwenku","isDev":false},
+        prefetchData: {"items":{"WebControlFeature":{"result":{"items":[{"sceneID":"WebControlFeature","sourceID":98,"component":{"id":"Empty","version":1},"ctjParams":{"sulaComponentID":"Empty","sulaComponentVersion":1,"sulaPosition":1,"sulaSceneID":"WebControlFeature","sulaSourceID":98},"data":{"pcGrayTheme":{"enabled":true,"startDate":"2022-12-05 23:50:00","endDate":"2022-12-07 19:00:00","active":false},"wapGrayTheme":{"enabled":false,"startDate":"2020-04-04 00:00:00","endDate":"2020-04-05 00:00:00"},"smallAppGrayTheme":{"enabled":false,"startDate":"2020/04/04 00:00:00","endDate":"2020/04/05 00:00:00"},"pcAssistControl":{"enabled":true}}}],"extra":{},"strategy":{}},"error":null}},"wk_smallflow":{"testData":null,"testId":""},"sulaComponents":[],"prefetchAssets":[],"cdnPrefix":"https://wkstatic.bdimg.com/static/ndpcwenku"},
+        moduleHash: {},
+        require: null
+    };</script></div><script></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/pcCoreClient/js/common/common.6f8e124003f83e9fbe4e.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/pcCoreClient/js/common/vendors~account~docDownloadSucc~docPack~index~offlineDoc~packagedoc~search~sub~tagCategory.6f8e124003f83e9fbe4e.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/pcCoreClient/js/views/index.6f8e124003f83e9fbe4e.js"></script></body></html>

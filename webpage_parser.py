@@ -36,6 +36,7 @@ class WebpageParser(HTMLParser):
         self.max_depth = max_depth
         #HTMLParser.__init__(self)
         #print("想获得urllist"+str(self.get_url_list))
+    
     def handle_starttag(self, tag, attrs):
         if tag == 'a':
             for attr in attrs:
@@ -44,8 +45,9 @@ class WebpageParser(HTMLParser):
                     parsed_url = urlparse(url)
                     if parsed_url.scheme and parsed_url.netloc:
                         self.get_url_list.append(url)
-        print("看看现在urllist"+str(self.get_url_list))
-
+        #print("看看现在urllist"+str(self.get_url_list))
+    
+    
     def analys_html(self, html, url_node):   
         """解析html中的url
         Args:
@@ -56,17 +58,17 @@ class WebpageParser(HTMLParser):
         #print ("开始"+html.decode())
         #self.feed(html.decode(encoding="utf-8"))
         self.feed(str(html))
-        print(str(self.get_url_list)+"开始1"+str(url_node)+"\n")
+        #print(str(self.get_url_list)+"开始1"+str(url_node)+"\n")
         #self.feed('<html><head><title>Test</title></head>'
         # '<body><li><a href=page1.html>page 1</a></li><h1>Parse me!</h1></body></html>')
         url_node_list = []
         url = url_node['url']
         #问题在于self.get_url_list为空
         for pars_url in self.get_url_list:
-            print("为什么")
+            #print("为什么")
             curr_node = {}   
             #获取url的绝对路径
-            print("重新"+str(pars_url)+"\n")
+            #print("重新"+str(pars_url)+"\n")
             curr_node['url'] = self.get_url_path(url, pars_url)
             curr_node['level'] = url_node['level'] + 1
             curr_node['father'] = url_node['father']
@@ -75,7 +77,7 @@ class WebpageParser(HTMLParser):
             if int(curr_node['level']) <= int(self.max_depth):
                 url_node_list.append(curr_node)
         self.logger.info('长度len url: ' + str(len(self.get_url_list))) 
-        print("看看nodelist"+str(url_node_list)+"\n")
+        #print("看看nodelist"+str(url_node_list)+"\n")
         return url_node_list
     
     def get_url_path(self, father_url, url):   
@@ -97,7 +99,7 @@ class WebpageParser(HTMLParser):
            Args:url: 需要查找的url 
            Returns: 返回url除去最后一个/之前的内容
         """  
-        print("重看看"+str(url)+"\n")
+        #print("重看看"+str(url)+"\n")
         parser = urllib.parse.urlparse(url)
         path = parser.path
         if path == "":
@@ -176,24 +178,3 @@ def parse_html(html):
     parser = WebpageParser(spider_log,2)
     parser.feed(html)
     return parser.get_url_list
-    
-if __name__ == "__main__": 
-    html = '''
-    <html>
-    <body>
-        <a href="https://www.example.com">Example</a>
-        <a href="https://www.google.com">Google</a>
-        <a href="/about">About</a>
-    </body>
-    </html>
-    '''
-
-    urls = parse_html(html)
-    print(urls)
-    """
-    spider_log = log.Log()
-    IParser = WebpageParser(spider_log,2)
-    IParser.feed(page_source)
-    #print(IParser.analys_html())
-    IParser.close()
-    """

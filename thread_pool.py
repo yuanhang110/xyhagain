@@ -12,6 +12,7 @@ Date:    2023/8/10 11:30:41
 """
 import threading
 import work_thread
+import webpage_parser
     
 class ThreadPool(object):
     """
@@ -26,8 +27,7 @@ class ThreadPool(object):
         thread_list:线程list
     """  
     
-    def __init__(self, logger, thread_max_num, webpage_cralwer, 
-                 webpage_parser, webpage_saver, url_queue):
+    def __init__(self, logger, thread_max_num, webpage_cralwer, webpage_saver, url_queue):
         
         """初始化
          Args:
@@ -37,7 +37,7 @@ class ThreadPool(object):
         self.thread_max_num = thread_max_num
         self.mutex = threading.Lock()
         self.cralwer = webpage_cralwer
-        self.parser = webpage_parser
+        self.parser = webpage_parser.WebpageParser(logger, 1)
         self.saver = webpage_saver
         self.url_queue = url_queue
         self.thread_list = []
@@ -62,8 +62,8 @@ class ThreadPool(object):
         self.check_thread()#先把线程池中，执行完的线程从thread_list中去掉
         #线程数小于最大线程数，则分配新的线程
         if len(self.thread_list) < self.thread_max_num:
-            work_threads = work_thread.WorkThread(self.log, self.cralwer, 
-                                                  self.parser, self.saver, self.url_queue) 
+            work_threads = work_thread.WorkThread(self.log, self.cralwer, self.parser
+                                                  , self.saver, self.url_queue) 
             self.thread_list.append(work_threads)
             self.mutex.release()
             return work_threads

@@ -92,11 +92,34 @@ class WebpageSaver(object):
                     except Exception as e:
                         self.logger.info('decode error:' + url)  
                         return -1 
-            file_object = open(file_path, 'wb')
+            file_object = self.open_file(file_path)
             file_object.write(html)
             file_object.close()   
         return 0
     
+    def shorten_file_path(self, file_path):
+        # 匹配%数字或者%字母类型的字符
+        pattern = r'%[0-9A-Za-z]'
+        # 使用正则表达式替换匹配到的字符为空字符串
+        shortened_path = re.sub(pattern, '', file_path)
+        return shortened_path
+    def open_file(self, file_path):
+        try:
+            file_object = open(file_path, 'wb')
+            return file_object
+            # 执行文件操作
+            file_object.close()
+        except OSError as e:
+            if e.errno == 63:
+                # 文件名太长，进行处理
+                new_file_path = self.shorten_file_path(file_path)
+                file_object = open(new_file_path, 'wb')
+                return file_object
+                #raise e
+            else:
+                # 其他错误，抛出异常
+                raise e
+
     def transfer_url(self, url):
         
         """url替换 把不能做文件名的字符替换掉

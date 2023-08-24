@@ -54,3 +54,87 @@ WARNING - 23-08-23 19:50:14 - webpage_crawler.py - url error:http://pycm.baidu.c
 WARNING - 23-08-23 19:51:56 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
 WARNING - 23-08-23 19:55:15 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
 WARNING - 23-08-23 19:56:27 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 11:41:21 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 11:56:36 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 12:01:31 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:27:30 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:29:00 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:33:02 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:35:35 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:42:56 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:44:47 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:47:57 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:50:40 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:56:41 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 14:58:50 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:02:27 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:05:23 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:18:09 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:19:14 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:20:57 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:22:54 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:34:19 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:43:12 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:46:10 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:47:24 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:51:02 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 15:52:46 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 16:17:29 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 16:20:55 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 16:21:33 - webpage_crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-24 16:21:34 - webpage_crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-24 16:21:36 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:21:36 - webpage_crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-24 16:21:38 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:21:38 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:21:38 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:22:28 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:22:28 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:22:28 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:22:29 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:22:30 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:22:33 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:22:34 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:23:10 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 16:25:20 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:25:23 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:25:24 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:25:25 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:25:26 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:25:27 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:25:27 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:26:07 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 16:29:14 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 16:29:15 - webpage_crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-24 16:29:43 - webpage_crawler.py - url error:https://new.12377.cn/wxxx/2023/740819eb_web.html <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1002)>
+WARNING - 23-08-24 16:29:48 - webpage_crawler.py - url error:https://www.bjd.com.cn/zt/2023/snjc/ HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+WARNING - 23-08-24 16:29:53 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 17:35:24 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 17:41:16 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 17:45:32 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:45:34 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:45:36 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:45:37 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:45:37 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:45:38 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:45:40 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:46:17 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 17:46:43 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:46:44 - webpage_crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-24 17:47:09 - webpage_crawler.py - url error:https://new.12377.cn/wxxx/2023/740819eb_web.html <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1002)>
+WARNING - 23-08-24 17:47:15 - webpage_crawler.py - url error:https://www.bjd.com.cn/zt/2023/snjc/ HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+WARNING - 23-08-24 17:47:22 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 17:49:29 - webpage_crawler.py - url error:http://report.12377.cn:13225/toreportinputNormal_anis.do <urlopen error [Errno 60] Operation timed out>
+WARNING - 23-08-24 17:51:30 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:51:31 - webpage_crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-24 17:52:09 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 17:52:59 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 17:53:00 - webpage_crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-24 17:53:38 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-24 19:21:59 - webpage_crawler.py - url error:http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001 HTTP Error 406: Not Acceptable
+WARNING - 23-08-24 19:22:00 - webpage_crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-24 19:22:38 - webpage_crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out

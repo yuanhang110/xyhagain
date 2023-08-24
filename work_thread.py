@@ -61,12 +61,19 @@ class WorkThread(threading.Thread):
         if self.url_queue.get_url_node_len() > 0:
             #获取待抓取url_node
             url_node = self.url_queue.get_url_node()
+            #print(str(url_node)+"urlnode列表"+"\n")
             url = url_node['url']
-            print(str(url)+"又一个"+"\n")
+            #print(str(url)+"又一个"+"\n")
             html = self.crawler.get_html(url)
+            #print("看看这个html"+str(html))
             if html != -1:
+                #url_node_list=self.parser.handle_starttag('a','href')
                 url_node_list = self.parser.analys_html(html, url_node)
+                if not url_node_list:
+                   raise ValueError("url_node_list is not get")
+                #print("看看这个urlnodelist"+str(url_node_list))
                 self.url_queue.add_url_node_list(url_node_list)
                 self.saver.save_url(url, html)
+            
         #更新线程状态
         self.is_run = False  

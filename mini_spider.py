@@ -71,8 +71,7 @@ class MiniSpider(object):
         """
         self.logger.info('init thread_pool.')
         self.thread_pools = thread_pool.ThreadPool(self.logger, self.thread_count, 
-                                               self.init_crawler(),
-                                               self.init_parser(), 
+                                               self.init_crawler(), 
                                                self.init_saver(), 
                                                self.url_queue)
         return self.thread_pools

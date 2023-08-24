@@ -58,10 +58,10 @@ class WebPageparseTest(unittest.TestCase):
         url = 'http://www.baidu.com'
         url_node['url'] = url
         html = self.webpage_crawler_test.get_html(url)
-        print('通过url网址获得它的html'+str(html))
+        #print('通过url网址获得它的html'+str(html))
         url_list = self.webpage_parser_test.analys_html(html, url_node)
         res = len(url_list)
-        print('res的长度'+str(res))
+        #print('res的长度'+str(res))
         self.assertEqual(res, 30, 'test_analys_html fail')
         print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))     
 

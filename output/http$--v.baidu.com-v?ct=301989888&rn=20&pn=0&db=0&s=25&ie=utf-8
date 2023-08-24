@@ -1,0 +1,1845 @@
+<!DOCTYPE html>
+<html class="">
+<head>
+<script type="text/javascript">window["__protocol"] = function (url) {       var res = url;       var hostmap = {"t1.baidu.com":"https://gss0.baidu.com/6ON1bjeh1BF3odCf","t2.baidu.com":"https://gss0.baidu.com/6OZ1bjeh1BF3odCf","t3.baidu.com":"https://gss0.baidu.com/6OV1bjeh1BF3odCf","vs0.bdstatic.com":"https://gss0.baidu.com/6qVWsjikBxIFlNKl8IuM_a","vs1.bdstatic.com":"https://gss0.baidu.com/6qVXsjikBxIFlNKl8IuM_a","vs3.bdstatic.com":"https://gss0.baidu.com/6qVZsjikBxIFlNKl8IuM_a","vs4.bdstatic.com":"https://gss0.baidu.com/6qVSsjikBxIFlNKl8IuM_a","vs5.bdstatic.com":"https://gss0.baidu.com/6qVTsjikBxIFlNKl8IuM_a","vs6.bdstatic.com":"https://gss0.baidu.com/6qVUsjikBxIFlNKl8IuM_a","list.video.baidu.com":"https://gss0.baidu.com/8LsZeHSy0QIJnhGko9WTAnF6hhy","a.hiphotos.baidu.com":"https://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy","b.hiphotos.baidu.com":"https://gss0.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy","c.hiphotos.baidu.com":"https://gss0.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy","d.hiphotos.baidu.com":"https://gss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy","e.hiphotos.baidu.com":"https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy","f.hiphotos.baidu.com":"https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy","g.hiphotos.baidu.com":"https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy","hiphotos.baidu.com":"https://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv","nsclick.baidu.com":"https://pc-videoclick.xiaodutv.com","img.baidu.com":"https://gss0.baidu.com/70cFsjip0QIZ8tyhnq","cpro.baidustatic.com":"https://cpro.baidustatic.com","pc.videoclick.baidu.com":"https://pc-videoclick.xiaodutv.com","timg.baidu.com":"https://gss0.bdstatic.com/6Ls0a8Sm2Q5IlBGlnYG","nssug.baidu.com":"https://sp1.baidu.com/8qUZeT8a2gU2pMbgoY3K","passport.bdimg.com":"//passport.bdimg.com","cbjs.baidu.com":"https://cbjs.baidu.com","static.tieba.baidu.com":"//static.tieba.baidu.com","app.video.baidu.com":"https://gss0.bdstatic.com/9_QWsiyh1AE48t7jm9iCKT-xh_","image.youxi.v.baidu.com":"https://gss2.bdstatic.com/70cHazva4QcZiNLglE_Z2jR7b2w6buu","s0.hao123img.com":"https://gss0.bdstatic.com/5eR1dDebRNRTm2_p8IuM_a","s1.hao123img.com":"https://gss0.bdstatic.com/5eN1dDebRNRTm2_p8IuM_a","s2.hao123img.com":"https://gss0.bdstatic.com/5eN1dDebRNRTm2_p8IuM_a","v.baidu.com\\/dev_proxy_logout.html":"//v.baidu.com/dev_proxy_logout.html","v.baidu.com\\/dev_proxy_logininfo.html":"//v.baidu.com/dev_proxy_logininfo.html","v.baidu.com\\/videoapi":"//v.baidu.com/videoapi","v.baidu.com\\/commonapi":"//v.baidu.com/commonapi","v.baidu.com\\/staticapi\\/":"//v.baidu.com/staticapi/","v.baidu.com\\/uc\\/":"//v.baidu.com/uc/","v.xiaodutv.com\\/\\?pagelets":"/?pagelets","v.baidu.com\\/d\\?":"//v.baidu.com/d?"};       for (var hostReg in hostmap) {          var reg = new RegExp("^((http|https):)?(//)?" + hostReg);           res = url.replace(reg, hostmap[hostReg]);           if (res != url) {               return res;           }       }       return res;   }</script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+
+<title>百搜视频&mdash;&mdash;业界领先的中文视频搜索引擎之一</title>
+<meta name="keywords" content="热播电视剧,高清电影,好看的电视剧,好看的电影,电影天堂,电视剧排行榜,电影排行榜,高清电影,电影推荐">
+<meta name="description" content="百搜视频搜索是业界领先的中文视频搜索引擎之一，拥有海量的中文视频资源，提供用户满意的观看体验。在百搜视频，您可以便捷地找到海量的互联网视频，更有丰富的视频榜单、多样的视频专题满足您不同的视频观看需求。百搜视频，你的视界。">
+<script>void function(e,t,o,n,a,i,c){e.alogObjectName=a,e[a]=e[a]||function(){(e[a].q=e[a].q||[]).push(arguments)},e[a].l=e[a].l||+new Date,n="https:"===e.location.protocol?"https://fex.bdstatic.com"+n:"http://fex.bdstatic.com"+n;var r=!0;if(e.alogObjectConfig&&e.alogObjectConfig.sample){var s=Math.random();e.alogObjectConfig.rand=s,s>e.alogObjectConfig.sample&&(r=!1)}r&&(i=t.createElement(o),i.async=!0,i.src=n+"?v="+~(new Date/864e5)+~(new Date/864e5),c=t.getElementsByTagName(o)[0],c.parentNode.insertBefore(i,c))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function e(){}window.PDC={mark:function(e,t){alog("speed.set",e,t||+new Date),alog.fire&&alog.fire("mark")},init:function(e){alog("speed.set","options",e)},view_start:e,tti:e,page_ready:e}}(),void function(e){var t=!1;e.onerror=function(e,o,n,a){var i=!0;return!o&&/^script error/i.test(e)&&(t?i=!1:t=!0),i&&alog("exception.send","exception",{msg:e,js:o,ln:n,col:a}),!1},alog("exception.on","catch",function(e){alog("exception.send","exception",{msg:e.msg,js:e.path,ln:e.ln,method:e.method,flag:"catch"})})}(window);</script>
+
+<script>(function(){var hash=location.hash.slice(1);if(hash){var params=hash.split('&'),item;for(var i=0,len=params.length;i<len;i++){item=params[i].split('=');if(item[0]==='word'&&item[1]){location.replace('https://v.xiaodutv.com/v?fr=quicksearch&ie=utf-8&word='+item[1]);break;}}}}());</script>
+
+<script>
+            alog('speed.set', 'ht', +new Date);
+
+            
+            
+                            window.city = '北京';
+            
+                    </script>
+<link rel="stylesheet" type="text/css" href="https://video-static-xdcdn.xiaodutv.com/browse_static/https/common/pkg/common_ui_966f657d.css" /><link rel="stylesheet" type="text/css" href="https://video-static-xdcdn.xiaodutv.com/browse_static/https/videoHome/pkg/vidoeHome_6d1da647.css" /><link rel="stylesheet" type="text/css" href="https://video-static-xdcdn.xiaodutv.com/browse_static/https/common/pkg/common_ui_video_f6e302fc.css" /><link rel="stylesheet" type="text/css" href="https://video-static-xdcdn.xiaodutv.com/browse_static/https/videoChannelCommon/pkg/videoChannelCommon_9983b413.css" /><style type="text/css">#PCFocusPosterOne,                    #pcIndexBlockTvOne,                    #PCIndexBlockTv2,                    #PCIndexBlockShowOne,                    #PCFocusPosterOne1,                    #PCFocusPosterOne2,                    #PCFocusPosterOne3,                    #PCindexpagehot1,                    #PCindexpagehot2,                    #PCindexpagehot3,                    #PCIndexBlockTv3,                    #PCIndexBlockTv4,                    #PCIndexBlockShow2,                    #PCindexpagecomic1,                    #PCindexpagecomic2,                    #PCindexpagechild1,                    #PCindexpagechild2,                    #PCindexpageoriginal1,                    #PCindexpageoriginal2,                    #PCIndexmovie1,                    #PCIndexmovie2,                    #PCIndextdmf1,                    #PCIndextdmf2,                    #PCIndexActionmovie1,                    #PCIndexActionmovie2{                        width:180px;                        height:155px;                        position:absolute;                        right:200px;                        bottom:187px;                        z-index:3;                         display:none;                                            }                    #pcIndexBlockTvOne{                        right:0;                        bottom:14px;                    }                    #PCIndexBlockShowOne{                        right:400px;                        bottom:15px;                                             }                    #PCFocusPosterOne1,#PCIndexBlockTv3{                        right:800px;                        bottom:15px;                    }                    #PCIndexBlockTv4{                        right:400px;                        bottom:352px;                    }                    #PCFocusPosterOne2,#PCindexpageoriginal2{                        right:0;                        bottom:15px;                    }                    #PCindexpagehot1,                    #PCindexpagechild1{                        right:400px;                        top:57px;                    }                    #PCindexpagehot2{                        right:600px;                        bottom:17px;                    }                    #PCIndextdmf1{                        right:200px;                        bottom:184px;                    }                    #PCIndextdmf2{                        right:600px;                        bottom:15px;                    }                    #PCIndexBlockShow2,#PCindexpagecomic1{                        right:600px;                        bottom:185px;                    }                    #PCindexpagechild2{                        right:0;                        bottom:-4px;                    }                    #PCindexpagecomic2,#PCIndexmovie2{                        bottom:15px;                    }                    #PCIndexmovie1,                    #PCindexpageoriginal1{                        right:400px;                    }                    #PCIndexActionmovie1{                        right:600px;                        top:0;                    }                    #PCFocusPosterOne3{                        right: 400px;                        bottom: 352px;                    }                    #PCindexpagehot3{                        right:0;                    }</style></head>
+<body class="home">
+
+
+<script src="//static.mediav.com/js/mvf_shop_window.js"></script>
+<script src="//static.mediav.com/js/feed_ts.js"></script>
+<script>
+    var __mn_st__ = (new Date()).getTime();
+
+    
+    
+    </script>
+<script src="https://video-static-xdcdn.xiaodutv.com/browse_static/https/common/widget/global/admLoader/main_5aa90556.js"></script>
+<script>
+    var __mn_ed__ = (new Date()).getTime();
+    BAIDU_VIDEO_ADM_TOOLS.sendlog('//pc-videoclick.xiaodutv.com/u.gif?pid=104&tpl=performancelog&bl=admloader&ext=' + (__mn_ed__ - __mn_st__))
+</script>
+<script src="https://list-video.xiaodutv.com/adpc/adpc_head.js"></script>
+<div id="bdv-suggestion-inner-adv" class="bdv-suggestion-inner-adv">
+</div>
+<div id="new-header-wrap" >
+<div id="new-header" monkey="new-header" alog-alias="new-header" >
+<div class="hd-inner hd-inner-new">
+<div class="hd-inner-map">
+<div class="hd-inner-border">
+<div id="new-userbar" static="bl=userbar" monkey="userbar" alog-alias="userbar"></div>
+<div id="new-tabsearch">
+<div class="tabs">
+<a href="http://www.baidu.com/" data-product="ps">网页</a>
+<a href="http://news.baidu.com/" data-product="news">新闻</a>
+<a href="http://tieba.baidu.com/" data-product="tieba">贴吧</a>
+<a href="http://zhidao.baidu.com/" data-product="zhidao">知道</a>
+<a href="https://music.taihe.com/" data-product="music">音乐</a>
+<a href="http://image.baidu.com/" data-product="image">图片</a>
+<strong>视频</strong>
+<a href="http://map.baidu.com/" data-product="map">地图</a>
+<a href="http://wenku.baidu.com/" data-product="wenku">文库</a>
+</div>
+</div>
+</div>
+</div>
+<div class="hd-inner-search">
+<span id="rightCornerPullAd" class="right-corner-pullad">
+</span>
+<div class="hd-inner-search-content mr-130">
+<a href="https://v.xiaodutv.com/" id="new-logo" class="link-home"></a>
+<span class="logo-ad-wrap" id="logoAdWrap">
+</span>
+<div class="hd-nav">
+<div id="navmini">
+<a href="javascript:void(0)" class="link-toggle">导航<i></i></a>
+<div class="bd" static="bl=float_nav_list"><ul></ul></div>
+</div>
+</div>
+<div id="new-bdvSearch-content">
+<div class="bdvSearch-right">
+<form action="https://v.xiaodutv.com/v" method="get" name="f1" id="new-bdvSearch" class="new-bdv-search" target="_blank">
+<span class="bdv-search-inputs">
+<input type="text" maxlength="120" id="new-bdvSearchInput" name="word" value="平凡之路" data-prekey="平凡之路" class="place-holder" autocomplete="off" />
+</span>
+<span class="bdv-search-btns">
+<input type="submit" value="" id="new-bdvSearchBtn" />
+</span>
+<input name="ct" type="hidden" value="301989888" />
+<input name="rn" type="hidden" value="67" />
+<input name="pn" type="hidden" value="0" />
+<input name="db" type="hidden" value="0" />
+<input name="s" type="hidden" value="0" />
+<input name="fbl" type="hidden" value="800" />
+<input name="ie" type="hidden" value="utf-8" />
+<input name="oq" type="hidden"  disabled="disabled" />
+<input name="f" type="hidden" value="3"  disabled="disabled" />
+<input name="rsp" type="hidden"  disabled="disabled" />
+</form>
+<div class="new-hd-record">
+</div>
+</div>
+<div class="new-hd-keyword">
+<div id="searchKeyword" class="search-keyword">
+<ul static="bl=top_search_Keyword">
+<li >
+<a href="https://v.xiaodutv.com/tv/35752.html" static="li=0&ext=https://v.xiaodutv.com/tv/35752.html" target="_blank">平凡之路</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/show/24626.html" static="li=1&ext=http://v.xiaodutv.com/show/24626.html" target="_blank">奔跑吧7</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/movie/146935.html" static="li=2&ext=http://v.xiaodutv.com/movie/146935.html" target="_blank">奇门遁甲2</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/tv/34628.html" static="li=3&ext=https://v.xiaodutv.com/tv/34628.html" target="_blank">云襄传</a>
+</li>
+<li >
+<a href="https://v.baidu.com/show/24619.html" static="li=4&ext=http://v.baidu.com/show/24619.html" target="_blank">乘风2023</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/tv/35795.html" static="li=5&ext=http://v.xiaodutv.com/tv/35795.html" target="_blank">温暖的甜蜜的</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/tv/35835.html" static="li=6&ext=http://v.xiaodutv.com/tv/35835.html" target="_blank">卧底警花</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="index_right_top"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="nav" monkey="nav" alog-alias="nav" static="bl=nav_list">
+<div class="nav-inner ">
+<ul class="menu-main">
+<li  class="current">
+<a href="https://v.xiaodutv.com/">
+首页
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/tv">
+电视剧
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/movie">
+电影
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/show">
+综艺
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/comic">
+动漫
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/channel/short/newamuse">
+搞笑
+<img src="https://list-video.xiaodutv.com/pc_static/common/blank.gif" />
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/channel/short/newstar">
+明星
+<img src="https://list-video.xiaodutv.com/pc_static/common/blank.gif" />
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/channel/short/newfood">
+美食
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/channel/short/newlife">
+生活
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/channel/short/newmusic">
+音乐
+</a>
+</li>
+<li >
+<a href="https://v.xiaodutv.com/top/">
+排行榜
+</a>
+</li>
+</ul>
+<ul class="menu-sub">
+</ul>
+</div>
+<div class="d-live-subTips hide" id="liveSubTips">
+<a class="a-sublive-tips" target="_blank" id='aSubLiveTips' static='bl=subLiveTips'>
+<img src="" alt="" class="img-subtips" id='liveImage'>
+<div class="d-live-tips">
+<p class="p-live-tip">您预约的<strong class="str-live-tip"></strong>
+</p>
+<p class="p-live-tip">即将开始播放，去观看直播 &gt;&gt;</p>
+</div>
+</a>
+<i class="icon-liveTips-del">×</i>
+</div>
+</div>
+
+
+<div id="content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="section">
+<div class="hottag-area">
+<div class='hot-tags head-common' static="bl=blockhottags&blname=%E7%83%AD%E6%90%9C%E8%AF%8D&to=search">
+<h2 class='title-common'>
+最新要闻
+</h2>
+<ul class="ul-hot-tags">
+<li class='li-hot-tag'>
+<a href="https://wap.peopleapp.com/article/6894474/6757652" target="_blank" static="stp=link&no=1" class='a-hot-tag'>
+奋力开创中国特色社会主义新局面
+</a>
+</li>
+<li class='li-hot-tag'>
+<a href="https://xhpfmapi.xinhuaxmt.com/vh512/share/11166352?channel=weixinp" target="_blank" static="stp=link&no=2" class='a-hot-tag'>
+向着全面推进中华民族伟大复兴奋勇前进——写在中国共产党第二十次全国代表大会召开之际
+</a>
+</li>
+<li class='li-hot-tag'>
+<a href="https://baishi.xiaodutv.com/watch/08369387333306528653.html" target="_blank" static="stp=link&no=3" class='a-hot-tag'>
+网络强国建设成绩背后有何密码？
+</a>
+</li>
+<li class='li-hot-tag'>
+<a href="https://baishi.xiaodutv.com/watch/8676726385337344610.html" target="_blank" static="stp=link&no=4" class='a-hot-tag'>
+钟南山：目前没有一个药能够被证实对新冠肺炎有预防作用
+</a>
+</li>
+<li class='li-hot-tag'>
+<a href="https://v.xiaodutv.com/watch/6767793123537051652.html" target="_blank" static="stp=link&no=5" class='a-hot-tag'>
+无证驾驶撞兰博基尼婚车 车损近百万！
+</a>
+</li>
+<li class='li-hot-tag'>
+<a href="https://v.xiaodutv.com/watch/01150499719716301034.html" target="_blank" static="stp=link&no=6" class='a-hot-tag'>
+“拉车门”偷银行卡 “免密支付”成漏洞
+</a>
+</li>
+<li class='li-hot-tag'>
+<a href="https://v.xiaodutv.com/watch/6904007066545460201.html" target="_blank" static="stp=link&no=7" class='a-hot-tag'>
+坐车赶集！韩国流行免下车直销会，主推当地农特产品
+</a>
+</li>
+<li class='li-hot-tag'>
+<a href="https://v.xiaodutv.com/watch/5002004700255752636.html" target="_blank" static="stp=link&no=8" class='a-hot-tag'>
+东京奥运会第一阶段简化方案公布
+</a>
+</li>
+</ul>
+</div></div>
+<div class="focus-area" style="position:relative">
+<div class="toplist-area">
+<div class="eastday-top-list" id=index_top_all_list>
+<div class="top-list-head">
+<div class="head-common" static="bl=index_top_all_list&blname=%E7%83%AD%E9%97%A8%E6%8E%92%E8%A1%8C%E6%A6%9C">
+<h2 class='title-common'>
+热门排行榜
+</h2>
+</div></div>
+<div class="top-list-body">
+<div class="body-main" static='bl=eastday-top-list&blname=%E7%83%AD%E9%97%A8%E6%8E%92%E8%A1%8C%E6%A6%9C'>
+<ul class="ul-top-lists">
+<li class="li-top-list li-top-0 li-top-hover li-top-lt3">
+<a  href="https://v.xiaodutv.com/tv/35752.htm"
+                                static='stp=toplist&ext=image&no=0&ti=%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF'
+                                target="_blank"
+                                class='a-image'>
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/5/a59f1833.jpg" alt="平凡之路" class="img-top-list">
+<span class="icon-play"></span>
+</a>
+<a  href="https://v.xiaodutv.com/tv/35752.htm"
+                                static="stp=toplist&ext=title&no=0&ti=%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF"
+                                target="_blank"
+                                class="a-title">
+<p class="p-intro">
+<i class='i-rank'>1</i>
+<span class="sp-title">平凡之路</span>
+<span class="play-num">
+992.1万</span>
+</p>
+</a>
+</li>
+<li class="li-top-list li-top-1  li-top-lt3">
+<a  href="https://v.xiaodutv.com/movie/146935.htm"
+                                static='stp=toplist&ext=image&no=1&ti=%E5%A5%87%E9%97%A8%E9%81%81%E7%94%B22'
+                                target="_blank"
+                                class='a-image'>
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/5/80301cc5.jpg" alt="奇门遁甲2" class="img-top-list">
+<span class="icon-play"></span>
+</a>
+<a  href="https://v.xiaodutv.com/movie/146935.htm"
+                                static="stp=toplist&ext=title&no=1&ti=%E5%A5%87%E9%97%A8%E9%81%81%E7%94%B22"
+                                target="_blank"
+                                class="a-title">
+<p class="p-intro">
+<i class='i-rank'>2</i>
+<span class="sp-title">奇门遁甲2</span>
+<span class="play-num">
+897.4万</span>
+</p>
+</a>
+</li>
+<li class="li-top-list li-top-2  li-top-lt3">
+<a  href="https://v.xiaodutv.com/tv/34119.htm"
+                                static='stp=toplist&ext=image&no=2&ti=%E4%BD%A0%E7%BB%99%E6%88%91%E7%9A%84%E5%96%9C%E6%AC%A2'
+                                target="_blank"
+                                class='a-image'>
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/5/e4583255.jpg" alt="你给我的喜欢" class="img-top-list">
+<span class="icon-play"></span>
+</a>
+<a  href="https://v.xiaodutv.com/tv/34119.htm"
+                                static="stp=toplist&ext=title&no=2&ti=%E4%BD%A0%E7%BB%99%E6%88%91%E7%9A%84%E5%96%9C%E6%AC%A2"
+                                target="_blank"
+                                class="a-title">
+<p class="p-intro">
+<i class='i-rank'>3</i>
+<span class="sp-title">你给我的喜欢</span>
+<span class="play-num">
+872.2万</span>
+</p>
+</a>
+</li>
+<li class="li-top-list li-top-3  ">
+<a  href="https://v.xiaodutv.com/tv/34628.htm"
+                                static='stp=toplist&ext=image&no=3&ti=%E4%BA%91%E8%A5%84%E4%BC%A0'
+                                target="_blank"
+                                class='a-image'>
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/5/ac2a93f5.jpg" alt="云襄传" class="img-top-list">
+<span class="icon-play"></span>
+</a>
+<a  href="https://v.xiaodutv.com/tv/34628.htm"
+                                static="stp=toplist&ext=title&no=3&ti=%E4%BA%91%E8%A5%84%E4%BC%A0"
+                                target="_blank"
+                                class="a-title">
+<p class="p-intro">
+<i class='i-rank'>4</i>
+<span class="sp-title">云襄传</span>
+<span class="play-num">
+822.3万</span>
+</p>
+</a>
+</li>
+<li class="li-top-list li-top-4  ">
+<a  href="https://v.xiaodutv.com/tv/35795.htm"
+                                static='stp=toplist&ext=image&no=4&ti=%E6%B8%A9%E6%9A%96%E7%9A%84%E7%94%9C%E8%9C%9C%E7%9A%84'
+                                target="_blank"
+                                class='a-image'>
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/5/47b957a2.jpg" alt="温暖的甜蜜的" class="img-top-list">
+<span class="icon-play"></span>
+</a>
+<a  href="https://v.xiaodutv.com/tv/35795.htm"
+                                static="stp=toplist&ext=title&no=4&ti=%E6%B8%A9%E6%9A%96%E7%9A%84%E7%94%9C%E8%9C%9C%E7%9A%84"
+                                target="_blank"
+                                class="a-title">
+<p class="p-intro">
+<i class='i-rank'>5</i>
+<span class="sp-title">温暖的甜蜜的</span>
+<span class="play-num">
+805.0万</span>
+</p>
+</a>
+</li>
+<li class="li-top-list li-top-5  ">
+<a  href="https://v.xiaodutv.com/movie/146985.htm"
+                                static='stp=toplist&ext=image&no=5&ti=%E8%B6%85%E8%83%BD%E6%B0%B4%E6%80%AA'
+                                target="_blank"
+                                class='a-image'>
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/5/3db6257d.jpg" alt="超能水怪" class="img-top-list">
+<span class="icon-play"></span>
+</a>
+<a  href="https://v.xiaodutv.com/movie/146985.htm"
+                                static="stp=toplist&ext=title&no=5&ti=%E8%B6%85%E8%83%BD%E6%B0%B4%E6%80%AA"
+                                target="_blank"
+                                class="a-title">
+<p class="p-intro">
+<i class='i-rank'>6</i>
+<span class="sp-title">超能水怪</span>
+<span class="play-num">
+782.1万</span>
+</p>
+</a>
+</li>
+<li class="li-top-list li-top-6  ">
+<a  href="https://v.xiaodutv.com/tv/35835.htm"
+                                static='stp=toplist&ext=image&no=6&ti=%E5%8D%A7%E5%BA%95%E8%AD%A6%E8%8A%B1'
+                                target="_blank"
+                                class='a-image'>
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/5/2ef6d564.jpg" alt="卧底警花" class="img-top-list">
+<span class="icon-play"></span>
+</a>
+<a  href="https://v.xiaodutv.com/tv/35835.htm"
+                                static="stp=toplist&ext=title&no=6&ti=%E5%8D%A7%E5%BA%95%E8%AD%A6%E8%8A%B1"
+                                target="_blank"
+                                class="a-title">
+<p class="p-intro">
+<i class='i-rank'>7</i>
+<span class="sp-title">卧底警花</span>
+<span class="play-num">
+762.1万</span>
+</p>
+</a>
+</li>
+<li class="li-top-list li-top-7  ">
+<a  href="https://v.xiaodutv.com/tv/32241.htm"
+                                static='stp=toplist&ext=image&no=7&ti=%E6%97%A0%E9%97%B4'
+                                target="_blank"
+                                class='a-image'>
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/4/13bc102b.jpg" alt="无间" class="img-top-list">
+<span class="icon-play"></span>
+</a>
+<a  href="https://v.xiaodutv.com/tv/32241.htm"
+                                static="stp=toplist&ext=title&no=7&ti=%E6%97%A0%E9%97%B4"
+                                target="_blank"
+                                class="a-title">
+<p class="p-intro">
+<i class='i-rank'>8</i>
+<span class="sp-title">无间</span>
+<span class="play-num">
+752.3万</span>
+</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="poster-area">
+<div class="body-common" static="bl=index_focus_poster_small&blname=%E6%9C%80%E6%96%B0%E8%A6%81%E9%97%BB-%E7%84%A6%E7%82%B9%E6%B5%B7%E6%8A%A5&to=play" >
+<ul class='poster-list'>
+<li class='poster-li poster-n0'>
+<a  class="a-pic"
+                            href="https://www.toutiao.com/article/7268181448438743564/?tt_from=weixin&utm_campaign=client_share&app=news_article&utm_source=weixin&iid=3538701353778615&utm_medium=toutiao_android&share_token=61dacbf4-b1dc-4867-b8f5-a58815c550d7&wxshare_count=2&source=m_redirect"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=1&ti=%E6%B5%B7%E6%B7%80%E2%80%9C%E8%AD%A6%E5%AD%A6%E8%81%94%E7%9B%9F%C2%B7%E6%A0%A1%E5%9B%AD%E6%97%A0%E8%AF%88%E2%80%9D%E5%88%9B%E6%84%8F%E5%A4%A7%E8%B5%9B"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/58a9c299.jpg" alt="海淀“警学联盟·校园无诈”创意大赛">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="https://www.toutiao.com/article/7268181448438743564/?tt_from=weixin&utm_campaign=client_share&app=news_article&utm_source=weixin&iid=3538701353778615&utm_medium=toutiao_android&share_token=61dacbf4-b1dc-4867-b8f5-a58815c550d7&wxshare_count=2&source=m_redirect" target="_blank" static="stp=bd&no=1&ti=%E6%B5%B7%E6%B7%80%E2%80%9C%E8%AD%A6%E5%AD%A6%E8%81%94%E7%9B%9F%C2%B7%E6%A0%A1%E5%9B%AD%E6%97%A0%E8%AF%88%E2%80%9D%E5%88%9B%E6%84%8F%E5%A4%A7%E8%B5%9B">
+<p class="title">海淀“警学联盟·校园无诈”创意大赛</p>
+<p class="intro">颁奖典礼即将震撼来袭</p>
+</a>
+</li>
+<li class='poster-li poster-n1'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/2677416672586689808.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=2&ti=%E5%BC%A0%E9%9C%87%E5%B2%B3%E6%B5%B7%E8%BE%B9%E6%95%91%E6%BA%BA%E6%B0%B4%E8%80%85"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/b34aa3b4.jpg" alt="张震岳海边救溺水者">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/2677416672586689808.html" target="_blank" static="stp=bd&no=2&ti=%E5%BC%A0%E9%9C%87%E5%B2%B3%E6%B5%B7%E8%BE%B9%E6%95%91%E6%BA%BA%E6%B0%B4%E8%80%85">
+<p class="title">张震岳海边救溺水者</p>
+<p class="intro">按压胸部做心肺复苏</p>
+</a>
+</li>
+<li class='poster-li poster-n2'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/0175515908733252729.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=3&ti=%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%83%8C%E6%99%AF%E5%BC%BA%E5%A4%A7%EF%BC%9F"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/39faca9a.jpg" alt="王楚然背景强大？">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/0175515908733252729.html" target="_blank" static="stp=bd&no=3&ti=%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%83%8C%E6%99%AF%E5%BC%BA%E5%A4%A7%EF%BC%9F">
+<p class="title">王楚然背景强大？</p>
+<p class="intro">摄影师吐槽后多平台账号消失</p>
+</a>
+</li>
+<li class='poster-li poster-n3'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/4512111343810626426.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=4&ti=%E6%A2%A6%E5%9B%9E%E5%B1%B1%E6%A5%82%E6%A0%91%E4%B9%8B%E6%81%8B"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/bc742efa.jpg" alt="梦回山楂树之恋">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/4512111343810626426.html" target="_blank" static="stp=bd&no=4&ti=%E6%A2%A6%E5%9B%9E%E5%B1%B1%E6%A5%82%E6%A0%91%E4%B9%8B%E6%81%8B">
+<p class="title">梦回山楂树之恋</p>
+<p class="intro">周冬雨颜值回春</p>
+</a>
+</li>
+<li class='poster-li poster-n4'>
+<a  class="a-pic"
+                            href="https://baishi.xiaodutv.com/watch/02061331349940713513.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=5&ti=%E6%9D%8E%E6%95%8F%E9%95%90%E5%8F%91%E7%A6%8F%E4%B8%A5%E9%87%8D%E8%83%96%E6%88%90%E7%90%83"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/f15bed43.jpg" alt="李敏镐发福严重胖成球">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/02061331349940713513.html" target="_blank" static="stp=bd&no=5&ti=%E6%9D%8E%E6%95%8F%E9%95%90%E5%8F%91%E7%A6%8F%E4%B8%A5%E9%87%8D%E8%83%96%E6%88%90%E7%90%83">
+<p class="title">李敏镐发福严重胖成球</p>
+<p class="intro">面部浮肿脸冒油光</p>
+</a>
+</li>
+<li class='poster-li poster-n5'>
+<a  class="a-pic"
+                            href="https://baishi.xiaodutv.com/watch/0428093074833120414.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=6&ti=TFBOYS%E5%8D%81%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/4ce3ccae.jpg" alt="TFBOYS十年演唱会结束">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/0428093074833120414.html" target="_blank" static="stp=bd&no=6&ti=TFBOYS%E5%8D%81%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F">
+<p class="title">TFBOYS十年演唱会结束</p>
+<p class="intro">三人合体却鲜少互动</p>
+</a>
+</li>
+<li class='poster-li poster-n6'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/3692250546165619570.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=7&ti=%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%A4%96%E5%BD%A2%E8%B4%A8%E7%96%91"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/3de67063.jpg" alt="杨紫回应外形质疑">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/3692250546165619570.html" target="_blank" static="stp=bd&no=7&ti=%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E5%A4%96%E5%BD%A2%E8%B4%A8%E7%96%91">
+<p class="title">杨紫回应外形质疑</p>
+<p class="intro">否认自己总演绝世大美人</p>
+</a>
+</li>
+<li class='poster-li poster-n7'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/2000963429775387737.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=8&ti=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BD%A9%E6%8E%92"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/46db0845.jpg" alt="TFBOYS演唱会彩排">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/2000963429775387737.html" target="_blank" static="stp=bd&no=8&ti=TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BD%A9%E6%8E%92">
+<p class="title">TFBOYS演唱会彩排</p>
+<p class="intro">王源时隔多年再唱首支原创</p>
+</a>
+</li>
+<li class='poster-li poster-n8'>
+<a  class="a-pic"
+                            href="https://baishi.xiaodutv.com/watch/01913472023966969006.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=9&ti=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%EF%BC%81"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/36f256a8.jpg" alt="羽生结弦官宣结婚！">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/01913472023966969006.html" target="_blank" static="stp=bd&no=9&ti=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%EF%BC%81">
+<p class="title">羽生结弦官宣结婚！</p>
+<p class="intro">妻子身份曝光</p>
+</a>
+</li>
+<li class='poster-li poster-n9'>
+<a  class="a-pic"
+                            href="https://baishi.xiaodutv.com/watch/6524137301070152953.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=10&ti=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B8%A6%E5%84%BF%E5%AD%90%E5%A4%96%E5%87%BA%E7%8E%A9%E8%80%8D"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/06bfa8c7.jpg" alt="赵丽颖带儿子外出玩耍">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/6524137301070152953.html" target="_blank" static="stp=bd&no=10&ti=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B8%A6%E5%84%BF%E5%AD%90%E5%A4%96%E5%87%BA%E7%8E%A9%E8%80%8D">
+<p class="title">赵丽颖带儿子外出玩耍</p>
+<p class="intro">事后再送回前夫冯绍峰家</p>
+</a>
+</li>
+<li class='poster-li poster-n10'>
+<a  class="a-pic"
+                            href="https://baishi.xiaodutv.com/watch/8699090555184544529.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=11&ti=%E5%A4%A7S%E8%A2%AB%E6%9B%9D%E7%94%9F%E7%97%85%E8%99%9A%E5%BC%B1"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/a64afa12.jpg" alt="大S被曝生病虚弱">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/8699090555184544529.html" target="_blank" static="stp=bd&no=11&ti=%E5%A4%A7S%E8%A2%AB%E6%9B%9D%E7%94%9F%E7%97%85%E8%99%9A%E5%BC%B1">
+<p class="title">大S被曝生病虚弱</p>
+<p class="intro">经纪人否认</p>
+</a>
+</li>
+<li class='poster-li poster-n11'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/7462608822721341057.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=12&ti=%E5%BD%AD%E4%BA%8E%E6%99%8F%E6%89%93%E5%81%87%E5%81%A5%E8%BA%AB%E6%88%BF%E4%BB%A3%E8%A8%80"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/8f614f6a.jpg" alt="彭于晏打假健身房代言">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/7462608822721341057.html" target="_blank" static="stp=bd&no=12&ti=%E5%BD%AD%E4%BA%8E%E6%99%8F%E6%89%93%E5%81%87%E5%81%A5%E8%BA%AB%E6%88%BF%E4%BB%A3%E8%A8%80">
+<p class="title">彭于晏打假健身房代言</p>
+<p class="intro">称因其未授权行骗行为</p>
+</a>
+</li>
+<li class='poster-li poster-n12'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/2836020078584379811.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=13&ti=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A1%E6%BC%94%E7%AD%B9%E5%A4%87%E4%B8%AD"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/c9f7fc9c.jpg" alt="凤凰传奇巡演筹备中">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/2836020078584379811.html" target="_blank" static="stp=bd&no=13&ti=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%B7%A1%E6%BC%94%E7%AD%B9%E5%A4%87%E4%B8%AD">
+<p class="title">凤凰传奇巡演筹备中</p>
+<p class="intro">工作室火速打假场次传闻</p>
+</a>
+</li>
+<li class='poster-li poster-n13'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/6691833033354281610.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=14&ti=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%83%85%E5%9C%BA%E4%B9%9F%E5%BE%97%E6%84%8F"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/0d38e1d5.jpg" alt="魏大勋情场也得意">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/6691833033354281610.html" target="_blank" static="stp=bd&no=14&ti=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%83%85%E5%9C%BA%E4%B9%9F%E5%BE%97%E6%84%8F">
+<p class="title">魏大勋情场也得意</p>
+<p class="intro">和秦岚手挽手回家感情稳定</p>
+</a>
+</li>
+<li class='poster-li poster-n14'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/1889832654190185479.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=15&ti=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%99%92%E6%B8%85%E5%8D%8E%E9%80%9A%E7%9F%A5%E4%B9%A6"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/7a8757da.jpg" alt="苏翊鸣晒清华通知书">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/1889832654190185479.html" target="_blank" static="stp=bd&no=15&ti=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%99%92%E6%B8%85%E5%8D%8E%E9%80%9A%E7%9F%A5%E4%B9%A6">
+<p class="title">苏翊鸣晒清华通知书</p>
+<p class="intro">放弃演戏滑雪</p>
+</a>
+</li>
+<li class='poster-li poster-n15'>
+<a  class="a-pic"
+                            href="http://baishi.baidu.com/watch/7451238007942111562.html"
+                            target="_blank"
+                            data-baishi=""
+                            static="stp=bd&no=16&ti=%E9%83%91%E6%81%BA%E5%86%8D%E6%AC%A1%E6%BE%84%E6%B8%85%E4%BC%A0%E9%97%BB"
+                            >
+<img src="https://vorcdn.xiaodutv.com/misimg/2023/8/31593d02.jpg" alt="郑恺再次澄清传闻">
+<i class="icon-play"></i>
+</a>
+<a class="a-title" href="http://baishi.baidu.com/watch/7451238007942111562.html" target="_blank" static="stp=bd&no=16&ti=%E9%83%91%E6%81%BA%E5%86%8D%E6%AC%A1%E6%BE%84%E6%B8%85%E4%BC%A0%E9%97%BB">
+<p class="title">郑恺再次澄清传闻</p>
+<p class="intro">原谅造谣者：知错能改善莫大焉</p>
+</a>
+</li>
+</ul>
+</div></div>
+<div id="PCFocusPosterOne">
+</div>
+<div id="PCFocusPosterOne1">
+</div>
+<div id="PCFocusPosterOne2">
+</div>
+<div id="PCFocusPosterOne3">
+</div>
+</div>
+</div>
+<div class="section">
+<div id="pcindexpageColumnjrrd"></div>
+</div>
+<div class="section" id="east-day-container">
+</div>
+<div class="section">
+<div id="PCIndexPageCube"></div>
+</div>
+
+<div class="section section-ad">
+<div id="channelBannerAdver_1758827662"></div>
+</div>
+
+<div class="section section-ad">
+<div id="channelBannerAdver_781223221"></div>
+</div>
+
+<div class="section">
+<div class="base-scroll" id='index_show_mini_comic'>
+<div class="base-scroll-head">
+<div class="head-common" static="bl=index_show_mini_comic&blname=%E6%90%9E%E7%AC%91">
+<h2 class='title-common'>
+<a  href="https://v.xiaodutv.com/channel/short/newamuse"
+                    target="_blank"
+                    class="a-link a-text-title"
+                    static='stp=hd&ext=title'>
+搞笑
+</a>
+</h2>
+<p class="p-links">
+<a href="https://v.xiaodutv.com/watch/7575562464212758385.html"
+                    target="_blank"
+                    class="a-link"
+                    static='stp=hd&ext=0'>
+当代青年：一直很沙雕，从未被超越
+</a>
+<i class="i-split">/</i>
+<a href="https://v.xiaodutv.com/watch/08037660682754019898.html"
+                    target="_blank"
+                    class="a-link"
+                    static='stp=hd&ext=1'>
+让你见识一下什么才是见钱眼开
+</a>
+<i class="i-split">/</i>
+<a href="https://v.xiaodutv.com/watch/8333188338309558508.html"
+                    target="_blank"
+                    class="a-link"
+                    static='stp=hd&ext=2'>
+你的女朋友今年能带回家吗？
+</a>
+<i class="i-split">/</i>
+<a href="https://v.xiaodutv.com/watch/07171852374677825720.html"
+                    target="_blank"
+                    class="a-link"
+                    static='stp=hd&ext=3'>
+高手是如何探案的？
+</a>
+<i class="i-split">/</i>
+<a href="https://v.xiaodutv.com/channel/short/newamuse"
+                    target="_blank"
+                    class="a-link a-more"
+                    static='stp=hd&ext=more'>
+更多<i class="i-more"></i>
+</a>
+</p>
+</div>
+</div>
+<div class="base-scroll-body">
+<div class="body-scroll-common" static="bl=index_show_mini_comic&blname=%E6%90%9E%E7%AC%91&to=play" >
+<div class="poster-box">
+<ul class='poster-list'><li class='poster-li poster-n0'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/1660978148351247765.html" target="_blank" static="stp=bd&no=1&ti=papi%E9%85%B1%E2%80%94%E2%80%94%E6%9C%AC%E6%9C%9F%E8%A7%86%E9%A2%91%E7%8C%AE%E7%BB%99%E6%89%80%E6%9C%89%E5%B7%B2%E7%BB%8F%E6%AF%95%E4%B8%9A%E5%92%8C%E5%8D%B3%E5%B0%86%E6%AF%95%E4%B8%9A%E7%9A%84%E4%BA%BA" title='papi酱——本期视频献给所有已经毕业和即将毕业的人' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/4afbfbedab64034f0fe2810fa7c379310a551d8f.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱——本期视频献给所有已经毕业和即将毕业的人" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/4afbfbedab64034f0fe2810fa7c379310a551d8f.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱——本期视频献给所有已经毕业和即将毕业的人" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:58</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/1660978148351247765.html" target="_blank" static="stp=bd&no=1&ti=papi%E9%85%B1%E2%80%94%E2%80%94%E6%9C%AC%E6%9C%9F%E8%A7%86%E9%A2%91%E7%8C%AE%E7%BB%99%E6%89%80%E6%9C%89%E5%B7%B2%E7%BB%8F%E6%AF%95%E4%B8%9A%E5%92%8C%E5%8D%B3%E5%B0%86%E6%AF%95%E4%B8%9A%E7%9A%84%E4%BA%BA" title='papi酱——本期视频献给所有已经毕业和即将毕业的人'>
+<p class="title">papi酱——本期视频献给所有已经毕业和即将毕业的人</p>
+</a>
+</li>
+<li class='poster-li poster-n1'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/0650016628637875159.html" target="_blank" static="stp=bd&no=2&ti=%E3%80%8A%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A%E3%80%8B%E7%AC%AC240%E9%9B%86+%E5%84%BF%E5%AD%90%E9%9B%87%E4%BA%BA%E8%AE%BE%E5%9C%88%E5%A5%97%EF%BC%8C%E9%AA%97%E5%8F%96%E8%80%81%E7%88%B8%E6%95%B0%E5%8D%83%E4%B8%87%E8%B5%84%E4%BA%A7%EF%BC%81" title='《陈翔六点半》第240集 儿子雇人设圈套，骗取老爸数千万资产！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/eac4b74543a982263ee6e1498582b9014a90ebbe.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="《陈翔六点半》第240集 儿子雇人设圈套，骗取老爸数千万资产！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/eac4b74543a982263ee6e1498582b9014a90ebbe.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="《陈翔六点半》第240集 儿子雇人设圈套，骗取老爸数千万资产！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">16:20</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/0650016628637875159.html" target="_blank" static="stp=bd&no=2&ti=%E3%80%8A%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A%E3%80%8B%E7%AC%AC240%E9%9B%86+%E5%84%BF%E5%AD%90%E9%9B%87%E4%BA%BA%E8%AE%BE%E5%9C%88%E5%A5%97%EF%BC%8C%E9%AA%97%E5%8F%96%E8%80%81%E7%88%B8%E6%95%B0%E5%8D%83%E4%B8%87%E8%B5%84%E4%BA%A7%EF%BC%81" title='《陈翔六点半》第240集 儿子雇人设圈套，骗取老爸数千万资产！'>
+<p class="title">《陈翔六点半》第240集 儿子雇人设圈套，骗取老爸数千万资产！</p>
+</a>
+</li>
+<li class='poster-li poster-n2'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/01728575150383351635.html" target="_blank" static="stp=bd&no=3&ti=papi%E9%85%B1%E7%9A%84%E5%91%A8%E4%B8%80%E6%94%BE%E9%80%81%E2%80%94%E2%80%94%E6%88%91%E4%BB%AC%E9%83%BD%E4%BC%9A%E5%8F%98%E6%88%90%E8%87%AA%E5%B7%B1%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%BA%BA" title='papi酱的周一放送——我们都会变成自己讨厌的人' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/203fb80e7bec54e720854d80b1389b504ec26ac6.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的周一放送——我们都会变成自己讨厌的人" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/203fb80e7bec54e720854d80b1389b504ec26ac6.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的周一放送——我们都会变成自己讨厌的人" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:17</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/01728575150383351635.html" target="_blank" static="stp=bd&no=3&ti=papi%E9%85%B1%E7%9A%84%E5%91%A8%E4%B8%80%E6%94%BE%E9%80%81%E2%80%94%E2%80%94%E6%88%91%E4%BB%AC%E9%83%BD%E4%BC%9A%E5%8F%98%E6%88%90%E8%87%AA%E5%B7%B1%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%BA%BA" title='papi酱的周一放送——我们都会变成自己讨厌的人'>
+<p class="title">papi酱的周一放送——我们都会变成自己讨厌的人</p>
+</a>
+</li>
+<li class='poster-li poster-n3'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/07273397090321208503.html" target="_blank" static="stp=bd&no=4&ti=papi%E9%85%B1%E7%9A%84%E8%AF%BB%E4%B9%A6%E6%97%A5%E7%89%B9%E5%88%AB%E7%AF%87%E2%80%94%E2%80%94%E5%8F%A4%E5%B8%8C%E8%85%8A%E6%82%B2%E5%89%A7" title='papi酱的读书日特别篇——古希腊悲剧' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/8326cffc1e178a826523569dfc03738da977e8f4.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的读书日特别篇——古希腊悲剧" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/8326cffc1e178a826523569dfc03738da977e8f4.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的读书日特别篇——古希腊悲剧" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">06:38</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/07273397090321208503.html" target="_blank" static="stp=bd&no=4&ti=papi%E9%85%B1%E7%9A%84%E8%AF%BB%E4%B9%A6%E6%97%A5%E7%89%B9%E5%88%AB%E7%AF%87%E2%80%94%E2%80%94%E5%8F%A4%E5%B8%8C%E8%85%8A%E6%82%B2%E5%89%A7" title='papi酱的读书日特别篇——古希腊悲剧'>
+<p class="title">papi酱的读书日特别篇——古希腊悲剧</p>
+</a>
+</li>
+<li class='poster-li poster-n4'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/9016846575178919714.html" target="_blank" static="stp=bd&no=5&ti=%E9%83%91%E4%BA%91%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%89%8D%E5%A6%BB%E5%A5%B3%E5%84%BF%E5%92%8C%E7%8E%B0%E4%BB%BB%E5%AD%A9%E5%AD%90%EF%BC%8C%E7%88%B8%E7%88%B8%E5%8F%88%E4%BC%9A%E9%80%89%E6%8B%A9%E8%B0%81%EF%BC%9F" title='郑云工作室：前妻女儿和现任孩子，爸爸又会选择谁？' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/1e30e924b899a9012cdddc4f16950a7b0308f5db.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="郑云工作室：前妻女儿和现任孩子，爸爸又会选择谁？" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/1e30e924b899a9012cdddc4f16950a7b0308f5db.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="郑云工作室：前妻女儿和现任孩子，爸爸又会选择谁？" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">06:31</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/9016846575178919714.html" target="_blank" static="stp=bd&no=5&ti=%E9%83%91%E4%BA%91%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E5%89%8D%E5%A6%BB%E5%A5%B3%E5%84%BF%E5%92%8C%E7%8E%B0%E4%BB%BB%E5%AD%A9%E5%AD%90%EF%BC%8C%E7%88%B8%E7%88%B8%E5%8F%88%E4%BC%9A%E9%80%89%E6%8B%A9%E8%B0%81%EF%BC%9F" title='郑云工作室：前妻女儿和现任孩子，爸爸又会选择谁？'>
+<p class="title">郑云工作室：前妻女儿和现任孩子，爸爸又会选择谁？</p>
+</a>
+</li>
+<li class='poster-li poster-n5'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/7654214820322049859.html" target="_blank" static="stp=bd&no=6&ti=%E8%87%B4%E5%91%BD%E9%81%87%E9%99%A9%E4%B8%80%E7%99%BE%E7%A7%8D%E8%87%AA%E6%95%91++%E4%B8%89%E5%8D%81%E4%BA%94" title='致命遇险一百种自救  三十五' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/bba1cd11728b471089b74701cbcec3fdfd032366.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="致命遇险一百种自救  三十五" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/bba1cd11728b471089b74701cbcec3fdfd032366.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="致命遇险一百种自救  三十五" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">02:28</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/7654214820322049859.html" target="_blank" static="stp=bd&no=6&ti=%E8%87%B4%E5%91%BD%E9%81%87%E9%99%A9%E4%B8%80%E7%99%BE%E7%A7%8D%E8%87%AA%E6%95%91++%E4%B8%89%E5%8D%81%E4%BA%94" title='致命遇险一百种自救  三十五'>
+<p class="title">致命遇险一百种自救  三十五</p>
+</a>
+</li>
+<li class='poster-li poster-n6'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/01788121390023820047.html" target="_blank" static="stp=bd&no=7&ti=papi%E9%85%B1%E8%BF%99%E8%BE%88%E5%AD%90%E5%81%9A%E6%A2%A6%E9%83%BD%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D" title='papi酱这辈子做梦都想说的话' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/ae51f3deb48f8c54bb4cac2632292df5e0fe7f1f.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱这辈子做梦都想说的话" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/ae51f3deb48f8c54bb4cac2632292df5e0fe7f1f.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱这辈子做梦都想说的话" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">01:22</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/01788121390023820047.html" target="_blank" static="stp=bd&no=7&ti=papi%E9%85%B1%E8%BF%99%E8%BE%88%E5%AD%90%E5%81%9A%E6%A2%A6%E9%83%BD%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D" title='papi酱这辈子做梦都想说的话'>
+<p class="title">papi酱这辈子做梦都想说的话</p>
+</a>
+</li>
+<li class='poster-li poster-n7'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/5409799928436633783.html" target="_blank" static="stp=bd&no=8&ti=papi%E9%85%B1%E2%80%94%E2%80%94%E6%83%B3%E8%AE%A912%E6%98%9F%E5%BA%A7%E5%92%8C%E5%B9%B3%E5%85%B1%E5%A4%84%EF%BC%9F" title='papi酱——想让12星座和平共处？' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/64380cd7912397dd207172995282b2b7d0a28727.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱——想让12星座和平共处？" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/64380cd7912397dd207172995282b2b7d0a28727.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱——想让12星座和平共处？" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:52</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/5409799928436633783.html" target="_blank" static="stp=bd&no=8&ti=papi%E9%85%B1%E2%80%94%E2%80%94%E6%83%B3%E8%AE%A912%E6%98%9F%E5%BA%A7%E5%92%8C%E5%B9%B3%E5%85%B1%E5%A4%84%EF%BC%9F" title='papi酱——想让12星座和平共处？'>
+<p class="title">papi酱——想让12星座和平共处？</p>
+</a>
+</li>
+<li class='poster-li poster-n8'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/04834385103430554835.html" target="_blank" static="stp=bd&no=9&ti=papi%E9%85%B1%E7%9A%84%E6%98%A5%E8%8A%82%E8%A1%97%E9%87%87%E2%80%94%E2%80%94%E6%98%AF%E6%97%B6%E5%80%99%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E5%95%A6" title='papi酱的春节街采——是时候回家过年啦' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/29381f30e924b899e321857f67061d950a7bf65c.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的春节街采——是时候回家过年啦" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/29381f30e924b899e321857f67061d950a7bf65c.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的春节街采——是时候回家过年啦" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">05:00</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/04834385103430554835.html" target="_blank" static="stp=bd&no=9&ti=papi%E9%85%B1%E7%9A%84%E6%98%A5%E8%8A%82%E8%A1%97%E9%87%87%E2%80%94%E2%80%94%E6%98%AF%E6%97%B6%E5%80%99%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E5%95%A6" title='papi酱的春节街采——是时候回家过年啦'>
+<p class="title">papi酱的春节街采——是时候回家过年啦</p>
+</a>
+</li>
+<li class='poster-li poster-n9'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/502062339063382495.html" target="_blank" static="stp=bd&no=10&ti=%E3%80%8A%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A%E3%80%8B%E7%AC%AC217%E9%9B%86+%E5%A5%B3%E5%AD%A9%E7%99%BD%E6%89%8B%E8%B5%B7%E5%AE%B6%E5%88%B0%E6%9C%88%E5%85%A5%E7%99%BE%E4%B8%87%EF%BC%8C%E5%9B%A0%E8%B4%AA%E5%A9%AA%E5%A4%B1%E5%8E%BB%E4%B8%80%E5%88%87%EF%BC%81" title='《陈翔六点半》第217集 女孩白手起家到月入百万，因贪婪失去一切！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/0d338744ebf81a4c56caee25d92a6059242da665.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="《陈翔六点半》第217集 女孩白手起家到月入百万，因贪婪失去一切！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/0d338744ebf81a4c56caee25d92a6059242da665.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="《陈翔六点半》第217集 女孩白手起家到月入百万，因贪婪失去一切！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">13:30</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/502062339063382495.html" target="_blank" static="stp=bd&no=10&ti=%E3%80%8A%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A%E3%80%8B%E7%AC%AC217%E9%9B%86+%E5%A5%B3%E5%AD%A9%E7%99%BD%E6%89%8B%E8%B5%B7%E5%AE%B6%E5%88%B0%E6%9C%88%E5%85%A5%E7%99%BE%E4%B8%87%EF%BC%8C%E5%9B%A0%E8%B4%AA%E5%A9%AA%E5%A4%B1%E5%8E%BB%E4%B8%80%E5%88%87%EF%BC%81" title='《陈翔六点半》第217集 女孩白手起家到月入百万，因贪婪失去一切！'>
+<p class="title">《陈翔六点半》第217集 女孩白手起家到月入百万，因贪婪失去一切！</p>
+</a>
+</li>
+<li class='poster-li poster-n10'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/556383546994537920.html" target="_blank" static="stp=bd&no=11&ti=papi%E9%85%B1%E2%80%94%E2%80%94%E4%B8%83%E5%A4%95%E6%80%BC%E8%80%81%E8%83%A1" title='papi酱——七夕怼老胡' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/fcfaaf51f3deb48f4d955316fa1f3a292cf5787e.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱——七夕怼老胡" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/fcfaaf51f3deb48f4d955316fa1f3a292cf5787e.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱——七夕怼老胡" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">03:25</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/556383546994537920.html" target="_blank" static="stp=bd&no=11&ti=papi%E9%85%B1%E2%80%94%E2%80%94%E4%B8%83%E5%A4%95%E6%80%BC%E8%80%81%E8%83%A1" title='papi酱——七夕怼老胡'>
+<p class="title">papi酱——七夕怼老胡</p>
+</a>
+</li>
+<li class='poster-li poster-n11'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/5021116261879024485.html" target="_blank" static="stp=bd&no=12&ti=papi%E9%85%B1%E7%9A%84%E5%91%A8%E4%B8%80%E6%94%BE%E9%80%81%E2%80%94%E2%80%94%E8%AF%B7%E6%8A%8A%E4%BD%A0%E7%9A%84%E9%AB%98%E6%A0%87%E5%87%86%E4%B8%A5%E8%A6%81%E6%B1%82%EF%BC%8C%E7%95%99%E7%BB%99%E4%BD%A0%E8%87%AA%E5%B7%B1" title='papi酱的周一放送——请把你的高标准严要求，留给你自己' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/fc1f4134970a304ee9dd7769d9c8a786c8175ca2.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的周一放送——请把你的高标准严要求，留给你自己" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/fc1f4134970a304ee9dd7769d9c8a786c8175ca2.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的周一放送——请把你的高标准严要求，留给你自己" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:14</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/5021116261879024485.html" target="_blank" static="stp=bd&no=12&ti=papi%E9%85%B1%E7%9A%84%E5%91%A8%E4%B8%80%E6%94%BE%E9%80%81%E2%80%94%E2%80%94%E8%AF%B7%E6%8A%8A%E4%BD%A0%E7%9A%84%E9%AB%98%E6%A0%87%E5%87%86%E4%B8%A5%E8%A6%81%E6%B1%82%EF%BC%8C%E7%95%99%E7%BB%99%E4%BD%A0%E8%87%AA%E5%B7%B1" title='papi酱的周一放送——请把你的高标准严要求，留给你自己'>
+<p class="title">papi酱的周一放送——请把你的高标准严要求，留给你自己</p>
+</a>
+</li>
+<li class='poster-li poster-n12'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/01661748315240679851.html" target="_blank" static="stp=bd&no=13&ti=papi%E9%85%B1%E7%9A%84%E5%9C%A3%E8%AF%9E%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%E2%80%95%E2%80%95%E5%9C%A3%E8%AF%9E%E8%8A%82%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3" title='papi酱的圣诞特别节目――圣诞节，你真的了解' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/b7fd5266d0160924391dd312dc0735fae6cd34fa.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的圣诞特别节目――圣诞节，你真的了解" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/b7fd5266d0160924391dd312dc0735fae6cd34fa.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的圣诞特别节目――圣诞节，你真的了解" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">02:43</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/01661748315240679851.html" target="_blank" static="stp=bd&no=13&ti=papi%E9%85%B1%E7%9A%84%E5%9C%A3%E8%AF%9E%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%E2%80%95%E2%80%95%E5%9C%A3%E8%AF%9E%E8%8A%82%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3" title='papi酱的圣诞特别节目――圣诞节，你真的了解'>
+<p class="title">papi酱的圣诞特别节目――圣诞节，你真的了解</p>
+</a>
+</li>
+<li class='poster-li poster-n13'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/2492374818349542701.html" target="_blank" static="stp=bd&no=14&ti=papi%E9%85%B1%E7%9A%84%E5%91%A8%E4%B8%80%E6%94%BE%E9%80%81%E2%80%94%E2%80%94%E6%AF%94%E5%A5%B3%E6%9C%8B%E5%8F%8B%E6%9B%B4%E9%9A%BE%E5%93%84%E7%9A%84%E4%BA%BA%E2%80%94%E2%80%94%E4%BD%A0%E7%9A%84%E8%80%81%E6%9D%BF%EF%BC%81" title='papi酱的周一放送——比女朋友更难哄的人——你的老板！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/a08b87d6277f9e2fc95a16d71430e924b999f386.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的周一放送——比女朋友更难哄的人——你的老板！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/a08b87d6277f9e2fc95a16d71430e924b999f386.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的周一放送——比女朋友更难哄的人——你的老板！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:15</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/2492374818349542701.html" target="_blank" static="stp=bd&no=14&ti=papi%E9%85%B1%E7%9A%84%E5%91%A8%E4%B8%80%E6%94%BE%E9%80%81%E2%80%94%E2%80%94%E6%AF%94%E5%A5%B3%E6%9C%8B%E5%8F%8B%E6%9B%B4%E9%9A%BE%E5%93%84%E7%9A%84%E4%BA%BA%E2%80%94%E2%80%94%E4%BD%A0%E7%9A%84%E8%80%81%E6%9D%BF%EF%BC%81" title='papi酱的周一放送——比女朋友更难哄的人——你的老板！'>
+<p class="title">papi酱的周一放送——比女朋友更难哄的人——你的老板！</p>
+</a>
+</li>
+<li class='poster-li poster-n14'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/05416779986908872272.html" target="_blank" static="stp=bd&no=15&ti=%E3%80%8A%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A%E3%80%8B%E7%AC%AC261%E9%9B%86+%E6%89%93%E5%BC%80%E7%9A%84%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%EF%BC%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E7%9A%84%E5%B4%A9%E6%BA%83%EF%BC%81" title='《陈翔六点半》第261集 打开的行车记录仪，是一个中年男人的崩溃！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/d009b3de9c82d158c84ef9ea8f0a19d8bd3e4298.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="《陈翔六点半》第261集 打开的行车记录仪，是一个中年男人的崩溃！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/d009b3de9c82d158c84ef9ea8f0a19d8bd3e4298.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="《陈翔六点半》第261集 打开的行车记录仪，是一个中年男人的崩溃！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">16:54</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/05416779986908872272.html" target="_blank" static="stp=bd&no=15&ti=%E3%80%8A%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A%E3%80%8B%E7%AC%AC261%E9%9B%86+%E6%89%93%E5%BC%80%E7%9A%84%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%EF%BC%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E7%9A%84%E5%B4%A9%E6%BA%83%EF%BC%81" title='《陈翔六点半》第261集 打开的行车记录仪，是一个中年男人的崩溃！'>
+<p class="title">《陈翔六点半》第261集 打开的行车记录仪，是一个中年男人的崩溃！</p>
+</a>
+</li>
+<li class='poster-li poster-n15'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/591511066523875484.html" target="_blank" static="stp=bd&no=16&ti=papi%E9%85%B1%E7%9A%84%E5%91%A8%E4%B8%80%E6%94%BE%E9%80%81%E2%80%94%E2%80%94%E5%BC%A0%E6%80%BB%E6%95%99%E4%BD%A0%E5%86%99%E5%89%A7%E6%9C%AC" title='papi酱的周一放送——张总教你写剧本' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/6a63f6246b600c337e91a314124c510fd8f9a106.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的周一放送——张总教你写剧本" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/6a63f6246b600c337e91a314124c510fd8f9a106.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="papi酱的周一放送——张总教你写剧本" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">05:21</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/591511066523875484.html" target="_blank" static="stp=bd&no=16&ti=papi%E9%85%B1%E7%9A%84%E5%91%A8%E4%B8%80%E6%94%BE%E9%80%81%E2%80%94%E2%80%94%E5%BC%A0%E6%80%BB%E6%95%99%E4%BD%A0%E5%86%99%E5%89%A7%E6%9C%AC" title='papi酱的周一放送——张总教你写剧本'>
+<p class="title">papi酱的周一放送——张总教你写剧本</p>
+</a>
+</li>
+<li class='poster-li poster-n16'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/02853062053701842477.html" target="_blank" static="stp=bd&no=17&ti=%E3%80%8A%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A%E3%80%8B%E7%AC%AC251%E9%9B%86+%E7%95%99%E7%BA%A7%E4%B9%8B%E7%8E%8B%EF%BC%9A%E5%88%A9%E7%94%A8%E7%95%99%E7%BA%A7%E7%BB%8F%E9%AA%8C%E8%B5%9A%E5%A4%A7%E9%92%B1%E5%A8%B6%E7%BE%8E%E5%A5%B3%EF%BC%81" title='《陈翔六点半》第251集 留级之王：利用留级经验赚大钱娶美女！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/72f082025aafa40f45512f84a464034f79f019d7.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="《陈翔六点半》第251集 留级之王：利用留级经验赚大钱娶美女！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/72f082025aafa40f45512f84a464034f79f019d7.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="《陈翔六点半》第251集 留级之王：利用留级经验赚大钱娶美女！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">15:28</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/02853062053701842477.html" target="_blank" static="stp=bd&no=17&ti=%E3%80%8A%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A%E3%80%8B%E7%AC%AC251%E9%9B%86+%E7%95%99%E7%BA%A7%E4%B9%8B%E7%8E%8B%EF%BC%9A%E5%88%A9%E7%94%A8%E7%95%99%E7%BA%A7%E7%BB%8F%E9%AA%8C%E8%B5%9A%E5%A4%A7%E9%92%B1%E5%A8%B6%E7%BE%8E%E5%A5%B3%EF%BC%81" title='《陈翔六点半》第251集 留级之王：利用留级经验赚大钱娶美女！'>
+<p class="title">《陈翔六点半》第251集 留级之王：利用留级经验赚大钱娶美女！</p>
+</a>
+</li>
+<li class='poster-li poster-n17'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/05240791741857260191.html" target="_blank" static="stp=bd&no=18&ti=%E9%83%91%E4%BA%91%E5%B7%A5%E4%BD%9C%E5%AE%A4++%E5%8F%B7%E5%A4%96%EF%BC%81%E7%BD%91%E7%BB%9C%E5%A4%A7%E7%94%B5%E5%BD%B1%E3%80%8A%E6%AD%BB%E4%BA%A1%E6%97%A5%E8%AE%B0%E3%80%8B%E6%98%8E%E6%97%A5%E4%B8%8A%E6%98%A0%EF%BC%81" title='郑云工作室  号外！网络大电影《死亡日记》明日上映！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/8644ebf81a4c510fcaede7786a59252dd42aa5a2.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="郑云工作室  号外！网络大电影《死亡日记》明日上映！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/8644ebf81a4c510fcaede7786a59252dd42aa5a2.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="郑云工作室  号外！网络大电影《死亡日记》明日上映！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">01:18</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/05240791741857260191.html" target="_blank" static="stp=bd&no=18&ti=%E9%83%91%E4%BA%91%E5%B7%A5%E4%BD%9C%E5%AE%A4++%E5%8F%B7%E5%A4%96%EF%BC%81%E7%BD%91%E7%BB%9C%E5%A4%A7%E7%94%B5%E5%BD%B1%E3%80%8A%E6%AD%BB%E4%BA%A1%E6%97%A5%E8%AE%B0%E3%80%8B%E6%98%8E%E6%97%A5%E4%B8%8A%E6%98%A0%EF%BC%81" title='郑云工作室  号外！网络大电影《死亡日记》明日上映！'>
+<p class="title">郑云工作室  号外！网络大电影《死亡日记》明日上映！</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="poster-page">
+<a class="a-page a-prev hide"></a>
+<a class="a-page a-next hide"></a>
+</div>
+</div>
+
+</div>
+</div></div>
+<div class="section section-ad">
+<div id="indexBottomColumn2"></div>
+</div>
+<div class="section section-sub">
+<div class="base-scroll" id='index_show_mini_playlet'>
+<div class="base-scroll-head">
+<div class="head-common" static="bl=index_show_mini_playlet&blname=%E6%98%8E%E6%98%9F">
+<h2 class='title-common'>
+<a  href="https://v.xiaodutv.com/channel/short/newstar"
+                    target="_blank"
+                    class="a-link a-text-title"
+                    static='stp=hd&ext=title'>
+明星
+</a>
+</h2>
+<a href="https://v.xiaodutv.com/channel/short/newstar"
+                    target="_blank"
+                    class="a-link a-more"
+                    static='stp=hd&ext=more'>
+更多<i class="i-more"></i>
+</a>
+</div>
+</div>
+<div class="base-scroll-body">
+<div class="body-scroll-common" static="bl=index_show_mini_playlet&blname=%E6%98%8E%E6%98%9F&to=play" >
+<div class="poster-box">
+<ul class='poster-list'><li class='poster-li poster-n0'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/1908877233402639796.html" target="_blank" static="stp=bd&no=1&ti=%E8%B7%AF%E4%BA%BA%E8%A1%97%E5%A4%B4%E8%AF%95%E5%90%83%E6%AF%9B%E9%B8%A1%E8%9B%8B%EF%BC%8C%E7%9C%8B%E5%AE%8C%E6%9C%89%E7%82%B9%E8%BE%A3%E7%9C%BC%E7%9D%9B" title='路人街头试吃毛鸡蛋，看完有点辣眼睛' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/a71ea8d3fd1f41343ff2328b2f1f95cad0c85e79.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="路人街头试吃毛鸡蛋，看完有点辣眼睛" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/a71ea8d3fd1f41343ff2328b2f1f95cad0c85e79.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="路人街头试吃毛鸡蛋，看完有点辣眼睛" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">03:54</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/1908877233402639796.html" target="_blank" static="stp=bd&no=1&ti=%E8%B7%AF%E4%BA%BA%E8%A1%97%E5%A4%B4%E8%AF%95%E5%90%83%E6%AF%9B%E9%B8%A1%E8%9B%8B%EF%BC%8C%E7%9C%8B%E5%AE%8C%E6%9C%89%E7%82%B9%E8%BE%A3%E7%9C%BC%E7%9D%9B" title='路人街头试吃毛鸡蛋，看完有点辣眼睛'>
+<p class="title">路人街头试吃毛鸡蛋，看完有点辣眼睛</p>
+</a>
+</li>
+<li class='poster-li poster-n1'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/03805809801243058007.html" target="_blank" static="stp=bd&no=2&ti=%E5%BC%80%E5%AD%A6%E5%AD%A3%EF%BC%81%E5%9B%9B%E7%A7%8D%E9%A3%8E%E6%A0%BC%E7%8E%A9%E8%BD%AC%E7%89%9B%E4%BB%94%E5%A4%96%E5%A5%97%EF%BC%8C%E8%AE%A9%E4%BD%A0%E6%88%90%E4%B8%BA%E5%85%A8%E6%A0%A1%E6%9C%80%E6%BD%AE%E7%9A%84%E9%82%A3%E4%B8%AA%EF%BC%81" title='开学季！四种风格玩转牛仔外套，让你成为全校最潮的那个！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/5d6034a85edf8db1f35912400223dd54564e749a.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="开学季！四种风格玩转牛仔外套，让你成为全校最潮的那个！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/5d6034a85edf8db1f35912400223dd54564e749a.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="开学季！四种风格玩转牛仔外套，让你成为全校最潮的那个！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">01:46</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/03805809801243058007.html" target="_blank" static="stp=bd&no=2&ti=%E5%BC%80%E5%AD%A6%E5%AD%A3%EF%BC%81%E5%9B%9B%E7%A7%8D%E9%A3%8E%E6%A0%BC%E7%8E%A9%E8%BD%AC%E7%89%9B%E4%BB%94%E5%A4%96%E5%A5%97%EF%BC%8C%E8%AE%A9%E4%BD%A0%E6%88%90%E4%B8%BA%E5%85%A8%E6%A0%A1%E6%9C%80%E6%BD%AE%E7%9A%84%E9%82%A3%E4%B8%AA%EF%BC%81" title='开学季！四种风格玩转牛仔外套，让你成为全校最潮的那个！'>
+<p class="title">开学季！四种风格玩转牛仔外套，让你成为全校最潮的那个！</p>
+</a>
+</li>
+<li class='poster-li poster-n2'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/7775525710285926255.html" target="_blank" static="stp=bd&no=3&ti=%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%92%8C%E4%BB%96%E7%9A%84%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%EF%BC%8C%E5%90%AC%E4%BB%96%E8%AE%B2%E6%89%8B%E6%9C%BA%E5%9C%A8%E4%BB%96%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E6%84%8F%E4%B9%89" title='贾乃亮和他的社交网络，听他讲手机在他生活中的意义' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/42166d224f4a20a40c97ecd89b529822720ed020.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="贾乃亮和他的社交网络，听他讲手机在他生活中的意义" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/42166d224f4a20a40c97ecd89b529822720ed020.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="贾乃亮和他的社交网络，听他讲手机在他生活中的意义" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:57</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/7775525710285926255.html" target="_blank" static="stp=bd&no=3&ti=%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%92%8C%E4%BB%96%E7%9A%84%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%EF%BC%8C%E5%90%AC%E4%BB%96%E8%AE%B2%E6%89%8B%E6%9C%BA%E5%9C%A8%E4%BB%96%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E6%84%8F%E4%B9%89" title='贾乃亮和他的社交网络，听他讲手机在他生活中的意义'>
+<p class="title">贾乃亮和他的社交网络，听他讲手机在他生活中的意义</p>
+</a>
+</li>
+<li class='poster-li poster-n3'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/6855113799904663734.html" target="_blank" static="stp=bd&no=4&ti=%E7%94%B7%E7%A5%9E%E6%9D%A5%E5%B8%AE%E5%BF%99%EF%BC%8C%E9%BB%84%E4%BF%8A%E6%8D%B7%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%A6%86%E6%8C%91%E6%88%98%EF%BC%8C%E5%B8%AE%E4%BD%A0%E5%8C%96%E5%AD%9F%E7%BE%8E%E5%B2%90%E4%BB%BF%E5%A6%86" title='男神来帮忙，黄俊捷接受美妆挑战，帮你化孟美岐仿妆' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/023b5bb5c9ea15ce5d5534ecba003af33b87b298.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="男神来帮忙，黄俊捷接受美妆挑战，帮你化孟美岐仿妆" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/023b5bb5c9ea15ce5d5534ecba003af33b87b298.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="男神来帮忙，黄俊捷接受美妆挑战，帮你化孟美岐仿妆" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:57</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/6855113799904663734.html" target="_blank" static="stp=bd&no=4&ti=%E7%94%B7%E7%A5%9E%E6%9D%A5%E5%B8%AE%E5%BF%99%EF%BC%8C%E9%BB%84%E4%BF%8A%E6%8D%B7%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%A6%86%E6%8C%91%E6%88%98%EF%BC%8C%E5%B8%AE%E4%BD%A0%E5%8C%96%E5%AD%9F%E7%BE%8E%E5%B2%90%E4%BB%BF%E5%A6%86" title='男神来帮忙，黄俊捷接受美妆挑战，帮你化孟美岐仿妆'>
+<p class="title">男神来帮忙，黄俊捷接受美妆挑战，帮你化孟美岐仿妆</p>
+</a>
+</li>
+<li class='poster-li poster-n4'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/04258716269254610609.html" target="_blank" static="stp=bd&no=5&ti=%E5%A4%8F%E6%97%A5%E6%89%93%E9%80%A0%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%8C%E6%AC%BE%E5%A6%86%E5%AE%B9%EF%BC%8C%E8%AE%A9%E4%BD%A0%E5%8C%96%E8%BA%AB%E8%B6%85%E7%BE%8E%E6%A5%9A%E4%B9%94" title='夏日打造赵丽颖同款妆容，让你化身超美楚乔' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/32fa828ba61ea8d3d6833c8f9d0a304e241f5893.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="夏日打造赵丽颖同款妆容，让你化身超美楚乔" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/32fa828ba61ea8d3d6833c8f9d0a304e241f5893.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="夏日打造赵丽颖同款妆容，让你化身超美楚乔" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">02:18</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/04258716269254610609.html" target="_blank" static="stp=bd&no=5&ti=%E5%A4%8F%E6%97%A5%E6%89%93%E9%80%A0%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%8C%E6%AC%BE%E5%A6%86%E5%AE%B9%EF%BC%8C%E8%AE%A9%E4%BD%A0%E5%8C%96%E8%BA%AB%E8%B6%85%E7%BE%8E%E6%A5%9A%E4%B9%94" title='夏日打造赵丽颖同款妆容，让你化身超美楚乔'>
+<p class="title">夏日打造赵丽颖同款妆容，让你化身超美楚乔</p>
+</a>
+</li>
+<li class='poster-li poster-n5'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/6693883330094892150.html" target="_blank" static="stp=bd&no=6&ti=%E4%B8%93%E8%AE%BF%E8%8C%85%E5%AD%90%E4%BF%8A%EF%BC%9A%E5%A8%B1%E4%B9%90%E5%9C%88%E7%94%9F%E5%AD%98%E7%9C%8B%E6%9C%BA%E9%81%87" title='专访茅子俊：娱乐圈生存看机遇' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/79f0f736afc37931f4e94341e0c4b74542a911d1.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="专访茅子俊：娱乐圈生存看机遇" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/79f0f736afc37931f4e94341e0c4b74542a911d1.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="专访茅子俊：娱乐圈生存看机遇" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">02:42</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/6693883330094892150.html" target="_blank" static="stp=bd&no=6&ti=%E4%B8%93%E8%AE%BF%E8%8C%85%E5%AD%90%E4%BF%8A%EF%BC%9A%E5%A8%B1%E4%B9%90%E5%9C%88%E7%94%9F%E5%AD%98%E7%9C%8B%E6%9C%BA%E9%81%87" title='专访茅子俊：娱乐圈生存看机遇'>
+<p class="title">专访茅子俊：娱乐圈生存看机遇</p>
+</a>
+</li>
+<li class='poster-li poster-n6'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/08432156608021447598.html" target="_blank" static="stp=bd&no=7&ti=%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%E8%BF%87%E5%88%86%E9%AC%BC%E7%95%9C%E4%BA%86%EF%BC%81%E7%8E%B0%E5%AE%9E%E4%B8%AD%E5%86%8D%E7%8E%B0%E6%BF%91%E5%B0%BF%E7%89%9B%E4%B8%B8%E5%88%B6%E4%BD%9C%E8%BF%87%E7%A8%8B%EF%BC%8C%E5%85%A8%E7%A8%8B%E7%88%86%E7%AC%91%EF%BC%81" title='这个视频过分鬼畜了！现实中再现濑尿牛丸制作过程，全程爆笑！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/adaf2edda3cc7cd9bc823f0a3301213fb90e91b1.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="这个视频过分鬼畜了！现实中再现濑尿牛丸制作过程，全程爆笑！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/adaf2edda3cc7cd9bc823f0a3301213fb90e91b1.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="这个视频过分鬼畜了！现实中再现濑尿牛丸制作过程，全程爆笑！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">03:12</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/08432156608021447598.html" target="_blank" static="stp=bd&no=7&ti=%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%E8%BF%87%E5%88%86%E9%AC%BC%E7%95%9C%E4%BA%86%EF%BC%81%E7%8E%B0%E5%AE%9E%E4%B8%AD%E5%86%8D%E7%8E%B0%E6%BF%91%E5%B0%BF%E7%89%9B%E4%B8%B8%E5%88%B6%E4%BD%9C%E8%BF%87%E7%A8%8B%EF%BC%8C%E5%85%A8%E7%A8%8B%E7%88%86%E7%AC%91%EF%BC%81" title='这个视频过分鬼畜了！现实中再现濑尿牛丸制作过程，全程爆笑！'>
+<p class="title">这个视频过分鬼畜了！现实中再现濑尿牛丸制作过程，全程爆笑！</p>
+</a>
+</li>
+<li class='poster-li poster-n7'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/3572093799984259079.html" target="_blank" static="stp=bd&no=8&ti=%E4%B8%93%E8%AE%BF%E6%9D%8E%E9%B8%BF%E5%85%B6%EF%BC%9A+%E5%8F%8A%E6%97%B6%E8%A1%8C%E4%B9%90%EF%BC%8C%E5%AF%B9%E6%88%91%E6%9D%A5%E8%AF%B4%E6%98%AF%E4%B8%80%E4%BB%B6%E9%9D%9E%E5%B8%B8%E6%91%87%E6%BB%9A%E7%9A%84%E4%BA%8B%E6%83%85" title='专访李鸿其： 及时行乐，对我来说是一件非常摇滚的事情' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/b999a9014c086e0671e2a23d09087bf40ad1cb7a.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="专访李鸿其： 及时行乐，对我来说是一件非常摇滚的事情" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/b999a9014c086e0671e2a23d09087bf40ad1cb7a.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="专访李鸿其： 及时行乐，对我来说是一件非常摇滚的事情" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">05:48</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/3572093799984259079.html" target="_blank" static="stp=bd&no=8&ti=%E4%B8%93%E8%AE%BF%E6%9D%8E%E9%B8%BF%E5%85%B6%EF%BC%9A+%E5%8F%8A%E6%97%B6%E8%A1%8C%E4%B9%90%EF%BC%8C%E5%AF%B9%E6%88%91%E6%9D%A5%E8%AF%B4%E6%98%AF%E4%B8%80%E4%BB%B6%E9%9D%9E%E5%B8%B8%E6%91%87%E6%BB%9A%E7%9A%84%E4%BA%8B%E6%83%85" title='专访李鸿其： 及时行乐，对我来说是一件非常摇滚的事情'>
+<p class="title">专访李鸿其： 及时行乐，对我来说是一件非常摇滚的事情</p>
+</a>
+</li>
+<li class='poster-li poster-n8'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/04454259068554304177.html" target="_blank" static="stp=bd&no=9&ti=%E5%B8%8C%E6%9C%9B%E7%94%B7%E7%94%9F%E9%83%BD%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%EF%BC%8C%E8%BF%99%E6%A0%B7%E6%92%A9%E5%A5%B3%E7%94%9F%E7%9A%84%E8%AF%9D%E5%8F%AF%E8%83%BD%E5%8F%8D%E6%89%8B%E5%B0%B1%E6%98%AF%E4%B8%80%E5%B7%B4%E6%8E%8C%EF%BC%81" title='希望男生都看看这个视频，这样撩女生的话可能反手就是一巴掌！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/a6efce1b9d16fdfabbdc83d7bf8f8c5494ee7b52.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="希望男生都看看这个视频，这样撩女生的话可能反手就是一巴掌！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/a6efce1b9d16fdfabbdc83d7bf8f8c5494ee7b52.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="希望男生都看看这个视频，这样撩女生的话可能反手就是一巴掌！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:05</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/04454259068554304177.html" target="_blank" static="stp=bd&no=9&ti=%E5%B8%8C%E6%9C%9B%E7%94%B7%E7%94%9F%E9%83%BD%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%EF%BC%8C%E8%BF%99%E6%A0%B7%E6%92%A9%E5%A5%B3%E7%94%9F%E7%9A%84%E8%AF%9D%E5%8F%AF%E8%83%BD%E5%8F%8D%E6%89%8B%E5%B0%B1%E6%98%AF%E4%B8%80%E5%B7%B4%E6%8E%8C%EF%BC%81" title='希望男生都看看这个视频，这样撩女生的话可能反手就是一巴掌！'>
+<p class="title">希望男生都看看这个视频，这样撩女生的话可能反手就是一巴掌！</p>
+</a>
+</li>
+<li class='poster-li poster-n9'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/05725672782623488562.html" target="_blank" static="stp=bd&no=10&ti=%E5%90%B4%E8%8E%AB%E6%84%81%EF%BC%9A%E6%88%91%E5%B7%B2%E7%BB%8F%E8%A2%AB%E8%BF%99%E6%AE%B5%E5%B0%AC%E8%81%8A%E5%B0%AC%E7%9A%84%E4%BA%94%E4%BD%93%E6%8A%95%E5%9C%B0%E4%BA%86%EF%BC%81" title='吴莫愁：我已经被这段尬聊尬的五体投地了！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/902397dda144ad342a085defdba20cf431ad8527.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="吴莫愁：我已经被这段尬聊尬的五体投地了！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/902397dda144ad342a085defdba20cf431ad8527.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="吴莫愁：我已经被这段尬聊尬的五体投地了！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">02:30</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/05725672782623488562.html" target="_blank" static="stp=bd&no=10&ti=%E5%90%B4%E8%8E%AB%E6%84%81%EF%BC%9A%E6%88%91%E5%B7%B2%E7%BB%8F%E8%A2%AB%E8%BF%99%E6%AE%B5%E5%B0%AC%E8%81%8A%E5%B0%AC%E7%9A%84%E4%BA%94%E4%BD%93%E6%8A%95%E5%9C%B0%E4%BA%86%EF%BC%81" title='吴莫愁：我已经被这段尬聊尬的五体投地了！'>
+<p class="title">吴莫愁：我已经被这段尬聊尬的五体投地了！</p>
+</a>
+</li>
+<li class='poster-li poster-n10'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/6661547055588210813.html" target="_blank" static="stp=bd&no=11&ti=%E7%99%BE%E4%BA%BA%E6%8F%B4%E5%AE%81%EF%BC%8C%E6%8A%B1%E5%AD%A9%E5%AD%90%E6%90%AC%E8%8D%AF%E5%93%81%E5%85%A8%E9%83%BD%E4%BA%B2%E8%87%AA%E4%B8%8A%EF%BC%8C%E7%8E%8B%E9%B8%A5%E5%A5%BD%E6%A0%B7%E7%9A%84%EF%BC%81" title='百人援宁，抱孩子搬药品全都亲自上，王鸥好样的！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/2fdda3cc7cd98d10effbbbec2b3fb80e7aec90c4.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="百人援宁，抱孩子搬药品全都亲自上，王鸥好样的！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/2fdda3cc7cd98d10effbbbec2b3fb80e7aec90c4.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="百人援宁，抱孩子搬药品全都亲自上，王鸥好样的！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">01:08</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/6661547055588210813.html" target="_blank" static="stp=bd&no=11&ti=%E7%99%BE%E4%BA%BA%E6%8F%B4%E5%AE%81%EF%BC%8C%E6%8A%B1%E5%AD%A9%E5%AD%90%E6%90%AC%E8%8D%AF%E5%93%81%E5%85%A8%E9%83%BD%E4%BA%B2%E8%87%AA%E4%B8%8A%EF%BC%8C%E7%8E%8B%E9%B8%A5%E5%A5%BD%E6%A0%B7%E7%9A%84%EF%BC%81" title='百人援宁，抱孩子搬药品全都亲自上，王鸥好样的！'>
+<p class="title">百人援宁，抱孩子搬药品全都亲自上，王鸥好样的！</p>
+</a>
+</li>
+<li class='poster-li poster-n11'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/05670333991099715243.html" target="_blank" static="stp=bd&no=12&ti=%E4%B8%8D%E4%BC%9Afreestyle%E7%9A%84%E9%85%8D%E9%9F%B3%E5%B8%88%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%BC%94%E5%91%98%EF%BC%81%E7%99%BD%E5%AE%A2%E7%8E%B0%E5%9C%BA%E6%9D%A5%E4%BA%86%E6%AE%B5rap%EF%BC%8C%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA" title='不会freestyle的配音师不是好演员！白客现场来了段rap，惊艳全场' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/83025aafa40f4bfbb16a3621084f78f0f7361808.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="不会freestyle的配音师不是好演员！白客现场来了段rap，惊艳全场" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/83025aafa40f4bfbb16a3621084f78f0f7361808.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="不会freestyle的配音师不是好演员！白客现场来了段rap，惊艳全场" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">01:20</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/05670333991099715243.html" target="_blank" static="stp=bd&no=12&ti=%E4%B8%8D%E4%BC%9Afreestyle%E7%9A%84%E9%85%8D%E9%9F%B3%E5%B8%88%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%BC%94%E5%91%98%EF%BC%81%E7%99%BD%E5%AE%A2%E7%8E%B0%E5%9C%BA%E6%9D%A5%E4%BA%86%E6%AE%B5rap%EF%BC%8C%E6%83%8A%E8%89%B3%E5%85%A8%E5%9C%BA" title='不会freestyle的配音师不是好演员！白客现场来了段rap，惊艳全场'>
+<p class="title">不会freestyle的配音师不是好演员！白客现场来了段rap，惊艳全场</p>
+</a>
+</li>
+<li class='poster-li poster-n12'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/02552945134128252384.html" target="_blank" static="stp=bd&no=13&ti=%E7%89%9B%E9%AA%8F%E5%B3%B0%E8%87%AA%E6%9B%9D%E7%A7%81%E4%B8%8B%E8%81%8A%E5%A4%A9%E7%88%B1%E5%BC%80%E8%BD%A6%EF%BC%8C%E6%9C%80%E6%83%B3%E8%B7%9F%E9%9F%AC%E9%9F%AC%E4%B8%80%E8%B5%B7%E5%8E%BB%E6%97%85%E8%A1%8C" title='牛骏峰自曝私下聊天爱开车，最想跟韬韬一起去旅行' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/0bd162d9f2d3572c18d1bd568013632762d0c30c.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="牛骏峰自曝私下聊天爱开车，最想跟韬韬一起去旅行" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/0bd162d9f2d3572c18d1bd568013632762d0c30c.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="牛骏峰自曝私下聊天爱开车，最想跟韬韬一起去旅行" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:58</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/02552945134128252384.html" target="_blank" static="stp=bd&no=13&ti=%E7%89%9B%E9%AA%8F%E5%B3%B0%E8%87%AA%E6%9B%9D%E7%A7%81%E4%B8%8B%E8%81%8A%E5%A4%A9%E7%88%B1%E5%BC%80%E8%BD%A6%EF%BC%8C%E6%9C%80%E6%83%B3%E8%B7%9F%E9%9F%AC%E9%9F%AC%E4%B8%80%E8%B5%B7%E5%8E%BB%E6%97%85%E8%A1%8C" title='牛骏峰自曝私下聊天爱开车，最想跟韬韬一起去旅行'>
+<p class="title">牛骏峰自曝私下聊天爱开车，最想跟韬韬一起去旅行</p>
+</a>
+</li>
+<li class='poster-li poster-n13'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/01843625524440277174.html" target="_blank" static="stp=bd&no=14&ti=%E5%88%98%E8%8A%AE%E9%BA%9F%E8%A2%AB%E5%A5%B3%E5%AD%A9%E5%AD%90%E7%9A%84%E7%BE%8E%E5%A6%86%E7%9F%A5%E8%AF%86%E5%90%93%E5%88%B0%E8%AF%AD%E8%A8%80%E7%B3%BB%E7%BB%9F%E7%B4%8A%E4%B9%B1%EF%BC%8C%E7%9B%B4%E5%91%BC%EF%BC%9A%E6%98%AF%E5%9B%BD%E8%AF%AD%E5%90%97%EF%BC%9F" title='刘芮麟被女孩子的美妆知识吓到语言系统紊乱，直呼：是国语吗？' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/ac6eddc451da81cb4b1cec885f66d016082431f8.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="刘芮麟被女孩子的美妆知识吓到语言系统紊乱，直呼：是国语吗？" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/ac6eddc451da81cb4b1cec885f66d016082431f8.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="刘芮麟被女孩子的美妆知识吓到语言系统紊乱，直呼：是国语吗？" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">05:41</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/01843625524440277174.html" target="_blank" static="stp=bd&no=14&ti=%E5%88%98%E8%8A%AE%E9%BA%9F%E8%A2%AB%E5%A5%B3%E5%AD%A9%E5%AD%90%E7%9A%84%E7%BE%8E%E5%A6%86%E7%9F%A5%E8%AF%86%E5%90%93%E5%88%B0%E8%AF%AD%E8%A8%80%E7%B3%BB%E7%BB%9F%E7%B4%8A%E4%B9%B1%EF%BC%8C%E7%9B%B4%E5%91%BC%EF%BC%9A%E6%98%AF%E5%9B%BD%E8%AF%AD%E5%90%97%EF%BC%9F" title='刘芮麟被女孩子的美妆知识吓到语言系统紊乱，直呼：是国语吗？'>
+<p class="title">刘芮麟被女孩子的美妆知识吓到语言系统紊乱，直呼：是国语吗？</p>
+</a>
+</li>
+<li class='poster-li poster-n14'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/09036476963899639037.html" target="_blank" static="stp=bd&no=15&ti=%E4%B9%94%E6%9D%89%E8%B0%88%E8%B5%B7%E7%94%B5%E5%BD%B1%E9%87%8C%E5%92%8C%E5%A4%A7%E9%B9%8F%E7%9A%84%E5%BA%8A%E6%88%8F%EF%BC%8C%E8%BF%98%E7%BB%99%E8%87%AA%E5%B7%B1%E5%92%8C%E5%A4%A7%E9%B9%8F%E8%B5%B7%E4%BA%86cp%E5%90%8D%EF%BC%81" title='乔杉谈起电影里和大鹏的床戏，还给自己和大鹏起了cp名！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/f7246b600c33874423156d045a0fd9f9d62aa0f2.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="乔杉谈起电影里和大鹏的床戏，还给自己和大鹏起了cp名！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/f7246b600c33874423156d045a0fd9f9d62aa0f2.jpeg?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="乔杉谈起电影里和大鹏的床戏，还给自己和大鹏起了cp名！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">04:59</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/09036476963899639037.html" target="_blank" static="stp=bd&no=15&ti=%E4%B9%94%E6%9D%89%E8%B0%88%E8%B5%B7%E7%94%B5%E5%BD%B1%E9%87%8C%E5%92%8C%E5%A4%A7%E9%B9%8F%E7%9A%84%E5%BA%8A%E6%88%8F%EF%BC%8C%E8%BF%98%E7%BB%99%E8%87%AA%E5%B7%B1%E5%92%8C%E5%A4%A7%E9%B9%8F%E8%B5%B7%E4%BA%86cp%E5%90%8D%EF%BC%81" title='乔杉谈起电影里和大鹏的床戏，还给自己和大鹏起了cp名！'>
+<p class="title">乔杉谈起电影里和大鹏的床戏，还给自己和大鹏起了cp名！</p>
+</a>
+</li>
+<li class='poster-li poster-n15'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/03231819786561898940.html" target="_blank" static="stp=bd&no=16&ti=%E8%BF%99%E4%B8%AA%E9%87%87%E8%AE%BF%E6%9C%89%E7%82%B9%E5%B0%B4%E5%B0%AC%E5%93%A6%EF%BC%8C%E7%AA%A6%E9%9D%96%E7%AB%A5%EF%BC%9A%E6%88%91%E6%84%9F%E8%A7%89%E8%87%AA%E5%B7%B1%E5%A5%BD%E5%83%8F%E5%A4%B1%E5%BF%86%E4%BA%86%E4%B8%80%E6%A0%B7" title='这个采访有点尴尬哦，窦靖童：我感觉自己好像失忆了一样' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/5ab5c9ea15ce36d30a26d91431f33a87e950b1f0.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="这个采访有点尴尬哦，窦靖童：我感觉自己好像失忆了一样" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/5ab5c9ea15ce36d30a26d91431f33a87e950b1f0.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="这个采访有点尴尬哦，窦靖童：我感觉自己好像失忆了一样" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">01:18</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/03231819786561898940.html" target="_blank" static="stp=bd&no=16&ti=%E8%BF%99%E4%B8%AA%E9%87%87%E8%AE%BF%E6%9C%89%E7%82%B9%E5%B0%B4%E5%B0%AC%E5%93%A6%EF%BC%8C%E7%AA%A6%E9%9D%96%E7%AB%A5%EF%BC%9A%E6%88%91%E6%84%9F%E8%A7%89%E8%87%AA%E5%B7%B1%E5%A5%BD%E5%83%8F%E5%A4%B1%E5%BF%86%E4%BA%86%E4%B8%80%E6%A0%B7" title='这个采访有点尴尬哦，窦靖童：我感觉自己好像失忆了一样'>
+<p class="title">这个采访有点尴尬哦，窦靖童：我感觉自己好像失忆了一样</p>
+</a>
+</li>
+<li class='poster-li poster-n16'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/04619747819150392429.html" target="_blank" static="stp=bd&no=17&ti=%E4%B8%8D%E8%B4%9F%E9%9D%92%E6%98%A5%EF%BC%8C%E6%94%B9%E5%8F%98%E8%87%AA%E5%B7%B1%E4%BB%8E%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B" title='不负青春，改变自己从现在开始' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/3ac79f3df8dcd1009b8a5b3d7e8b4710b9122f93.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="不负青春，改变自己从现在开始" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/3ac79f3df8dcd1009b8a5b3d7e8b4710b9122f93.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="不负青春，改变自己从现在开始" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">03:41</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/04619747819150392429.html" target="_blank" static="stp=bd&no=17&ti=%E4%B8%8D%E8%B4%9F%E9%9D%92%E6%98%A5%EF%BC%8C%E6%94%B9%E5%8F%98%E8%87%AA%E5%B7%B1%E4%BB%8E%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B" title='不负青春，改变自己从现在开始'>
+<p class="title">不负青春，改变自己从现在开始</p>
+</a>
+</li>
+<li class='poster-li poster-n17'>
+<a class="a-pic" href="https://baishi.xiaodutv.com/watch/01790503152766983226.html" target="_blank" static="stp=bd&no=18&ti=%E8%BF%99%E5%91%A8%E6%9C%BA%E5%9C%BA%E7%AB%9F%E7%84%B6%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B8%85%E5%93%A5%EF%BC%8C%E9%9F%AC%E9%9F%AC%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E6%BD%AE%E3%80%81%E5%90%B4%E7%A3%8A%E5%BC%9F%E5%BC%9F%E5%A5%BD%E5%8F%AF%E7%88%B1%E5%93%A6%EF%BC%81" title='这周机场竟然这么多帅哥，韬韬还是这么潮、吴磊弟弟好可爱哦！' data-baishi="">
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/d439b6003af33a87903eec2ccd5c10385343b5b1.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="这周机场竟然这么多帅哥，韬韬还是这么潮、吴磊弟弟好可爱哦！" class='img-blur-layer'>
+<img data-src="https://vorcdn.xiaodutv.com/hiphoto/d439b6003af33a87903eec2ccd5c10385343b5b1.png?x-bce-process=image/resize,m_lfit,h_500,limit_1" alt="这周机场竟然这么多帅哥，韬韬还是这么潮、吴磊弟弟好可爱哦！" class='img-scroll-item'>
+<i class="icon-play"></i>
+<strong class="st-dur">03:44</strong>
+<i class="img-mask"></i>
+</a>
+<a class="a-title" href="https://baishi.xiaodutv.com/watch/01790503152766983226.html" target="_blank" static="stp=bd&no=18&ti=%E8%BF%99%E5%91%A8%E6%9C%BA%E5%9C%BA%E7%AB%9F%E7%84%B6%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B8%85%E5%93%A5%EF%BC%8C%E9%9F%AC%E9%9F%AC%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E6%BD%AE%E3%80%81%E5%90%B4%E7%A3%8A%E5%BC%9F%E5%BC%9F%E5%A5%BD%E5%8F%AF%E7%88%B1%E5%93%A6%EF%BC%81" title='这周机场竟然这么多帅哥，韬韬还是这么潮、吴磊弟弟好可爱哦！'>
+<p class="title">这周机场竟然这么多帅哥，韬韬还是这么潮、吴磊弟弟好可爱哦！</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="poster-page">
+<a class="a-page a-prev hide"></a>
+<a class="a-page a-next hide"></a>
+</div>
+</div>
+
+</div>
+</div></div>
+<script>
+        void function(e,t){for(var n=t.getElementsByTagName("img"),a=+new Date,i=[],o=function(){this.removeEventListener&&this.removeEventListener("load",o,!1),i.push({img:this,time:+new Date})},s=0;s< n.length;s++)!function(){var e=n[s];e.addEventListener?!e.complete&&e.addEventListener("load",o,!1):e.attachEvent&&e.attachEvent("onreadystatechange",function(){"complete"==e.readyState&&o.call(e,o)})}();alog("speed.set",{fsItems:i,fs:a})}(window,document);
+    </script>
+<div id="pager1"><textarea class="g_fis_bigrender" style="display:none;">BigPipe.asyncLoad({id: "pager1"});</textarea></div><div id="pager2"><textarea class="g_fis_bigrender" style="display:none;">BigPipe.asyncLoad({id: "pager2"});</textarea></div></div>
+<div id="footer">
+<div class="footer-wrap">
+<div class="corpsite" static="bl=corpsite&blname=%E5%90%88%E4%BD%9C%E7%AB%99%E7%82%B9">
+<h2 class='h2-corpsite'>合作站点</h2>
+<div class="corpsite-list">
+<a href="http://www.iqiyi.com/" target="_blank" static="stp=iqiyi" class="a-corpsite iqiyi">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.rr.tv/" target="_blank" static="stp=renren" class="a-corpsite renren">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.wasu.cn/" target="_blank" static="stp=wasu" class="a-corpsite wasu">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.mgtv.com/" target="_blank" static="stp=hunantv" class="a-corpsite hunantv">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.cntv.cn/" target="_blank" static="stp=cntv" class="a-corpsite cntv">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://v.ifeng.com/" target="_blank" static="stp=ifeng" class="a-corpsite ifeng">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.pptv.com/" target="_blank" static="stp=pptv" class="a-corpsite pptv">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.1905.com/" target="_blank" static="stp=m1905" class="a-corpsite m1905">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.cztv.com/" target="_blank" static="stp=sina" class="a-corpsite sina">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.funshion.com/?alliance=170567" target="_blank" static="stp=funtv" class="a-corpsite funtv">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://tv.sohu.com/" target="_blank" static="stp=sohu" class="a-corpsite sohu">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.le.com/" target="_blank" static="stp=letv" class="a-corpsite letv">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://www.youku.com/" target="_blank" static="stp=youku" class="a-corpsite youku">
+<i class="i-corpsite"></i>
+</a>
+<a href="http://v.qq.com/" target="_blank" static="stp=qq" class="a-corpsite qq">
+<i class="i-corpsite"></i>
+</a>
+</div>
+</div><div class="mod_footer_contentinfo mod_footer_cf" static="bl=botttomnav&blname=%E5%BA%95%E9%83%A8%E5%AF%BC%E8%88%AA%E6%9D%A1">
+<div class="contentinfo_column contentinfo_channel">
+<em class="contentinfo_title">热门频道</em>
+<ul>
+<li class="item_3">
+<a href="https://v.xiaodutv.com/tv/" target="_blank" title="电视剧">电视剧
+</a>
+</li>
+<li class="">
+<a href="https://v.xiaodutv.com/movie/" target="_blank" title="电影">电影
+</a>
+</li>
+<li class="">
+<a href="https://v.xiaodutv.com/show/" target="_blank" title="综艺">综艺
+</a>
+</li>
+<li class="">
+<a href="https://v.xiaodutv.com/comic/" target="_blank" title="动漫">动漫
+</a>
+</li>
+<li class="">
+<a href="https://v.xiaodutv.com/channel/short/newamuse" target="_blank" title="搞笑">搞笑
+</a>
+</li>
+<li class="">
+<a href="https://v.xiaodutv.com/channel/short/newstar" target="_blank" title="明星">明星
+</a>
+</li>
+<li class=" no-margin">
+<a href="https://v.xiaodutv.com/channel/short/newmusic" target="_blank" title="音乐">音乐
+</a>
+</li>
+</ul>
+</div>
+<div class="contentinfo_column contentinfo_feature">
+<em class="contentinfo_title">特色推荐</em>
+<ul>
+<li class="">
+<a href="https://v.xiaodutv.com/channel/short/newtechnology" target="_blank" title="科技">科技
+</a>
+</li>
+<li class="">
+<a href="https://v.xiaodutv.com/channel/short/newlife" target="_blank" title="生活">生活
+</a>
+</li>
+<li class="">
+<a href="https://v.xiaodutv.com/channel/short/newlvyou" target="_blank" title="旅游">旅游
+</a>
+</li>
+<li class=" no-margin">
+<a href="https://v.xiaodutv.com/channel/short/newfood" target="_blank" title="美食">美食
+</a>
+</li>
+<li class="">
+<a href="https://v.xiaodutv.com/channel/short/newgame" target="_blank" title="游戏">游戏
+</a>
+</li>
+<li class="item_3">
+<a href="https://v.xiaodutv.com/top/" target="_blank" title="排行榜">排行榜
+</a>
+</li>
+</ul>
+</div>
+<div class="contentinfo_column contentinfo_download">
+<em class="contentinfo_title">产品中心</em>
+<ul>
+<li class="item_7">
+<a href="http://list.xiaodutv.com/iph_promote.html" target="_blank" title="iPhone版">iPhone版
+</a>
+</li>
+<li class="item_8">
+<a href="http://list.xiaodutv.com/iph_promote.html" target="_blank" title="Android版">Android版
+</a>
+</li>
+<li class="item_5 no-margin">
+<a href="http://list.xiaodutv.com/iph_promote.html" target="_blank" title="iPad版">iPad版
+</a>
+</li>
+<li class="item_12">
+<a href="http://list.xiaodutv.com/iph_promote.html" target="_blank" title="Android Pad版">Android Pad版
+</a>
+</li>
+</ul>
+</div>
+<div class="qrcode"></div>
+</div>
+<div class="footer" monkey="footer" alog-alias="footer">
+<div class="links">
+<a href="https://v.xiaodutv.com/videoop.html" rel="nofollow" target="_blank">互联网视频开放协议</a>
+</div>
+<p>搜索结果源于互联网视频网站，系计算机系统根据搜索热度自动排列</p>
+<p class="copyright"><a href="javascript:void(0)" rel="nofollow">网络视听许可证0110545号</a></p>
+</div>
+<div id="PCFullScreenad">
+</div>
+<div id="PCidlepagePopup">
+</div>
+<script>
+   //弹窗推送
+    if(typeof BAIDU_VIDEO_ADM_FILL != 'undefined') {
+        BAIDU_VIDEO_ADM_FILL('bottomRightPopup')
+   }
+</script>
+<div id="blockGoodbottomFloating"></div>
+<script>
+        BAIDU_VIDEO_ADM_FILL_ASYC('bottomFloating', 'blockGoodbottomFloating');
+    </script></div>
+</div>
+<div class="hoverPlayer" static='bl=hoverPlayer&blname=hover%E6%92%AD%E6%94%BE'>
+<div class="hoverPlayer-wrap hide" id='hoverPlayer'></div>
+</div><div id="back-to-top" class="back-to-top" alog-alias="backTop">
+<ul class="bt-list">
+<li class="global-interactive-widget-wrap" id="PCallpagesidebar">
+</li>
+<li class="bt-top"><a href="#" id="back-to-top-btn" class="bt-btn-top" title="回到顶部"></a></li>
+<li class="bt-mobile">
+<a class="bt-btn-mobile" title="手机扫描下载APP"><div class="d-mb-ewm">
+<img src="https://list-video.xiaodutv.com/app_download_2wm.png" alt="手机扫描下载百搜视频APP">
+<p class="p-ewm">手机扫描下载<br>百搜视频APP</p>
+<i class="ic-ar"></i>
+<i class="ic-arr"></i>
+</div></a>
+</li>
+<li class="bt-bottom">
+<a target="_blank" href="#"  class="bt-btn-feedback" id="showFeed"></a>
+</li>
+<li id="PCallpagesidebar1"></li>
+<li id="PCallpagesidebar2"></li>
+</ul>
+</div>
+<div class="index-right-float" id="index_right_float" static="bl=adv_float_right" monkey="adv_float_right"></div>
+<script type="text/javascript">
+            window.alogObjectConfig = {
+                product: '104',
+                page: 'page-video-index2-new',
+                speed: {
+                    sample: '0.1'
+                },
+                monkey: {
+                    sample: '0.1'
+                },
+                exception: {
+                    sample: '0.1'
+                },
+                feature: {
+                    sample: '0.1'
+                },
+                csp: {
+                    sample: '0.1',
+                    'default-src': [
+                        {match: '*bae.baidu.com', target: 'Accept,Warn'},
+                        {match: '*.baidu.com,*.bdstatic.com,*.bdimg.com,localhost,*.hao123.com,*.hao123img.com', target: 'Accept'},
+                        {match: /^(127|172|192|10)(\.\d+){3}$/, target: 'Accept'},
+                        {match: '*', target: 'Accept,Warn'}
+                    ]
+                }
+            };
+        </script>
+<script>void function(e,t,n,a,o,c){function r(t){e.attachEvent?e.attachEvent("onload",t,!1):e.addEventListener&&e.addEventListener("load",t)}function i(e,n,a){a=a||15;var o=new Date;o.setTime((new Date).getTime()+1e3*a),t.cookie=e+"="+escape(n)+";path=/;expires="+o.toGMTString()}function s(e){var n=t.cookie.match(new RegExp("(^| )"+e+"=([^;]*)(;|$)"));return null!=n?unescape(n[2]):null}function l(){var e=s("PMS_JT");if(e){i("PMS_JT","",-1);try{e=e.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),e=e&&e[1]&&e[2]?{s:parseInt(e[1]),r:e[2]}:{}}catch(n){e={}}e.r&&t.referrer.replace(/#.*/,"")!=e.r||alog("speed.set","wt",e.s)}}if(e.alogObjectConfig){var d=e.alogObjectConfig.sample,p=e.alogObjectConfig.rand;a="https:"===e.location.protocol?"https://fex.bdstatic.com"+a:"http://fex.bdstatic.com"+a,d&&p&&p>d||(r(function(){alog("speed.set","lt",+new Date),o=t.createElement(n),o.async=!0,o.src=a+"?v="+~(new Date/864e5)+~(new Date/864e5),c=t.getElementsByTagName(n)[0],c.parentNode.insertBefore(o,c)}),l())}}(window,document,"script","/hunter/alog/dp.min.js");</script>
+</body><script type="text/javascript" src="https://video-static-xdcdn.xiaodutv.com/browse_static/https/common/pkg/libs_70656c04.js"></script>
+<script type="text/javascript">require.resourceMap({"res":[],"pkg":[]});</script><script type="text/javascript" src="https://video-static-xdcdn.xiaodutv.com/browse_static/https/common/pkg/common_ui_84114abc.js"></script><script type="text/javascript" src="https://video-static-xdcdn.xiaodutv.com/browse_static/https/common/pkg/common_video_be167bc7.js"></script><script type="text/javascript" src="https://video-static-xdcdn.xiaodutv.com/browse_static/https/videoHome/pkg/vidoeHome_4c4a08a7.js"></script><script type="text/javascript" src="https://video-static-xdcdn.xiaodutv.com/browse_static/https/videoChannelCommon/pkg/videoChannelCommon_fc4ba826.js"></script><script type="text/javascript">
+!function(){            $.log('//pc-videoclick.xiaodutv.com/p.gif?pid=104&u=' + encodeURIComponent(window.location.href) + '&' + 'tn=indsa&tpl=indsa&refer=&city=%E5%8C%97%E4%BA%AC' + '&sa=c&flow=');
+            require('common:static/ui/lazyloader/lazyloader.js');
+                    }();
+!function(){        $(function(){
+            setTimeout(function() {
+                BigPipe.asyncLoad({id: 'pager1'}, null, function(data){
+                    BigPipe.process(data);
+                    $('#pager1 .bigpipe-load').remove();
+                });
+            }, 200);
+            setTimeout(function() {
+                BigPipe.asyncLoad({id: 'pager2'}, null, function(data){
+                    BigPipe.process(data);
+                    $('#pager2 .bigpipe-load').remove();
+                });
+            }, 300);
+        });
+    }();
+!function(){            BAIDU_VIDEO_ADM_FILL_ASYC('bdvSuggestionHotAdv', 'bdv-suggestion-inner-adv');
+        }();
+!function(){	require('common:widget/video/newuserbar/userbar.js')('indsa');
+}();
+!function(){  require('common:widget/video/newtabsearch/tabsearch.js')();
+}();
+!function(){                            BAIDU_VIDEO_ADM_FILL_ASYC('rightCorner-pull', 'rightCornerPullAd');
+                        }();
+!function(){        BAIDU_VIDEO_ADM_FILL_ASYC('logo', 'logoAdWrap', function afterRender(wrap) {
+            $(wrap.parentNode).addClass('run-animate');
+            setTimeout(function() {
+                $(wrap.parentNode).addClass('run-animate-end').removeClass('run-animate');
+            }, 1500);
+        });
+    }();
+!function(){	require('common:widget/video/navmini/navmini.js')();
+}();
+!function(){    (function() {
+    	function log(src) {
+    		var t = new Date().getTime(),
+    			img = window['V_fix_img'+t] = new Image();
+    		img.onload = img.onerror = img.onabort = function() {
+    			img.onload = img.onerror = img.onabort = null;
+    			try {
+    				delete window['V_fix_img'+t];
+    				img = null;
+    			} catch(e) {
+    				img = null;
+    			}
+    		}
+    		img.src = __protocol(src)+'&r='+t;
+    	};
+    	var types = { movie: 21, tv: 22, show: 26, comic: 43, person: 50 };
+    	var bdvSugConfig = {
+    		form: 'new-bdvSearch',
+    		input: 'new-bdvSearchInput',
+    		num: 10,
+    		delay: 0,
+    		classname: 'bdv-qs-suggestion bdv-v2-suggestion',
+    		onsubmit: function(evt) {
+    			log( 'https://pc-videoclick.xiaodutv.com/v.gif?pid=104&tn=sug&searchpage=indsa&s=zdjs&input=' + encodeURIComponent(evt.query) + '&wd=' + encodeURIComponent(evt.title) + ( evt.index ? '&li=' + evt.index : '' ) + ( evt.eventType ? '&eventtype=' + evt.eventType : '' ) );
+    		},
+    		onclicklink: function(evt) {
+    			log( 'https://pc-videoclick.xiaodutv.com/v.gif?pid=104&tn=sug&s=zdjs&bl=spa&input=' + encodeURIComponent(evt.query) + '&wd=' + encodeURIComponent(evt.title) + '&id=' + evt.id + '&ty=' + types[evt.type] + '&stp=' + evt.target + '&li=' + evt.index + '&u=' + encodeURIComponent(evt.url) );
+    		}
+    	};
+
+    	var sug = require("common:static/ui/suggestion/suggestion.js");
+    	sug(bdvSugConfig);
+    }());
+}();
+!function(){	require('common:widget/video/newsearchbox/searchbox.js')({
+				preFlag: true,
+				id: 'new-bdvSearch',
+				ismis: true,
+		    		pageTn: 'indsa',
+		    hotSearchWordsBox: [{"videos":null,"config":{"limit":4}}]
+    	});
+}();
+!function(){                                BAIDU_VIDEO_ADM_FILL_ASYC('indexRightTopShoulder', 'index_right_top');
+                            }();
+!function(){    require('common:widget/video/header/header.js')({ navMini:false} );
+}();
+!function(){        require("common:widget/video/liveSubTips/liveSubTips.js")('#liveSubTips');
+    }();
+!function(){ var url = window.location.href;
+ var $ip = url.match(/ip=.*[0-9]$/)
+ $.ajax({
+     url: window.location.protocol + "//v.xiaodutv.com/kan/api/ipLocation?" + $ip,
+     dataType: 'jsonp',
+     success: function (data) {
+         var $c = data.data.province;
+         var $city = false;
+         require('common:widget/video/nav/nav.js')('indsa','1',$c);
+     }
+ })
+}();
+!function(){}();
+!function(){        require('videoHome:widget/rankList/rankList.js')({
+            dom:'#index_top_all_list'
+        });
+    }();
+!function(){        BAIDU_VIDEO_ADM_FILL_ASYC('indexRightSmallPic', BAIDU_VIDEO_ADM_TOOLS.query('#index_focus_poster_small .poster-li')[10]);
+    }();
+!function(){                    BAIDU_VIDEO_ADM_FILL_ASYC('PCFocusPosterOne', 'PCFocusPosterOne', function(wrap) {
+                        if($(wrap)) {
+                            $(wrap).show();
+                        }
+                    });
+                }();
+!function(){                    BAIDU_VIDEO_ADM_FILL_ASYC('PCFocusPosterOne1', 'PCFocusPosterOne1', function(wrap) {
+                        if($(wrap)) {
+                            $(wrap).show();
+                        }
+                    });
+                }();
+!function(){                    BAIDU_VIDEO_ADM_FILL_ASYC('PCFocusPosterOne2', 'PCFocusPosterOne2', function(wrap) {
+                        if($(wrap)) {
+                            $(wrap).show();
+                        }
+                    });
+                }();
+!function(){                    BAIDU_VIDEO_ADM_FILL_ASYC('PCFocusPosterOne3', 'PCFocusPosterOne3', function(wrap) {
+                        if($(wrap)) {
+                            $(wrap).show();
+                        }
+                    });
+                }();
+!function(){    BAIDU_VIDEO_ADM_FILL_ASYC("pcindexpageColumnjrrd", "pcindexpageColumnjrrd");
+    }();
+!function(){            $.getScript('https://list-video.xiaodutv.com/adpc/eastday.js?t='+new Date().getTime());
+        }();
+!function(){    BAIDU_VIDEO_ADM_FILL_ASYC("PCIndexPageCube", "PCIndexPageCube");
+    }();
+!function(){        !function () {
+            var domId = 'channelBannerAdver_1758827662';
+            var href = location.href;
+            var adverPosition;
+            if (href.match(/v\.baidu\.com/)) {
+                adverPosition = [
+                    'dbshowpagefixedColumn',
+                    'dbComicpagefixedColumn',
+                    'dbcartoonpagefixedColumn'
+                ];
+            } 
+            else if (href.match(/v\.duba\.com\/(dianshi|dianying|channel\/shaoer)/)) {
+                adverPosition = [
+                    'dbIndexPagefixedColumn',
+                    'dbtvpagefixedColumn',
+                    'dbmoviepagefixedColumn'
+                ];
+            }
+            else {
+                adverPosition = [
+                    'dbfixedColumn1235'                    
+                ];
+            }
+            var len = adverPosition.length;
+            var idx = Math.floor(Math.random() * len);
+            var adId = adverPosition[idx];
+            BAIDU_VIDEO_ADM_FILL_ASYC(adId, domId);
+        }();
+    }();
+!function(){        !function () {
+            var domId = 'channelBannerAdver_781223221';
+            var href = location.href;
+            var adverPosition;
+            if (href.match(/v\.baidu\.com/)) {
+                adverPosition = [
+                    'dbshowpagefixedColumn',
+                    'dbComicpagefixedColumn',
+                    'dbcartoonpagefixedColumn'
+                ];
+            } 
+            else if (href.match(/v\.duba\.com\/(dianshi|dianying|channel\/shaoer)/)) {
+                adverPosition = [
+                    'dbIndexPagefixedColumn',
+                    'dbtvpagefixedColumn',
+                    'dbmoviepagefixedColumn'
+                ];
+            }
+            else {
+                adverPosition = [
+                    'dbfixedColumn1235'                    
+                ];
+            }
+            var len = adverPosition.length;
+            var idx = Math.floor(Math.random() * len);
+            var adId = adverPosition[idx];
+            BAIDU_VIDEO_ADM_FILL_ASYC(adId, domId);
+        }();
+    }();
+!function(){            require('videoHome:widget/baseVideo/baseScrollVideo.js')({
+                dom:'#index_show_mini_comic'
+            });
+                    }();
+!function(){        BAIDU_VIDEO_ADM_FILL_ASYC("indexBottomColumn2", "indexBottomColumn2");
+        }();
+!function(){            require('videoHome:widget/baseVideo/baseScrollVideo.js')({
+                dom:'#index_show_mini_playlet'
+            });
+                    }();
+!function(){    require('common:static/ui/eventcenter/eventcenter.js').trigger('lazyLoad.check');
+}();
+!function(){    BAIDU_VIDEO_ADM_FILL_ASYC("PCFullScreenad", "PCFullScreenad");
+    }();
+!function(){        ~function() {
+            // 4大类频道、二级、详情页以及检索页添加广告
+            var workType = ['movie', 'tv', 'show', 'comic', 'dianying', 'dianshi', 'zongyi', 'dongman', 'v'];
+            var path = location.pathname.split('/')[1];
+            if (!path || workType.indexOf(path) > -1) {
+                BAIDU_VIDEO_ADM_FILL_ASYC("PCidlepagePopup", "PCidlepagePopup");
+            }
+        }();
+    }();
+!function(){require('common:widget/video/footer/footer.js')();
+    // 对该站所有链接进行安全过滤
+    $(document).ready(function () {
+		$('body a').each(function () {
+			var ret = $(this).attr('href');
+			ret = ret && ret.replace(/<script.*?>.*?<\/script>/g, '')
+                .replace(/<[^>]+>/g, '');
+            $(this).attr('href', ret);
+		});
+	});
+
+window["h"] = function(obj, url){
+    if (document.all) {
+        obj.style.behavior = 'url(#default#homepage)';
+        obj.setHomePage(url);
+    }
+}
+$.ajax({
+    url: 'https://list-video.xiaodutv.com/adpc/scrollTextAd.js',
+    dataType: "script",
+    crossDomain: true
+});
+}();
+!function(){	require('common:static/ui/statistics/statistics.js');
+			var loginCheck = require('common:static/ui/loginCheck/loginCheck.js');
+	   	if ( location.hostname.match(/(?:\.baidu\.com$)|(?:\.hao123\.com$)/) ) {
+			var bdvref = $.cookie.get('bdvref');
+			if ( bdvref ) {
+				V.nsclick.setParam('VIDEO_FR', bdvref);
+			}
+		} else {
+			loginCheck(function(userinfo) {
+				if ( userinfo && userinfo.cookie && userinfo.cookie.bdvref ) {
+					V.nsclick.setParam('VIDEO_FR', userinfo.cookie.bdvref);
+				}
+			});
+		}
+																	V.nsclick.setParam('tn', 'indsa');
+												V.nsclick.setParam('tpl', 'indsa');
+												V.nsclick.setParam('sa', 'd');
+												V.nsclick.setParam('refer', '');
+							var staConf = {};
+										staConf['dedup'] = 1;
+												staConf['det'] = 1;
+							V.nsclick.setConfig(staConf)
+	}();
+!function(){ 
+			var isSupportVideo = !!(document.createElement('video').canPlayType);
+            var isIE =(!!window.ActiveXObject || "ActiveXObject" in window); 
+			if(isSupportVideo && !isIE){
+				require('common:widget/video/hoverPlayer/player.js')({
+	            	id:'#hoverPlayer',
+	            	tpl:'indsa'
+	            });
+			}
+        }();
+!function(){$(function() {
+	$.getScript('//cbjs.baidu.com/js/m.js', function() {
+		if ( window.BAIDU_CLB_fillSlotAsync ) {
+			$('.adm-union').each(function(index, item) {
+				var domid = item.getAttribute('id'),
+					uniodid = item.getAttribute('data-union');
+				if ( domid && uniodid ) {
+					BAIDU_CLB_fillSlotAsync(uniodid, domid);
+				}
+			});
+		}
+	});
+});
+}();
+!function(){require.async('common:widget/video/advList/advList.js',function(ADV){
+	ADV.init();
+});
+}();
+!function(){    BAIDU_VIDEO_ADM_FILL_ASYC("PCallpagesidebar", 'PCallpagesidebar');
+    }();
+!function(){    BAIDU_VIDEO_ADM_FILL_ASYC("PCallpagesidebar1", 'PCallpagesidebar1', function(wrap) {
+        if($(wrap)) {
+            $(wrap).css({'width': '38px', 'height': '48px'})
+        }
+    });
+    }();
+!function(){    BAIDU_VIDEO_ADM_FILL_ASYC("PCallpagesidebar2", 'PCallpagesidebar2', function(wrap) {
+        if($(wrap)) {
+            $(wrap).css({'width': '38px', 'height': '38px', 'margin-top': '4px'})
+        }
+    });
+    }();
+!function(){require.async('common:widget/video/advList/advList.js',function(adv){
+    adv.push(function(){
+        return {"id":"index_right_float","classname":"index-right-float","bl":"adv_float_right","monkey":"adv_float_right"}
+    });
+});
+}();
+!function(){        require("videoChannelCommon:widget/backTop/backTop.js")();
+    }();
+</script></html>
+<!--13229685860000000000082419-->
+<script> var _trace_page_logid = 1322968586; </script><!--13231583722573772992082419-->
+<script> var _trace_page_logid = 1323158372; </script>

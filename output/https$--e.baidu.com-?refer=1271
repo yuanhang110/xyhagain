@@ -1,0 +1,1820 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="https://cpdfe.cdn.bcebos.com/favicon.ico" type="image/x-icon">
+  <title>百度营销-用科技让营销更简单</title>
+  <meta name="keywords" content="百度营销,百度推广,企业营销">
+  <meta name="description" content="百度营销，企业网络营销首选平台，为企业提供搜索广告、信息流广告、品牌广告等多种广告营销服务，获客热线：400-800-8888。">
+  <link rel="stylesheet" href="/themes/ebaidu/public/plugins/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="/themes/ebaidu/public/plugins/swiper/swiper.css">
+  <link rel="stylesheet" href="/themes/ebaidu/public/css/animate.css">
+  <link rel="stylesheet" href="/themes/ebaidu/public/fonts/font.css">
+  <link rel="stylesheet" href="/themes/ebaidu/public/css/base.css">
+  <link rel="stylesheet" href="/themes/ebaidu/public/css/common.css">
+  <link rel="stylesheet" href="/themes/ebaidu/public/css/index.css">
+  <link rel="stylesheet" href="/themes/ebaidu/public/css/common2.css">
+  <link rel="stylesheet" href="/themes/ebaidu/public/css/lottery.css">
+</head>
+
+<body>
+  <!-- header部分 -->
+  
+
+<script src="/themes/ebaidu/public/plugins/jquery.js"></script>
+
+<script>
+
+  //获取cookie visit_id
+    function getCookie(name) {
+        var arr, reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)");
+        if(arr = document.cookie.match(reg))
+        return unescape(arr[2]);
+        else
+        return null;
+    }
+    var visit_id = getCookie('visit_id');
+    // console.log(visit_id)
+
+  var _hmt = _hmt || [];
+  _hmt.push(["_setUserProperty", {"setUserId": visit_id}]);
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?1f3202d820180a39f736f20fce790de8";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+
+
+</script>
+<header class="header">
+
+  <div class="container">
+    <div class="left">
+      <div class="logo">
+        <a href="/?refer=1271">
+          <img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/setting/20210925/48966d7711dba6024a3381095c720011.png" alt="">
+        </a>
+      </div>
+      <div class="nav">
+        <ul>
+
+
+                      <li class="active">
+              <a href="/?refer=1271">首页</a>
+                          </li>
+          
+            <li class="">
+              <a href="/advantage/?refer=1271">平台优势</a>
+                          </li>
+          
+            <li class="">
+              <a href="/product/?refer=1271">广告类型</a>
+                              <ul class="children">
+                                      <li class=""> <a href="/product/sousuo/?refer=1271">搜索广告</a></li>
+                                      <li class=""> <a href="/product/feed/?refer=1271">信息流广告</a></li>
+                                      <li class=""> <a href="/product/pinpai/?refer=1271">品牌广告</a></li>
+                                      <li class=""> <a href="/product/kaiping/?refer=1271">开屏广告</a></li>
+                                      <li class=""> <a href="/product/juping/?refer=1271">聚屏广告</a></li>
+                                      <li class=""> <a href="/product/dianshang/?refer=1271">电商推广</a></li>
+                                      <li class=""> <a href="/product/lvyou/?refer=1271">旅游会员</a></li>
+                                  </ul>
+                          </li>
+          
+            <li class="">
+              <a href="/case/?refer=1271">营销案例</a>
+                              <ul class="children">
+                                      <li class=""> <a href="/case/it/?refer=1271">IT/消费电子</a></li>
+                                      <li class=""> <a href="/case/house/?refer=1271"> 房产家居</a></li>
+                                      <li class=""> <a href="/case/tour/?refer=1271"> 旅游服务</a></li>
+                                      <li class=""> <a href="/case/web/?refer=1271"> 网络服务</a></li>
+                                      <li class=""> <a href="/case/edu/?refer=1271"> 教育培训</a></li>
+                                      <li class=""> <a href="/case/business/?refer=1271"> 商务服务</a></li>
+                                      <li class=""> <a href="/case/life/?refer=1271"> 生活服务</a></li>
+                                      <li class=""> <a href="/case/car/?refer=1271">汽车</a></li>
+                                  </ul>
+                          </li>
+          
+            <li class="">
+              <a href="/about/?refer=1271">了解更多</a>
+                              <ul class="children">
+                                      <li class=""> <a href="/about/?refer=1271">关于我们</a></li>
+                                      <li class=""> <a href="/news/?refer=1271">新闻中心</a></li>
+                                      <li class=""> <a href="https://yingxiao.baidu.com/edu?from=ebaidu?refer=1271">营销学堂</a></li>
+                                      <li class=""> <a href="/agents/?refer=1271">代理商查询</a></li>
+                                      <li class=""> <a href="/qinquan/?refer=1271">侵权案例公示</a></li>
+                                  </ul>
+                          </li>
+          
+
+
+        </ul>
+      </div>
+    </div>
+    <div class="right">
+      <div class="tel_txt">官方热线</div>
+      <div class="contact" data-agl-cvt="2" onclick="ocpc(2)">
+        400-800-8888      </div>
+       <!--onclick="ocpc(5),_hmt.push(['_trackEvent', 'form', 'click', 'consulting'])"-->
+      <div><button type="button" class="btn btn-danger" style="width: 100px;" data-toggle="modal"
+                   data-target="#free_consult" data-agl-cvt="5">免费咨询</button></div>
+    </div>
+  </div>
+</header>
+  <!-- header部分 --> 
+  <div class="main" style="">
+      
+    <!-- banner -->
+    <div class="banner">
+      <div id="b_carouselExampleIndicators" class="banner-carousel carousel slide" data-ride="banner-carousel">
+        <ol class="carousel-indicators">
+                      <li data-target="#b_carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          
+            <li data-target="#b_carouselExampleIndicators" data-slide-to="1" class=""></li>
+          
+            <li data-target="#b_carouselExampleIndicators" data-slide-to="2" class=""></li>
+          
+            <li data-target="#b_carouselExampleIndicators" data-slide-to="3" class=""></li>
+          
+            <li data-target="#b_carouselExampleIndicators" data-slide-to="4" class=""></li>
+          
+        </ol>
+        <div class="carousel-inner"> 
+             <div class="carousel-item active" id="pc_banner_1" >
+            <a href="" target="_blank"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210917/5383dc54c639d0f782264413401cee45.jpg"></a>
+            <div class="con" style="pointer-events: none;">
+              <a href="" target="_blank"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210922/728c48d3742b0512c167045b96b1095b.png" ></a>
+              <!--判断按钮是否显示-->
+                                <div class="fadeInRight1  animated mt_30" data-agl-cvt="5" >
+                    <button data-agl-cvt="5" type="button" id="pc_banner_button_1"   style="pointer-events: all;width: 200px;" class="btn btn-primary"
+                            data-toggle="modal" data-target="#free_consult"
+                            onclick="ocpc(5)">立即体验</button>
+                  </div>
+                  
+
+
+                          </div>
+          </div>
+        
+          <div class="carousel-item " id="pc_banner_23" >
+            <a href="https://cloud.baidu.com/campaign/bigevent/index.html?track=13f9318b7907e536c964a6f14b6f164d65b441c65b91fb1f" target="_blank"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20230816/24fdd8356b6e8d30e6f2352c35f54ca1.png"></a>
+            <div class="con" style="pointer-events: none;">
+              <a href="https://cloud.baidu.com/campaign/bigevent/index.html?track=13f9318b7907e536c964a6f14b6f164d65b441c65b91fb1f" target="_blank"><img src="" ></a>
+              <!--判断按钮是否显示-->
+                          </div>
+          </div>
+        
+          <div class="carousel-item " id="pc_banner_2" >
+            <a href="" target="_blank"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210917/d73110ca6112b7343078f6292e2ce6a0.jpg"></a>
+            <div class="con" style="pointer-events: none;">
+              <a href="" target="_blank"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210923/37d83d62e3a480bc908cf337b8806ca5.png" ></a>
+              <!--判断按钮是否显示-->
+                                <div class="fadeInRight1  animated mt_30" data-agl-cvt="5" >
+                    <button data-agl-cvt="5" type="button" id="pc_banner_button_2"   style="pointer-events: all;width: 200px;" class="btn btn-primary"
+                            data-toggle="modal" data-target="#free_consult"
+                            onclick="ocpc(5)">立即体验</button>
+                  </div>
+                  
+
+
+                          </div>
+          </div>
+        
+          <div class="carousel-item " id="pc_banner_14" >
+            <a href="" target="_blank"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210917/39a3fb1be5276205bda80deb5d9ad8b8.jpg"></a>
+            <div class="con" style="pointer-events: none;">
+              <a href="" target="_blank"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210917/bfb64612f3618fa12ec24646426197a6.png" ></a>
+              <!--判断按钮是否显示-->
+                                <div class="fadeInRight1  animated mt_30" data-agl-cvt="5" >
+                    <button data-agl-cvt="5" type="button" id="pc_banner_button_14"   style="pointer-events: all;width: 200px;" class="btn btn-primary"
+                            data-toggle="modal" data-target="#free_consult"
+                            onclick="ocpc(5)">立即体验</button>
+                  </div>
+                  
+
+
+                          </div>
+          </div>
+        
+          <div class="carousel-item " id="pc_banner_21" >
+            <a href="http://e.baidu.com/lp/dajiangtang/?refer=1263" target="_blank"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20221028/5fc0385c69c00f94393b9daced21458e.jpg"></a>
+            <div class="con" style="pointer-events: none;">
+              <a href="http://e.baidu.com/lp/dajiangtang/?refer=1263" target="_blank"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20230421/09b87682b11f4c4c79a832d889c2facf.png" ></a>
+              <!--判断按钮是否显示-->
+                                <div class="fadeInRight1  animated mt_30" data-agl-cvt="5" >
+                    <button data-agl-cvt="5" type="button" id="pc_banner_button_21"   style="pointer-events: all;width: 200px;" class="btn btn-primary"
+                            data-toggle="modal" data-target="#free_consult"
+                            onclick="ocpc(5)">免费预约</button>
+                  </div>
+                  
+
+
+                          </div>
+          </div>
+        
+        </div> 
+          <button class="carousel-control-prev carousel-control"  type="button" data-target="#b_carouselExampleIndicators" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </button>
+          <button class="carousel-control-next carousel-control" type="button" data-target="#b_carouselExampleIndicators" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </button> 
+          <style>
+          
+        .carousel-control-next-icon {
+                    background-image: url(https://ebd-site.cdn.bcebos.com/newbaidu/imgs/arrow_right.png);
+             }
+            .carousel-control-prev-icon {
+                    background-image: url(https://ebd-site.cdn.bcebos.com/newbaidu/imgs/arrow_left.png);
+             }         
+            .carousel-control-next-icon, .carousel-control-prev-icon {
+                    width: 13px;
+                    height: 23px;
+            }
+          .carousel-control-prev{
+            left:5vw
+          }
+          .carousel-control-next{
+              right:5vw
+          }
+          .carousel-control{
+            width: 64px;
+            height: 64px;
+            border-radius: 50%;
+            background: hsla(0,0%,100%,.2);
+            line-height: 64px;
+            text-align: center;
+            cursor: pointer;
+            transition: all .2s;
+            top: 50%;
+            margin-top: -32px; 
+          } 
+          </style> 
+        
+      </div>
+    </div>
+    <script>
+        $(function(){
+             $('.carousel-item a').each(function() {
+                var href = $(this).attr('href');
+                if (href === '') {
+                  $(this).attr('href', 'javascript:void(0)');
+                  $(this).attr('target', '');
+                }
+            });
+        })
+    </script>
+    <!-- banner -->
+    
+    
+    
+    <!-- lp3 banner form -->
+    <div class="part-contact lp2_banner lp3_banner">
+    <div class="con">
+      <div class="lp3_form_bg">
+      <div class="con-wrap container">
+          <div class="form-wrap">
+            <form class="wow zoomIn_1">
+              <div class="row">
+                <div class="col">
+                  <input id="contact_name_1" type="text" class="form-control name" placeholder="姓名" value="">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <input id="contact_tel_1" type="text" class="form-control tel" placeholder="手机" value=""
+                    oninput="value=value.replace(/[^\d]/g,'')">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <input id="contact_company_1" type="text" class="form-control company" placeholder="公司名称" value="">
+                </div>
+              </div>
+              <div class="row row-area">
+                <div class="col">
+                  <input id="ipt_area_1" Readonly type="text" class="form-control" placeholder="选择地区">
+                </div>
+                <div id="area_option_1" class="area-option flex_bet_center">
+                  <div id="ipt_prov_1" class="province is-scroll"></div>
+                  <div id="ipt_city_1" class="city is-scroll"></div>
+                </div>
+              </div>
+              <input type="hidden" class="token" value="b23dx/tzyYxl4c6OaJq/4M45xRHu3c8bw+68HpxZ2MosFg8v/fVs+Q8/s1pSEglPsbkzESs" name="__token__">
+              <input type="hidden" class="refer" value="1271" name="refer">
+              <div class="lp3_sub"style="margin-top: 10px;margin-bottom:10px;" data-agl-cvt="5">
+                <button id="contact_btn_1" type="button" class="btn btn-primary add_1 w_100"  data-agl-cvt="5">
+                  <span id="contact_spinner_1" style="display: none;" class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                  免费咨询
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    
+
+    <!-- part1 覆盖流量场景 -->
+    <div class="part1 part">
+      <div class="con container">
+        <div class="com-title">
+          <p class="big-title wow fadeInDown">让您的产品服务 全面触达百度10亿+用户</p>
+          <p class="wow fadeInUp">百度全系列产品推广，覆盖用户生活全场景</p>
+        </div>
+        <!-- 图标nav -->
+        <ul id="part1_icon" class="icon wow fadeInUp_1">
+          <li class="bg-contain active"></li>
+          <li class="bg-contain"></li>
+          <li class="bg-contain"></li>
+          <li class="bg-contain"></li>
+          <li class="bg-contain"></li>
+          <li class="bg-contain"></li>
+          <li class="bg-contain"></li>
+          <li class="bg-contain"></li>
+        </ul>
+      </div>
+      <!-- 切换内容 -->
+      <div class="pic-wrap">
+        <div id="con_pic" class="con-pic container">
+          <div class="pic1 active">
+            <div class="p-main wow zoomIn">
+              <div class="p-left">
+                <div class="t flex_bet_center">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part1_icon1.png" alt="">
+                  <div class="t-wrap">
+                    <p class="big-title">百度APP</p>
+                    <p class="second-title text-purple">百度一下，生活更好</p>
+                  </div>
+                </div>
+                <div class="c flex_bet_center">
+                  <div class="item">
+                    <p class="c-title">
+                      60亿次
+                    </p>
+                    <p class="c-sub">
+                      百度APP日均搜索次数
+                    </p>
+                  </div>
+                  <div class="item">
+                    <p class="c-title">
+                      150亿
+                    </p>
+                    <p class="c-sub">
+                      百度APP信息流日均推荐量
+                    </p>
+                  </div>
+                </div>
+                <div class="b text-grey">
+                  7亿用户在使用的手机“搜索+资讯”客户端，依托百度网页、百度图片、百度新闻、百度知道、百度百科、百度地图、百度音乐、百度视频等专业垂直搜索频道，方便用户随时随地使用百度搜索服务。</div>
+                <div data-agl-cvt="5" class="consult mt_30 animated zoomIn1" ><button data-agl-cvt="5" type="button" data-toggle="modal"
+                    data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+                    onclick="ocpc(5)">立即抢占海量客户</button></div>
+              </div>
+              <div class="p-right">
+                
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/1/B.png)"></i>
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/1/A.png)"></i>
+                
+              </div>
+            </div>
+          </div>
+          <div class="pic2">
+            <div class="p-main wow zoomIn">
+              <div class="p-left">
+                <div class="t flex_bet_center">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part1_icon2.png" alt="">
+                  <div class="t-wrap">
+                    <p class="big-title">百度地图
+                    </p>
+                    <p class="second-title text-purple">科技让出行更简单
+                    </p>
+                  </div>
+                </div>
+                <div class="c flex_bet_center">
+                  <div class="item">
+                    <p class="c-title">
+                      1.8亿
+                    </p>
+                    <p class="c-sub">
+                      全球POI数据覆盖
+                    </p>
+                  </div>
+                </div>
+                <div class="b text-grey">百度地图具备全球化地理信息服务能力，包括智能定位、POI检索、路线规划、导航、路况等。导航定位精准、路线选择多，可选择躲避拥堵功能，地图服务覆盖出行全场景。
+                </div>
+                <div data-agl-cvt="5" class="consult mt_30" ><button data-agl-cvt="5" type="button" data-toggle="modal"
+                    data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+                    onclick="ocpc(5)">立即抢占海量客户</button></div>
+              </div>
+              <div class="p-right">
+                
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/2/B.png)"></i>
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/2/A.png)"></i>
+                
+              </div>
+            </div>
+          </div>
+          <div class="pic3">
+            <div class="p-main wow zoomIn">
+              <div class="p-left">
+                <div class="t flex_bet_center">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part1_icon3.png" alt="">
+                  <div class="t-wrap">
+                    <p class="big-title">百度贴吧
+                    </p>
+                    <p class="second-title text-purple">以兴趣主题聚合志同道合者的互动平台
+                    </p>
+                  </div>
+                </div>
+                <div class="c flex_bet_center">
+                  <div class="item">
+                    <p class="c-title">
+                      8000万
+                    </p>
+                    <p class="c-sub">
+                      全域日活用户
+                    </p>
+                  </div>
+                  <div class="item">
+                    <p class="c-title">
+                      35亿+
+                    </p>
+                    <p class="c-sub">
+                      日均浏览量
+                    </p>
+                  </div>
+                </div>
+                <div class="b text-grey">
+                  基于关键词的主题交流社区，它与搜索紧密结合，准确把握用户需求，为兴趣而生。贴吧目录涵盖社会、地区、生活、教育、娱乐明星、游戏、体育、企业等方方面面，是全球领先的中文交流平台。
+                </div>
+                <div data-agl-cvt="5" class="consult mt_30" ><button data-agl-cvt="5" type="button" data-toggle="modal"
+                    data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+                    onclick="ocpc(5)">立即抢占海量客户</button></div>
+              </div>
+              <div class="p-right">
+                
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/3/B.png)"></i>
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/3/A.png)"></i>
+                
+              </div>
+            </div>
+          </div>
+          <div class="pic4">
+            <div class="p-main wow zoomIn">
+              <div class="p-left">
+                <div class="t flex_bet_center">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part1_icon4.png" alt="">
+                  <div class="t-wrap">
+                    <p class="big-title">好看视频
+                    </p>
+                    <p class="second-title text-purple">轻松有收获
+                    </p>
+                  </div>
+                </div>
+                <div class="c flex_bet_center">
+                  <div class="item">
+                    <p class="c-title">
+                      1.1亿
+
+                    </p>
+                    <p class="c-sub">
+                      好看视频全域DAU
+
+                    </p>
+                  </div>
+                  <div class="item">
+                    <p class="c-title">
+                      30亿
+
+                    </p>
+                    <p class="c-sub">
+                      短视频播放量
+
+                    </p>
+                  </div>
+                </div>
+                <div class="b text-grey">为用户提供海量优质短视频内容的专业聚合平台。全方位覆盖美食、兴趣学习、房产家居、旅游、运动健康、穿搭美妆、开箱评测
+                  、汽车等优质短视频。通过百度智能推荐算法，为你推荐量身定制的视频内容。
+                </div>
+                <div data-agl-cvt="5" class="consult mt_30" ><button data-agl-cvt="5" type="button" data-toggle="modal"
+                    data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+                    onclick="ocpc(5)">立即抢占海量客户</button></div>
+              </div>
+              <div class="p-right">
+                
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/4/B.png)"></i>
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/4/A.png)"></i>
+                
+              </div>
+            </div>
+          </div>
+          <div class="pic6">
+            <div class="p-main wow zoomIn">
+              <div class="p-left">
+                <div class="t flex_bet_center">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part1_icon5.png" alt="">
+                  <div class="t-wrap">
+                    <p class="big-title">爱奇艺
+                    </p>
+                    <p class="second-title text-purple">中国高品质视频娱乐服务提供者
+                    </p>
+                  </div>
+                </div>
+                <div class="c flex_bet_center">
+                  <div class="item">
+                    <p class="c-title">
+                      超5.6亿
+                    </p>
+                    <p class="c-sub">爱奇艺APP月活跃用户
+                    </p>
+                  </div>
+                </div>
+                <div class="b text-grey">
+                    秉承“悦享品质”的品牌口号，积极推动产品、技术、内容、营销等全方位创新，为用户提供丰富、高清、流畅的专业视频体验，致力于让人们平等、便捷地获得更多、更好的视频。</div>
+                <div data-agl-cvt="5" class="consult mt_30"><button  data-agl-cvt="5" type="button" data-toggle="modal"
+                    data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+                    onclick="ocpc(5)">立即抢占海量客户</button></div>
+              </div>
+              <div class="p-right">
+                
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/6/B.png)"></i>
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/6/A.png)"></i>
+                
+              </div>
+            </div>
+          </div>
+          <div class="pic7">
+            <div class="p-main wow zoomIn">
+              <div class="p-left">
+                <div class="t flex_bet_center">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part1_icon6.png" alt="">
+                  <div class="t-wrap">
+                    <p class="big-title">百度网盘
+                    </p>
+                    <p class="second-title text-purple">让美好永远陪伴
+                    </p>
+                  </div>
+                </div>
+                <div class="c flex_bet_center">
+                  <div class="item">
+                    <p class="c-title">
+                      8亿
+                    </p>
+                    <p class="c-sub">用户量累计突破
+                    </p>
+                  </div>
+                </div>
+                <div class="b text-grey">为超过7亿用户提供专业、安全的云存储服务。用户可以将电脑及手机中的文件上传到云端备份、预览、分享，更便捷安全的管理数据，并可跨终端随时随地查看分享。
+                </div>
+                <div data-agl-cvt="5" class="consult mt_30" ><button data-agl-cvt="5" type="button" data-toggle="modal"
+                    data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+                    onclick="ocpc(5)">立即抢占海量客户</button></div>
+              </div>
+              <div class="p-right">
+                
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/7/B.png)"></i>
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/7/A.png)"></i>
+                
+              </div>
+            </div>
+          </div>
+          <div class="pic8">
+            <div class="p-main wow zoomIn">
+              <div class="p-left">
+                <div class="t flex_bet_center">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part1_icon7.png" alt="">
+                  <div class="t-wrap">
+                    <p class="big-title">百度知道
+                    </p>
+                    <p class="second-title text-purple">全球领先中文互动问答平台
+                    </p>
+                  </div>
+                </div>
+                <div class="c flex_bet_center">
+                  <div class="item">
+                    <p class="c-title">
+                      5.5亿
+                    </p>
+                    <p class="c-sub">
+                      已解决问题量</p>
+                  </div>
+                  <div class="item">
+                    <p class="c-title">
+                      1.5亿
+                    </p>
+                    <p class="c-sub">
+                      日活跃用户
+                    </p>
+                  </div>
+                </div>
+                <div class="b text-grey">
+                  百度知道是一个基于搜索的互动式知识问答分享平台。百度知道和搜索引擎的完美结合，让用户所拥有的隐性知识转化成显性知识，用户既是百度知道内容的使用者，同时又是百度知道的创造者，累积的知识数据可以反映到搜索结果中。
+                </div>
+                <div data-agl-cvt="5" class="consult mt_30" ><button  data-agl-cvt="5" type="button" data-toggle="modal"
+                    data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+                    onclick="ocpc(5)">立即抢占海量客户</button></div>
+              </div>
+              <div class="p-right">
+                
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/8/B.png)"></i>
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/8/A.png)"></i>
+                
+              </div>
+            </div>
+          </div>
+          <div class="pic9">
+            <div class="p-main wow zoomIn">
+              <div class="p-left">
+                <div class="t flex_bet_center">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part1_icon8.png" alt="">
+                  <div class="t-wrap">
+                    <p class="big-title">百度百科
+                    </p>
+                    <p class="second-title text-purple">全球领先的中文百科全书</p>
+                  </div>
+                </div>
+                <div class="c flex_bet_center">
+                  <div class="item">
+                    <p class="c-title">
+                      1500万次
+
+                    </p>
+                    <p class="c-sub">
+                      覆盖词条数量
+                    </p>
+                  </div>
+                  <div class="item">
+                    <p class="c-title">
+                      4亿次
+                    </p>
+                    <p class="c-sub">
+                      日均访问人次
+                    </p>
+                  </div>
+                </div>
+                <div class="b text-grey">百度百科是百度公司推出的一部内容开放、自由的网络百科全书。汇聚上亿用户的头脑智慧，积极进行交流和分享，从不同的层次上满足用户对信息的需求，提供全面、系统、专业、权威的知识分享服务。
+                </div>
+                <div data-agl-cvt="5" class="consult mt_30" ><button data-agl-cvt="5" type="button" data-toggle="modal"
+                    data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+                    onclick="ocpc(5)">立即抢占海量客户</button></div>
+              </div>
+              <div class="p-right">
+                
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/9/B.png)"></i>
+                  <i class="bg-cotain" style="background-image:url(/themes/ebaidu/public/img/home/part1/9/A.png)"></i>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- part2 企业面临的问题 -->
+    <div class="part2 part">
+      <div class="con container">
+        <div class="com-title">
+          <p class="big-title wow fadeInDown">后疫情时代 如何应对企业获客新挑战</p>
+          <p class="wow fadeInUp">受疫情冲击，企业正面临着各种获客难题</p>
+        </div>
+        <div class="con-main">
+          <!-- 难点 -->
+          <div class="one">
+            <p class="big-title wow fadeInRight">营销难点</p>
+            <ul class="wow fadeInUp_1">
+              <li>
+                <div class="pic">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part2/1.png" alt="">
+                </div>
+                <div class="text">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part2/num-1.png" alt="">
+                  <p class="big-title">渠道有限 客户少</p>
+                  <p>获客难度大，流量不精准？</p>
+                </div>
+              </li>
+              <li>
+                <div class="pic">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part2/2.png" alt="">
+                </div>
+                <div class="text">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part2/num-2.png" alt="">
+                  <p class="big-title">企业转型 推广难</p>
+                  <p>传统行业不懂网络营销，效果难把控？</p>
+                </div>
+              </li>
+              <li>
+                <div class="pic">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part2/3.png" alt="">
+                </div>
+                <div class="text">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part2/num-3.png" alt="">
+                  <p class="big-title">网络推广 效果差</p>
+                  <p>市场竞争激烈，销量难打开？</p>
+                </div>
+              </li>
+              <li>
+                <div class="pic">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part2/4.png" alt="">
+                </div>
+                <div class="text">
+                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part2/num-4.png" alt="">
+                  <p class="big-title">盲目投放 成本高</p>
+                  <p>担心费用不可控，怕花冤枉钱？</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div class="two mt_50">
+            <p class="big-title wow fadeInRight">解决方案</p>
+            <ul class="flex_bet_center wow fadeInUp_1">
+              <li>
+                <i class="bg-contain"></i>
+                <div class="text">
+                  <p class="big-title">精准引流</p>
+                  <p>让客户主动找你，关键词搜索精准展现广告，来的都是需求客户</p>
+                </div>
+              </li>
+              <li>
+                <i class="bg-contain"></i>
+                <div class="text">
+                  <p class="big-title">智能投放</p>
+                  <p>投放更简单，助您实现广告的全方位投放，打造营销闭环</p>
+                </div>
+              </li>
+              <li>
+                <i class="bg-contain"></i>
+                <div class="text">
+                  <p class="big-title">首页广告位</p>
+                  <p>品牌强曝光，多渠道全面推广，抢占受众心智，成为优先选择</p>
+                </div>
+              </li>
+              <li>
+                <i class="bg-contain"></i>
+                <div class="text">
+                  <p class="big-title">按效果付费</p>
+                  <p>有效控制成本，按照实际效果付费，费用透明，一目了然</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div data-agl-cvt="5" class="consult mt_50 text-center wow fadeInUp"><button type="button"
+            data-toggle="modal" data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+            onclick="ocpc(5)" data-agl-cvt="5">获取您的企业专属解决方案</button></div>
+      </div>
+    </div>
+
+    <!-- part4 选择合适的产品 -->
+    <div class="part4 part bg-dark">
+      <div class="con container">
+        <div class="com-title">
+          <p class="big-title wow fadeInDown">为您的企业推荐合适的产品 抢占获客流量新风口</p>
+          <p class="wow fadeInUp">根据关键词匹配流量，精准投放快速曝光</p>
+        </div>
+        <div class="con-main">
+          <div class="left part4-pic wow zoomIn">
+            <div class="left-wrap active">
+              <div class="pic1"></div>
+              <div class="pic2"></div>
+            </div>
+            <div class="left-wrap">
+              <div class="pic1"></div>
+              <div class="pic2"></div>
+            </div>
+            <div class="left-wrap">
+              <div class="pic1"></div>
+              <div class="pic2"></div>
+            </div>
+          </div>
+          <div class="right">
+            <ul class="part4-ul">
+              <li class="active wow fadeInUp_1" data-wow-delay="0.1s">
+                <p class="big-title">搜索推广</p>
+                <p class="">客户主动搜索关键词时，能立即看到您的产品及服务，主动寻求合作</p>
+                <p class=""><a href="/product/sousuo/?refer=1271">了解更多>></a></p>
+              </li>
+              <li class="wow fadeInUp_1" data-wow-delay="0.4s">
+                <p class="big-title">信息流推广</p>
+                <p class="">将您的推广信息自然融入在各类资讯、信息中，易传播，易操作</p>
+                <p class=""><a href="/product/feed/?refer=1271">了解更多>></a></p>
+              </li>
+              <li class="wow fadeInUp_1" data-wow-delay="0.7s">
+                <p class="big-title">品牌推广</p>
+                <p class="">强势打造您企业的专业品牌形象，增强消费者信任，利于网络获客</p>
+                <p class=""><a href="/product/pinpai/?refer=1271">了解更多>></a></p>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div data-agl-cvt="5" class="consult mt_50 text-center wow fadeInUp"><button data-agl-cvt="5" type="button"
+            data-toggle="modal" data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+            onclick="ocpc(5)">线上获取1v1专业解决方案</button></div>
+      </div>
+    </div>
+
+    <!-- part6 客户说 -->
+    <div class="part6 part bg-cover m_0">
+      <div class="con container">
+        <div class="com-title">
+          <p class="big-title wow fadeInDown">海量企业 通过百度营销实现获客增长</p>
+          <p class="wow fadeInUp">百度营销覆盖全国各地，服务全行业全阶段企业</p>
+        </div>
+        <div class="con-main wow fadeInUp_1">
+          <div id="part6_swiper" class="swiper-container">
+            <div class="swiper-wrapper">
+              
+                <div class="swiper-slide ">
+                                    <video id="bgvid1" class="bgvid" width="45%" height="100%" muted="muted" preload="auto" controls poster="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210927/7bb6e00862814680a17b204578721a00.jpg">
+                  
+                      <!--/themes/ebaidu/public/img/home/part5/poster.png-->
+                    <!--<source-->
+                    <!--  type="video/mp4">-->
+                     <source src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210926/eaf02a5866012bc2779f0213ac6ff785.mp4" type="video/mp4"> 
+                  </video>
+                  <div class="con">
+                    <p class="top big-title">发力消费者每一个决策路径，基木鱼助力君申律所全链营销</p>
+                    <p class="sub">天津君申律师事务所，精准定位不同消费者，发力消费者每一个决策路径，助力君申全链营销，提高客户品牌形象。</p>
+                    
+                    <div class="num font-en mt_30" style="">
+                      <ul class="flex_bet_center text-center">
+                         
+                            <!--<li>-->
+                            <!--  <p style="">-->
+                            <!--      <span class="big-num">-24%</span>-->
+                            <!--    <i class="up bg-contain"></i>-->
+                            <!--  </p>-->
+                            <!--  <p class="big-trip" style="">线索成本</p>-->
+                            <!--</li>--> 
+                             
+                            <li>
+                              <p style="display: flex;align-items: center;">
+                                <span style="font-size: 24px;">线索成本 </span> 
+                                <i class="down bg-contain" style="animation: initial;margin-left: 6px;"></i>
+                              </p>
+                            </li>
+                            
+                            
+                           
+                            <!--<li>-->
+                            <!--  <p style="">-->
+                            <!--      <span class="big-num">+2.86%</span>-->
+                            <!--    <i class="down bg-contain"></i>-->
+                            <!--  </p>-->
+                            <!--  <p class="big-trip" style="">点击率</p>-->
+                            <!--</li>--> 
+                             
+                            <li>
+                              <p style="display: flex;align-items: center;">
+                                <span style="font-size: 24px;">点击率 </span> 
+                                <i class="up bg-contain" style="animation: initial;margin-left: 6px;"></i>
+                              </p>
+                            </li>
+                            
+                            
+                           
+                            <!--<li>-->
+                            <!--  <p style="">-->
+                            <!--      <span class="big-num">+250%</span>-->
+                            <!--    <i class="up bg-contain"></i>-->
+                            <!--  </p>-->
+                            <!--  <p class="big-trip" style="">咨询量</p>-->
+                            <!--</li>--> 
+                             
+                            <li>
+                              <p style="display: flex;align-items: center;">
+                                <span style="font-size: 24px;">咨询量 </span> 
+                                <i class="up bg-contain" style="animation: initial;margin-left: 6px;"></i>
+                              </p>
+                            </li>
+                            
+                            
+                                                                        </ul>
+                    </div>
+                    
+                    <div class="more">
+                      <a href="/case/?refer=1271">查看更多 >></a>
+                    </div>
+                  </div>
+                </div>
+              
+
+                <div class="swiper-slide ">
+                                    <video id="bgvid2" class="bgvid" width="45%" height="100%" muted="muted" preload="auto" controls poster="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210927/62c01bad3d805e93b2a0d5a6c98249c0.jpg">
+                  
+                      <!--/themes/ebaidu/public/img/home/part5/poster.png-->
+                    <!--<source-->
+                    <!--  type="video/mp4">-->
+                     <source src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210926/5212e09c83da3b9ecb25d666b810d015.mp4" type="video/mp4"> 
+                  </video>
+                  <div class="con">
+                    <p class="top big-title">百度移动营销页CTR大幅提升，转化成本下降过半</p>
+                    <p class="sub">东莞市金博网络科技有限公司，是广东东莞一家专业从事软件开发、软件定制、软件实施的高新技术企业。</p>
+                    
+                    <div class="num font-en mt_30" style="">
+                      <ul class="flex_bet_center text-center">
+                         
+                            <!--<li>-->
+                            <!--  <p style="">-->
+                            <!--      <span class="big-num">+95%</span>-->
+                            <!--    <i class="up bg-contain"></i>-->
+                            <!--  </p>-->
+                            <!--  <p class="big-trip" style="">点击率</p>-->
+                            <!--</li>--> 
+                             
+                            <li>
+                              <p style="display: flex;align-items: center;">
+                                <span style="font-size: 24px;">点击率 </span> 
+                                <i class="up bg-contain" style="animation: initial;margin-left: 6px;"></i>
+                              </p>
+                            </li>
+                            
+                            
+                           
+                            <!--<li>-->
+                            <!--  <p style="">-->
+                            <!--      <span class="big-num">+200%</span>-->
+                            <!--    <i class="down bg-contain"></i>-->
+                            <!--  </p>-->
+                            <!--  <p class="big-trip" style="">转化量</p>-->
+                            <!--</li>--> 
+                             
+                            <li>
+                              <p style="display: flex;align-items: center;">
+                                <span style="font-size: 24px;">转化量 </span> 
+                                <i class="up bg-contain" style="animation: initial;margin-left: 6px;"></i>
+                              </p>
+                            </li>
+                            
+                            
+                           
+                            <!--<li>-->
+                            <!--  <p style="">-->
+                            <!--      <span class="big-num">-54%</span>-->
+                            <!--    <i class="up bg-contain"></i>-->
+                            <!--  </p>-->
+                            <!--  <p class="big-trip" style="">转化成本</p>-->
+                            <!--</li>--> 
+                             
+                            <li>
+                              <p style="display: flex;align-items: center;">
+                                <span style="font-size: 24px;">转化成本 </span> 
+                                <i class="down bg-contain" style="animation: initial;margin-left: 6px;"></i>
+                              </p>
+                            </li>
+                            
+                            
+                                                                        </ul>
+                    </div>
+                    
+                    <div class="more">
+                      <a href="/case/?refer=1271">查看更多 >></a>
+                    </div>
+                  </div>
+                </div>
+              
+
+                <div class="swiper-slide ">
+                                    <video id="bgvid3" class="bgvid" width="45%" height="100%" muted="muted" preload="auto" controls poster="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210927/3d9e892a5163dcfa5d7a7d8539ac216d.jpg">
+                  
+                      <!--/themes/ebaidu/public/img/home/part5/poster.png-->
+                    <!--<source-->
+                    <!--  type="video/mp4">-->
+                     <source src="https://ebd-site.cdn.bcebos.com/newbaidu/upload/cms/20210926/a8e73088b6bb5a99a5d8f0615bba8921.mp4" type="video/mp4"> 
+                  </video>
+                  <div class="con">
+                    <p class="top big-title">人群拆分和创意策略双管齐下，曝光量大幅提升</p>
+                    <p class="sub">315国际消费品(大连)博览会定位准、目标明、规模大、档次高、人数多、传播广、口碑佳、效果好，至今已成功举办16届。</p>
+                    
+                    <div class="num font-en mt_30" style="">
+                      <ul class="flex_bet_center text-center">
+                         
+                            <!--<li>-->
+                            <!--  <p style="">-->
+                            <!--      <span class="big-num">+200%</span>-->
+                            <!--    <i class="up bg-contain"></i>-->
+                            <!--  </p>-->
+                            <!--  <p class="big-trip" style="">曝光量</p>-->
+                            <!--</li>--> 
+                             
+                            <li>
+                              <p style="display: flex;align-items: center;">
+                                <span style="font-size: 24px;">曝光量 </span> 
+                                <i class="up bg-contain" style="animation: initial;margin-left: 6px;"></i>
+                              </p>
+                            </li>
+                            
+                            
+                           
+                            <!--<li>-->
+                            <!--  <p style="">-->
+                            <!--      <span class="big-num">+48%</span>-->
+                            <!--    <i class="down bg-contain"></i>-->
+                            <!--  </p>-->
+                            <!--  <p class="big-trip" style="">点击率</p>-->
+                            <!--</li>--> 
+                             
+                            <li>
+                              <p style="display: flex;align-items: center;">
+                                <span style="font-size: 24px;">点击率 </span> 
+                                <i class="up bg-contain" style="animation: initial;margin-left: 6px;"></i>
+                              </p>
+                            </li>
+                            
+                            
+                           
+                            <!--<li>-->
+                            <!--  <p style="">-->
+                            <!--      <span class="big-num">-30%</span>-->
+                            <!--    <i class="up bg-contain"></i>-->
+                            <!--  </p>-->
+                            <!--  <p class="big-trip" style="">平均点击价格</p>-->
+                            <!--</li>--> 
+                             
+                            <li>
+                              <p style="display: flex;align-items: center;">
+                                <span style="font-size: 24px;">平均点击价格 </span> 
+                                <i class="down bg-contain" style="animation: initial;margin-left: 6px;"></i>
+                              </p>
+                            </li>
+                            
+                            
+                                                                        </ul>
+                    </div>
+                    
+                    <div class="more">
+                      <a href="/case/?refer=1271">查看更多 >></a>
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          </div>
+          <!-- 如果需要分页器 -->
+          <div class="swiper-pagination"></div>
+        </div>
+        <div data-agl-cvt="5" class="consult mt_80 text-center"><button data-agl-cvt="5" type="button" data-toggle="modal"
+            data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+            onclick="ocpc(5)">获取您所在行业营销案例</button></div>
+      </div>
+    </div>
+
+    <!-- part7 加入百度营销 -->
+    <div class="part7 part bg-color-blue" style="display: none;">
+      <div class="con container">
+        <div class="com-title">
+          <p class="big-title wow fadeInDown">加入百度营销 您将会获得</p>
+          <p class="wow fadeInUp">企业品牌全面曝光，实现精准引流获客</p>
+        </div>
+        <div class="con-main m_t_50">
+          <ul>
+            <li class="wow fadeInUp" data-wow-delay=".1s">
+              <div class="img"><i class="bg-cover"></i></div>
+              <div class="text">
+                <p class="big-title">企业网站</p>
+                <p class="">海量精美行业定制模版</p>
+              </div>
+            </li>
+            <li class="wow fadeInUp" data-wow-delay=".1s">
+              <div class="img"><i class="bg-cover"></i></div>
+              <div class="text">
+                <p class="big-title">专属客服</p>
+                <p class="">量身定制营销推广方案</p>
+              </div>
+            </li>
+            <li class="wow fadeInUp" data-wow-delay=".1s">
+              <div class="img"><i class="bg-cover"></i></div>
+              <div class="text">
+                <p class="big-title">商铺导流</p>
+                <p class="">将商家位置添 加到地图中</p>
+              </div>
+            </li>
+            <li class="wow fadeInUp" data-wow-delay=".1s">
+              <div class="img"><i class="bg-cover"></i></div>
+              <div class="text">
+                <p class="big-title">品牌曝光</p>
+                <p class="">多维度品牌强展现</p>
+              </div>
+            </li>
+            <li class="wow fadeInUp" data-wow-delay=".1s">
+              <div class="img"><i class="bg-cover"></i></div>
+              <div class="text">
+                <p class="big-title">优质线索</p>
+                <p class="">为企业提供专属优质线索</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- part8 领取 -->
+    <div class="part8 part">
+      <div class="con container">
+        <div class="com-title">
+          <p class="big-title wow fadeInDown">加入百度营销 免费领取4大福利</p>
+          <p class="wow fadeInUp">新户专享企业推广福利，让亿万百度流量为你所用</p>
+          <p class="wow fadeInUp" style="font-size:12px;">*活动适用于北京、上海、苏州、深圳、佛山、广州、东莞、天津地区的新客户</p>
+        </div>
+        <div class="con-main m_t_50">
+          <ul>
+            <li>
+              <div class="img wow fadeInUp_1" data-wow-delay=".1s">
+                <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part8/1.png" alt="">
+              </div>
+              <div class="text">
+                <p class="big-title wow fadeInUp_1" data-wow-delay=".4s">价值2999元 <br>
+                  五大推广工具
+                </p>
+                <p class="wow fadeInUp_1" data-wow-delay=".7s">全链营销服务 <br>
+                  精准锁定目标客户</p>
+              </div>
+            </li>
+            <li>
+              <div class="img wow fadeInUp_1" data-wow-delay=".1s"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part8/2.png" alt="">
+              </div>
+              <div class="text">
+                <p class="big-title wow fadeInUp_1" data-wow-delay=".4s">价值1680元 <br>
+                  线下参会名额</p>
+                <p class="wow fadeInUp_1" data-wow-delay=".7s">营销大讲堂<br>
+                  7大城市随意选</p>
+              </div>
+            </li>
+            <li>
+              <div class="img wow fadeInUp_1" data-wow-delay=".1s"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part8/3.png" alt="">
+              </div>
+              <div class="text">
+                <p class="big-title wow fadeInUp_1" data-wow-delay=".4s">价值1560元<br>
+                  线上课程学习</p>
+                <p class="wow fadeInUp_1" data-wow-delay=".71s">营销小课堂 <br>
+                  5节课掌握营销奥秘</p>
+              </div>
+            </li>
+            <li>
+              <div class="img wow fadeInUp_1" data-wow-delay=".1s"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/part8/4.png" alt="">
+              </div>
+              <div class="text">
+                <p class="big-title wow fadeInUp_1" data-wow-delay=".4s">价值1280元<br>
+                  企业宣传页搭建</p>
+                <p class="wow fadeInUp_1" data-wow-delay=".7s">多形态营销页面<br>
+                  全方位满足经营需求</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div data-agl-cvt="5" class="consult mt_50 text-center"><button data-agl-cvt="5" type="button"
+            data-toggle="modal" data-target="#free_consult" class="btn btn-primary" style="width: 200px;"
+            onclick="ocpc(5)">立即领取您的开户福利</button></div>
+      </div>
+    </div>
+  </div>
+  
+  
+
+    <!-- 2023年 端午节活动-->
+      <!--<div id="advert" class="advert-banner">-->
+      <!--    <div class="advert-box wuyi_2023 duanwu_23">-->
+      <!--        <a href="/lp/duanwujie1/?refer=1263" target="_blank" >-->
+      <!--            <img class="advert-banner-img" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/duanwu23/bg.png" alt="端午节活动" onclick="ocpc(5);total(21);" data-agl-cvt="5" />-->
+      <!--        </a>-->
+      <!--        <a href="/lp/duanwujie1/?refer=1263" target="_blank" >-->
+      <!--            <img class="btn_bg" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/duanwu23/youhui.png" onclick="ocpc(5);total(21);" data-agl-cvt="5" alt="端午节优惠活动" />-->
+      <!--            <img class="btn_bg nub" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/duanwu23/money.png" onclick="ocpc(5);total(21);" data-agl-cvt="5" alt="端午节优惠活动" />-->
+      <!--            <img class="gezi_1" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/duanwu23/bird.png" onclick="ocpc(5);total(21);" data-agl-cvt="5" alt="端午节优惠活动" />-->
+      <!--            <img class="advert-btn btn_txt" onclick="ocpc(5);total(21);" data-agl-cvt="5" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/duanwu23/btn.png" alt="端午节优惠活动" />-->
+      <!--        </a>-->
+      <!--        <img class="advert-close" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/520_close.png" alt="advert-close" />-->
+      <!--    </div>-->
+      <!--</div>    -->
+      
+    <!-- 2023年 夏日福利-->
+      <!--<div id="advert" class="advert-banner">-->
+      <!--    <div class="advert-box wuyi_2023 duanwu_23 sum_23">-->
+      <!--        <a href="/lp/summer/?refer=1263" target="_blank" >-->
+      <!--            <img class="advert-banner-img" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/bg.png" alt="夏日活动" onclick="ocpc(5);total(22);" data-agl-cvt="5" />-->
+      <!--        </a>-->
+      <!--        <a href="/lp/summer/?refer=1263" target="_blank" >-->
+      <!--            <img class="btn_bg" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/youhui.png" onclick="ocpc(5);total(22);" data-agl-cvt="5" alt="夏日活动" />-->
+      <!--            <img class="gezi_1" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/bird.png" onclick="ocpc(5);total(22);" data-agl-cvt="5" alt="夏日活动" />-->
+      <!--            <img class="star gezi_1" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/star.png" onclick="ocpc(5);total(22);" data-agl-cvt="5" alt="夏日活动" />-->
+      <!--            <img class="yu_1" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/yu1.png" onclick="ocpc(5);total(22);" data-agl-cvt="5" alt="夏日活动" />-->
+      <!--            <img class="yu_2" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/yu2.png" onclick="ocpc(5);total(22);" data-agl-cvt="5" alt="夏日活动" />-->
+      <!--            <img class="tick_1" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/tick1.png" onclick="ocpc(5);total(22);" data-agl-cvt="5" alt="夏日活动" />-->
+      <!--            <img class="tick_2" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/tick2.png" onclick="ocpc(5);total(22);" data-agl-cvt="5" alt="夏日活动" />-->
+      <!--            <img class="advert-btn btn_txt" onclick="ocpc(5);total(22);" data-agl-cvt="5" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/btn.png" alt="夏日活动" />-->
+      <!--        </a>-->
+      <!--        <img class="advert-close" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/520_close.png" alt="advert-close" />-->
+      <!--    </div>-->
+      <!--</div>        -->
+      
+    <!-- 2023年 夏日福利狂暑季-->
+      <!--<div id="advert" class="advert-banner">-->
+      <!--    <div class="advert-box wuyi_2023 duanwu_23 sum_23 sum_2302">-->
+      <!--        <a href="/lp/summer2/?refer=1263" target="_blank" >-->
+      <!--            <img class="advert-banner-img" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/bg_2.png" alt="夏日狂暑季活动" onclick="ocpc(5);total(23);" data-agl-cvt="5" />-->
+      <!--        </a>-->
+      <!--        <a href="/lp/summer2/?refer=1263" target="_blank" >-->
+      <!--            <img class="gezi_1" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/bird_2.png" onclick="ocpc(5);total(23);" data-agl-cvt="5" alt="夏日狂暑季活动" />-->
+      <!--            <img class="tick_1" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/song_txt.png" onclick="ocpc(5);total(23);" data-agl-cvt="5" alt="夏日狂暑季活动" />-->
+      <!--            <img class="advert-btn btn_txt" onclick="ocpc(5);total(23);" data-agl-cvt="5" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/btn_2.png" alt="夏日狂暑季活动" />-->
+      <!--        </a>-->
+      <!--        <img class="advert-close" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/520_close.png" alt="advert-close" />-->
+      <!--    </div>-->
+      <!--</div>     -->
+
+    <!-- 2023年 夏日抽奖-->
+      <!--<div id="advert" class="advert-banner">-->
+      <!--    <div class="advert-box wuyi_2023 duanwu_23 sum_23">-->
+      <!--        <a href="/lp/summer/?refer=1263" target="_blank" >-->
+      <!--            <img class="advert-banner-img" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/bg.png" alt="夏日活动" onclick="ocpc(5);total(22);" data-agl-cvt="5" />-->
+      <!--        </a>-->
+      <!--            <img class="btn_bg" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/summer23/youhui.png" onclick="ocpc(5);total(22);" data-agl-cvt="5" alt="夏日活动" />-->
+                
+      <!--          <div class="lottery-box btn_bg" id="app">-->
+      <!--          	<div class="lottery">-->
+      <!--          		<div class="lottery-item">-->
+      <!--          			<div class="lottery-start">-->
+      <!--          				<div class="box gray" v-if="isStart===0">-->
+      <!--          					<p>活动未开始</p>-->
+      <!--          				</div>-->
+      <!--          				<div class="box" @click="startLottery" v-if="isStart===1">-->
+      <!--          					<p><b>抽奖</b></p>-->
+      <!--          					<p>消耗{{score}}积分</p>-->
+      <!--          				</div>-->
+      <!--          				<div class="box gray" v-if="isStart===2">-->
+      <!--          					<p>活动已过期</p>-->
+      <!--          				</div>-->
+      <!--          			</div>-->
+      <!--          			<ul>-->
+      <!--          				<li v-for="(item,i) in list" :class="i==index?'on':''">-->
+      <!--          					<div class="box">-->
+      <!--          						<p><img :src="item.img" alt=""></p>-->
+      <!--          						<p>{{item.title}}</p>-->
+      <!--          					</div>-->
+      <!--          				</li>-->
+      <!--          			</ul>-->
+      <!--          		</div>-->
+      <!--          	</div>-->
+      <!--          	<div class="mask" v-if="showToast"></div>-->
+      <!--          	<div class="lottery-alert" v-if="showToast">-->
+      <!--          		<h1>恭喜您</h1>-->
+      <!--          		<p><img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/lottery/j2.png" alt=""></p>-->
+      <!--          		<h2>获得{{list[index].title}}</h2>-->
+      <!--          		<div class="btnsave" @click="showToast=false" data-toggle="modal" data-target="#free_consult" data-agl-cvt="5">马上领取</div>-->
+      <!--          	</div>  -->
+      <!--          </div>                   -->
+      <!--        <img class="advert-close" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/520_close.png" alt="advert-close" />-->
+      <!--    </div>-->
+      <!--</div>  -->
+      
+    <!-- 2023年 默认抽奖活动-->
+    <!--<div class="lottery-box" id="app">-->
+    <!--	<div class="lottery">-->
+    <!--		<div class="lottery-item">-->
+    <!--			<div class="lottery-start">-->
+    <!--				<div class="box gray" v-if="isStart===0">-->
+    <!--					<p>活动未开始</p>-->
+    <!--				</div>-->
+    <!--				<div class="box" @click="startLottery" v-if="isStart===1">-->
+    <!--					<p><b>抽奖</b></p>-->
+    <!--					<p>消耗{{score}}积分</p>-->
+    <!--				</div>-->
+    <!--				<div class="box gray" v-if="isStart===2">-->
+    <!--					<p>活动已过期</p>-->
+    <!--				</div>-->
+    <!--			</div>-->
+    <!--			<ul>-->
+    <!--				<li v-for="(item,i) in list" :class="i==index?'on':''">-->
+    <!--					<div class="box">-->
+    <!--						<p><img :src="item.img" alt=""></p>-->
+    <!--						<p>{{item.title}}</p>-->
+    <!--					</div>-->
+    <!--				</li>-->
+    <!--			</ul>-->
+    <!--		</div>-->
+    <!--	</div>-->
+    <!--	<div class="mask" v-if="showToast"></div>-->
+    <!--	<div class="lottery-alert" v-if="showToast">-->
+    <!--		<h1>恭喜您</h1>-->
+    <!--		<p><img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/lottery/j2.png" alt=""></p>-->
+    <!--		<h2>获得{{list[index].title}}</h2>-->
+    <!--		<div class="btnsave" @click="showToast=false">确定</div>-->
+    <!--	</div>  -->
+    <!--</div> -->
+    
+    <!-- 2023年 七夕福利-->
+      <div id="advert" class="advert-banner">
+          <div class="advert-box wuyi_2023 duanwu_23 sum_23 sum_2302 qixi23">
+              <a href="/huodong/qixi/?refer=1263" target="_blank" >
+                  <img class="advert-banner-img" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/qixi23/qixi_bg.png" alt="七夕福利节" onclick="ocpc(5);total(24);" data-agl-cvt="5" />
+              </a>
+              <a href="/huodong/qixi/?refer=1263" target="_blank" >
+                  <img class="gezi_1" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/qixi23/qixi_birds.png" onclick="ocpc(5);total(24);" data-agl-cvt="5" alt="七夕福利节" />
+                  <img class="btn_bg" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/qixi23/qixi_con.png" onclick="ocpc(5);total(24);" data-agl-cvt="5" alt="七夕福利节" />
+                  <img class="advert-btn btn_txt" onclick="ocpc(5);total(24);" data-agl-cvt="5" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/qixi23/qixi_btn.png" alt="七夕福利节" />
+              </a>
+              <img class="advert-close" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/520_close.png" alt="advert-close" />
+          </div>
+      </div>   
+    
+      
+  <!-- 模态框 -->
+    <!-- Modal -->
+  <div class="modal fade" id="free_consult" data-backdrop="static" data-keyboard="false" tabindex="-1"
+      aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog">
+          <div class="modal-content">
+              <div class="modal-header">
+                  <div class="modal-title bit-title">
+                      <h5 id="staticBackdropLabel" class="mb_10 form-title"><p class="high_txt">七夕福利限时发放<span style="color:red;margin-left:5px;"><b>最高可领7300元</b></span></p>
+<p>还有百度周边礼品等你领</p></h5>
+                      <span class="text-grey text-center">*活动时间：8月21日-8月31日，活动详情请咨询百度营销顾问</span>
+                      <!--<span>③线上小课堂（有结业证书） ④五大推广工具</span>
+                      <div class="flex_bet_center icon-title">
+                          <div class="">
+                              <div>
+                                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/1.png" alt="" />
+                              </div>
+                              <span>企业宣传网页</span>
+                          </div>
+                          <div>
+                              <div>
+                                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/2.png" alt="" />
+                              </div>
+                              <span>线下网络获客 <br /> 培训课程 </span>
+                          </div>
+                          <div>
+                              <div>
+                                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/3.png" alt="" />
+                              </div>
+                              <span>线上小课堂 <br /> （有结业证书） </span>
+                          </div>
+                          <div>
+                              <div>
+                                  <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/4.png" alt="" />
+                              </div>
+                              <span>五大推广工具</span>
+                          </div>
+                      </div>-->
+                  </div>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                  </button>
+              </div>
+              <!--<div><p style="text-align: center;">①企业宣传页 ②线下网络获客培训课<br>③线上小课堂（有结业证书） ④五大推广工具</p></div>-->
+              <div class="modal-body">
+                  <div class="form window_form">
+                      <div class="row">
+                          <div class="col">
+                              <input type="text" class="form-control name w_name" placeholder="姓名" value="">
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="col">
+                              <input type="text" class="form-control tel w_tel" placeholder="手机" value="" oninput = "value=value.replace(/[^\d]/g,'')">
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="col">
+                              <input type="text" class="form-control company w_company" placeholder="公司名称" value="">
+                          </div>
+                      </div>
+                      <div class="row row-area">
+                          <div class="col">
+                              <input id="modal_area" Readonly type="text" class="form-control" placeholder="选择地区">
+                          </div>
+                          <div id="modal_option" class="area-option flex_bet_center">
+                              <div id="modal_prov" class="province is-scroll"></div>
+                              <div id="modal_city" class="city is-scroll"></div>
+                          </div>
+                      </div>
+
+                      <div class="modal-footer text-center" style="justify-content:center;margin-bottom:0px;" data-agl-cvt="5">
+                          <input type="hidden" class="w_token" value="6751ibNGvxB3CdR4Y2XxfklhR4GkcFcrl02U4BuhaDEKt2/akusfphO/Bm6t5KqSw09r2cA" name="__token__">
+                          <input type="hidden" class="refer" value="1271" name="refer">
+                          <input type="hidden" class="bd_vid" value="" name="bd_vid">
+                          <button id="modal_btn" type="button" class="btn-consult-sure window w_100" data-agl-cvt="5"  >
+                            <span data-agl-cvt="5" id="modal_spinner" style="display: none;" class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                              立即提交
+                        </button>
+                      </div>
+                      <div class="text-grey text-center form-bg">
+                        <!--<img class="form_bg_all" src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/form_bg.png" alt="" />-->
+                        <img class="form_bg_1 " src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/form_bg_1.png" alt="" />
+                        <img class="form_bg_2 " src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/form_bg_2.png" alt="" />
+                        <img class="form_bg_3 " src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/form_bg_3.png" alt="" />
+                        <img class="form_bg_4 " src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/form_bg_4.png" alt="" />
+                        <img class="form_bg_5 " src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/form_bg_5.png" alt="" />
+                        <img class="form_bg_6 " src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/form_bg_6.png" alt="" />
+                        <img class="form_bg_7 " src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/form_bg_7.png" alt="" />
+                        <img class="form_bg_8 " src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/form/form_bg_8.png" alt="" />
+                        <!--<div>简单3步便可以开始推广</div>
+                        <div>确认推广意向 -- 为您开通账号 -- 开启您的投放</div>-->
+                      </div>
+                      <!-- <div>
+                          姓名：<input type="text" class="w_name">
+                          <div class="err_tip w_name_tip"></div>
+                      </div>
+                      <div>
+                          手机：<input type="text" class="w_tel">
+                          <div class="err_tip w_tel_tip"></div>
+
+                      </div>
+                      <div>
+                          公司名称：<input type="text" class="w_company">
+                          <div class="err_tip w_company_tip"></div>
+
+                      </div> -->
+                      <!-- <div class="flex_bet_center">
+                          <div>地区：</div>
+                          <div>
+                              <select id="modal_province" class="form-control" placeholder="省份"></select>
+                          </div>
+                          <div>
+                              <select id="modal_city" class="form-control" placeholder="城市"></select>
+                          </div>
+                      </div> -->
+                      <!-- <p class="tip mt_30 text-center">
+                          您的专属顾问会在1个工作日内联系您，为您提供服务 <br>
+                          周一至周五 09:00-22:00 周六至周日 09:00-18:00
+                      </p> -->
+                  </div>
+                  <div class="b-tel flex_bet_center">
+                      <div class="">*本活动最终解释权归百度所有</div>
+                      <!--<div class="l">
+                          <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/icon-tel.png" alt="">
+                          <span>400-800-8888</span>
+                      </div>
+                      <div class="r">
+                          周一至周五 9:00—22:00 <br>
+                          周六至周日9:00—18:00
+                      </div>-->
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+  <!-- 提交成功modal -->
+  <!-- Modal -->
+  <div class="modal success-modal fade" id="success_modal" data-backdrop="static" data-keyboard="false" tabindex="-1"
+  aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="left">
+            <div class="top">
+              <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/icon-success.PNG" alt="">
+              <p class="one big-title">信息已提交成功</p>
+              <p class="two">您的专属顾问会在 1 个工作日内以官方电话 <br> 020-22049932 联系您，请您保持电话畅通</p>
+              <p class="three">周一至周五 09:00-22:00<br>周末及假日 09:00-18:00</p>
+            </div>
+            <div class="bottom mt_30">
+              <button type="button"  onclick="location='https://cloud.baidu.com/product/wenxinworkshop?track=0728_ebd_anl'">千帆大模型抢先体验</button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+  </div>
+</div>
+  <!-- 模态框 -->
+
+
+  <!-- footer 部分 -->
+    <!-- 联系我们 -->
+  <div class="part-contact bg-cover lp2_part4">
+    <div class="con">
+      <div class="com-title">
+        <p class="big-title wow fadeInDown">浪漫七夕为爱献礼 企业超值福利等你领</p>
+        <p class="wow fadeInUp">*活动时间：8月21日-8月31日，更多惊喜福利限时开抢</p>
+      </div>
+      <div class="con-main bg-cover m_t_50">
+        <div class="con-wrap container">
+          <div class="form-wrap">
+            <form class="wow zoomIn_1">
+              <p class="tip">立即领取七夕福利 预约您的专属顾问</p>
+              <div class="row">
+                <div class="col">
+                  <input id="contact_name" type="text" class="form-control name" placeholder="姓名" value="">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <input id="contact_tel" type="text" class="form-control tel" placeholder="手机" value=""
+                    oninput="value=value.replace(/[^\d]/g,'')">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <input id="contact_company" type="text" class="form-control company" placeholder="公司名称" value="">
+                </div>
+              </div>
+              <div class="row row-area">
+                <div class="col">
+                  <input id="ipt_area" Readonly type="text" class="form-control" placeholder="选择地区">
+                </div>
+                <div id="area_option" class="area-option flex_bet_center">
+                  <div id="ipt_prov" class="ipt_prov province is-scroll"></div>
+                  <div id="ipt_city" class=" ipt_city city is-scroll"></div>
+                </div>
+              </div>
+              <input type="hidden" class="token" value="74d3JNUkUtAqoDWZnOUzTE6iG3o/NN8ixZyAveenAYLnAJLr+SD7c3BwQ4uMs4gc3gA3sQc" name="__token__">
+              <input type="hidden" class="refer" value="1271" name="refer">
+              <div style="margin-top: 30px;" data-agl-cvt="5">
+                <button id="contact_btn" type="button" class="btn btn-primary add w_100"  data-agl-cvt="5" >
+                  <span id="contact_spinner" style="display: none;" class="spinner-border spinner-border-sm" role="status" aria-hidden="true" data-agl-cvt="5"></span>
+                  立即预约                </button>
+              </div>
+              <div class="text-grey">
+                <div>简单3步便可以开始推广</div>
+                <div>确认推广意向 -- 为您开通账号 -- 开启您的投放</div>
+              </div>
+            </form>
+            <div class="b-tel flex_bet_center">
+              <div class="l">
+                <img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/home/icon-tel.png" alt="">
+                <span>400-800-8888</span>
+              </div>
+              <div class="r">
+                周一至周五：9:00—22:00 <br>
+                周末及假日：9:00—18:00
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="con-wrap container">
+      <div class="top">
+        <div>
+          <p class="big-title">热门推荐</p>
+          <div class="con product_link">
+            
+              <div><a href="/product/sousuo/?refer=1271">搜索广告</a></div>
+            
+
+              <div><a href="/product/feed/?refer=1271">信息流广告</a></div>
+            
+
+              <div><a href="/product/pinpai/?refer=1271">品牌广告</a></div>
+            
+
+              <div><a href="/product/kaiping/?refer=1271">开屏广告</a></div>
+            
+
+              <div><a href="/product/juping/?refer=1271">聚屏广告</a></div>
+            
+
+              <div><a href="/product/dianshang/?refer=1271">电商推广</a></div>
+            
+
+              <div><a href="/product/lvyou/?refer=1271">旅游会员</a></div>
+            
+          </div>
+        </div>
+        <div>
+          <p class="big-title">平台与服务</p>
+          <div class="con display_b product_link">
+            <div><a href="/advantage/?refer=1271">平台优势</a></div>
+            <div><a href="/about/?refer=1271">营销服务</a></div>
+            <div><a href="/agents/?refer=1271">代理商查询</a></div>
+          </div>
+        </div>
+        <div>
+          <p class="big-title">营销案例</p>
+          <div class="con product_link">
+            <div><a href="/case/?refer=1271">行业案例</a></div>
+          </div>
+        </div>
+        <div>
+          <p class="big-title">联系我们</p>
+          <div class="con display_b">
+            <div class="w_100" data-agl-cvt="2" onclick="ocpc(2)"> 售前电话：400-800-8888</div>
+            <div class="w_100">通过百度营销获取更多客户</div>
+          </div>
+        </div>
+      </div>
+              <div class="link">
+          <p>友情链接：</p>
+          
+            <a href="/" target="_blank"> 百度开户</a>&nbsp;
+          
+
+            <a href="https://www.hao123.com/" target="_blank">好123</a>&nbsp;
+          
+
+            <a href="https://b2b.baidu.com/?from=ebaidu" target="_blank">爱采购</a>&nbsp;
+          
+
+            <a href="https://jingyan.baidu.com?from=ebaidu" target="_blank">百度经验</a>&nbsp;
+          
+
+            <a href="https://wenku.baidu.com/" target="_blank">百度文库</a>&nbsp;
+          
+
+            <a href="https://pan.baidu.com/" target="_blank">百度网盘</a>&nbsp;
+          
+
+            <a href="https://yingxiao.baidu.com/renzheng/page" target="_blank">百度认证</a>&nbsp;
+          
+
+            <a href="http://home.baidu.com" target="_blank">关于百度</a>&nbsp;
+          
+
+            <a href="https://aipage.baidu.com/ebaidu" target="_blank">百度建站</a>&nbsp;
+          
+
+            <a href="https://haoma.baidu.com/attest?source=external" target="_blank">企业号码认证</a>&nbsp;
+          
+
+            <a href="http://aiqicha.baidu.com" target="_blank">爱企查</a>&nbsp;
+          
+
+            <a href="https://jiameng.baidu.com/ " target="_blank">加盟星</a>&nbsp;
+          
+
+            <a href="https://www.yy.com/" target="_blank">YY直播</a>&nbsp;
+          
+
+            <a href="https://pan.baidu.com/disk/cert#/web/home?from=bdyx " target="_blank">百度网盘企业版</a>&nbsp;
+          
+
+            <a href="https://aisuda.baidu.com" target="_blank">爱速搭低代码平台</a>&nbsp;
+          
+
+            <a href="https://index.baidu.com/v2/index.html#/" target="_blank">百度指数</a>&nbsp;
+          
+
+            <a href="https://www.yoojia.com" target="_blank">百度有驾</a>&nbsp;
+          
+
+            <a href="https://qingduo.baidu.com/index/" target="_blank">擎舵</a>&nbsp;
+          
+        </div>
+      
+      <div class="copyright">
+        <a href="https://beian.miit.gov.cn" target="__blank">京ICP证030173号</a> <a href="/accept/?refer=1271" target="__blank">百度推广服务协议 </a> ©2023 Baidu      </div>
+    </div>
+  </footer>
+
+  <div class="ocpc_url" style="display:none">http://e.baidu.com/?refer=1271</div>
+  <div class="ocpc_token" style="display:none">dffdWG0+3tkBt7+7558otHWKzfGLUY0aSUC+dVO4Zs71s4B4mayjhtgRofDOiyaeYknMCMekrW4Rtg</div>
+
+
+  <div id="if_con">
+  <i id="close"
+    style="width: 25px; color: #333333; float: right; font-size: 25px; line-height: 25px; text-align: center; font-style: normal;cursor: pointer;position: absolute;right: 8px;top: 10px;">×</i>
+  <iframe id="myFrameId" style="width: 100%; height: 100%;" name="myFrameName" scrolling="" frameborder="0"></iframe>
+</div>
+
+  <!-- kefu 01 -->
+  <a href="https://p.qiao.baidu.com/cps/chat?siteId=1829605&userId=1381013&siteToken=f4ab48039007f7608fe164e019ce90ca" target="_blank" data-agl-cvt="1" onclick="ocpc(1)">
+      <div class="emi-wrap lp2_emi bg-cover" data-agl-cvt="1" onclick="ocpc(1)">
+        <div class="emi_txt">
+            <div class="bg_color">在线咨询</div>
+        </div>
+      </div>
+  </a>
+  
+  <!-- kefu 02 -->
+  <!--<div class="emi-wrap lp2_emi bg-cover">-->
+  <!--  <div class="emi_txt">-->
+  <!--      <div class="emi bg_color">-->
+  <!--        <i class="bg_kefu"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/lpapply2/icon_kefu.png" alt=""></i>-->
+  <!--        <a href="http://mishu.baidu.com/home.html?from=7&refer=7_1#/home/" target="myFrameName" rel="noopener noreferrer"-->
+  <!--          title="E秘">在线客服</a>-->
+  <!--      </div>-->
+  <!--      <div class="form bg_color">-->
+  <!--        <i class="bg_zixun"><img src="https://ebd-site.cdn.bcebos.com/newbaidu/themes/ebaidu/public/img/lpapply2/icon_zixun.png" alt=""></i>-->
+  <!--        <button type="button" class="" data-toggle="modal" data-target="#free_consult" data-agl-cvt="5"-->
+  <!--          onclick="ocpc(5)" data-agl-cvt="5">免费咨询</button>-->
+  <!--      </div>-->
+  <!--  </div>-->
+  <!--</div>-->
+  
+  <!-- e秘 -->
+  <!--<a data-agl-cvt="1" onclick="ocpc(1)" id="emi" target="myFrameName" class="emi emi-welcome emi-relax"-->
+  <!--href="http://mishu.baidu.com/home.html?from=7&refer=7_1#/home/" target="_blank" rel="noopener noreferrer" title="E秘">-->
+  <!--<span id="emi_text" style="margin-bottom: -34px;">我是百度e秘，欢迎咨询我哦～</span></a>-->
+  <!-- e秘 -->
+
+  <script>
+    window._agl = window._agl || [];
+    (function () {
+      _agl.push(
+        ['production', '_f7L2XwGXjyszb4d1e2oxPybgD']
+      );
+      (function () {
+        var agl = document.createElement('script');
+        agl.type = 'text/javascript';
+        agl.async = true;
+        agl.src = 'https://fxgate.baidu.com/angelia/fcagl.js?production=_f7L2XwGXjyszb4d1e2oxPybgD';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(agl, s);
+      })();
+    })();
+  </script>
+  <script src="/themes/ebaidu/public/plugins/bootstrap/bootstrap.min.js"></script>
+  <script src="/themes/ebaidu/public/plugins/swiper/swiper.min.js"></script>
+  <script src="/themes/ebaidu/public/plugins/wow.min.js"></script>
+  <script src="/themes/ebaidu/public/js/area.js"></script>
+  <script src="/themes/ebaidu/public/js/index.js"></script>
+  <script src="/themes/ebaidu/public/js/common.js"></script>
+  <!-- footer 部分 -->
+
+
+  <script>
+    function fadeOut(){
+        $("#advert").fadeOut(800);
+        
+    }
+    
+    /*  浏览器打开 */ 
+    window.onload=function(){
+        $("#advert").fadeIn()
+        setTimeout(fadeOut, 30000)
+    }
+    
+    $(function(){
+        $(".advert-close").click(fadeOut);
+        // $(".advert-btn").click(function(){
+        //     window.location.href = "/huodong/2/?refer=2022"
+        // })
+    })
+    
+    
+    // $(document).ready(function(){
+    // 	$(".advert-close").click(function(){
+    // 		$(".ganen_3").animate({left:"85%",top:"60%",width:"15%"});
+    // 	});
+    // 	$(".advert-close").click(function(){
+    // 		$(".ganen_3_1").fadeIn(2000);
+    // 	});
+    // });
+    
+    
+    
+    
+    $(function () {
+      /* 轮播图 */
+      $('.banner-carousel').carousel({
+        interval: 5000,
+        touch: true
+      })
+      
+      /* part6 swiper */
+      let p6_slide_video = document.querySelectorAll('#part6_swiper .swiper-slide .bgvid')
+      let part6_swiper = new Swiper('#part6_swiper', {
+        pagination: {
+          el: '.swiper-pagination',
+          clickable :true
+        },
+        on: {
+          slideChangeTransitionEnd: function () {
+            let video_idx = this.activeIndex + 1
+            let current_video = document.getElementById('bgvid' + video_idx)
+            // current_video.play()
+            console.log(current_video)
+            p6_slide_video.forEach((item, idx) => {
+              if (idx != this.activeIndex) {
+                item.pause()
+              }
+            })
+          }
+        }
+      })
+
+      /* 动画初始化 */
+      if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+        // new WOW().init();
+      };
+
+      /* part1 */
+      const con_pic = document.querySelectorAll('#con_pic > div')
+      navSelect('mouseover', $('#part1_icon'), con_pic)
+
+      /* part4 轮播 */
+      const part4_pic = document.querySelectorAll('.part4-pic > div')
+      navSelect('mouseover', $('.part4-ul'), part4_pic)
+    })
+    
+
+  </script>
+</body>
+
+</html>
