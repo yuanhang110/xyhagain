@@ -180,9 +180,5 @@ class SaveTest(unittest.TestCase):
                     % (self.__class__.__name__, inspect.stack()[0][3]))     
         
 if __name__ == '__main__': 
-    """main函数
-           Args:
-           Returns:
-    """  
     unittest.main()
     sys.exit(0)  
