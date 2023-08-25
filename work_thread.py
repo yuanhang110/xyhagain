@@ -12,29 +12,23 @@ Date:    2023/8/24 11:30:41
 """
 import threading
  
-class WorkThread(threading.Thread):
-    """
-    抓取线程，从url_queue获取待抓取url，并调用crawler,parser,saver进行抓取，分析，保存
-    Attributes:
-        crawler:抓取类
-        parser:分析类
-        saver:保存类
-        url_queue:抓取队列
-        is_run:线程状态
-        logger:打印日志
-    """  
+class WorkThread(threading.Thread): 
     
     def __init__(self, logger, crawler, parser, saver, url_queue):
-        
-        """初始化
-         Args:crawler:抓取类
-              url_queue:抓取队列
-              parser:分析类
-              saver:保存类
-              url_queue:抓取队列
-              logger:打印日志
-         Returns:
-        """ 
+        """
+        初始化函数
+                
+        Args:
+            logger:打印日志
+            crawler:抓取类
+            parser:分析类
+            saver:保存类
+            url_queue:抓取队列
+            is_run:线程状态
+
+        Returns:
+            无
+        """
         threading.Thread.__init__(self)
         self.crawler =crawler
         self.parser = parser
@@ -44,35 +38,41 @@ class WorkThread(threading.Thread):
         self.logger = logger
         
     def thread_is_runed(self):
-        
-        """获取线程状态
-         Args:
-         Returns:返回状态值
-        """ 
+        """
+        获取线程状态
+
+        Args: 
+            无
+
+        Returns:
+            bool:线程状态
+        """
         return self.is_run
     
     def run(self):
-        
-        """线程执行
-         Args:
-         Returns:
-        """ 
+        """
+        执行抓取任务函数
+
+        Args:
+            无
+
+        Returns:
+            无
+        """     
         self.is_run = True
         if self.url_queue.get_url_node_len() > 0:
             #获取待抓取url_node
             url_node = self.url_queue.get_url_node()
             #print(str(url_node)+"urlnode列表"+"\n")
             url = url_node['url']
-            #print(str(url)+"又一个"+"\n")
             html = self.crawler.get_html(url)
-            #print("看看这个html"+str(html))
+            #如果抓取失败，则把url_node重新放入url_queue
             if html != -1:
-                #url_node_list=self.parser.handle_starttag('a','href')
+                #分析html，获取url_node列表
                 url_node_list = self.parser.analys_html(html, url_node)
-                #if not url_node_list:
-                #   raise ValueError("url_node_list is not get")
-                #print("看看这个urlnodelist"+str(url_node_list))
+                #把url_node列表放入url_queue
                 self.url_queue.add_url_node_list(url_node_list)
+                #保存url和html
                 self.saver.save_url(url, html)
             
         #更新线程状态

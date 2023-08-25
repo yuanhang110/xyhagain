@@ -16,7 +16,7 @@ import os
 import configparser
 import log
 import time
-import opt_parser
+import opt_help
 import url_table
 import thread_pool
 import crawler
@@ -298,7 +298,7 @@ class MiniSpider(object):
         return 0
 
 if __name__ == '__main__':
-    opt_parser = opt_parser.OptParser() 
-    my_spider = MiniSpider(opt_parser.conf)
+    opt_help = opt_help.OptParser() 
+    my_spider = MiniSpider(opt_help.conf)
     ret_val = my_spider.run()
     sys.exit(ret_val)

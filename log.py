@@ -24,35 +24,20 @@ class Log(object):
     def init_log(self, log_path, level_stream, level=logging.INFO, when="D", backup=7,
              format="%(levelname)s: %(asctime)s: %(filename)s:%(lineno)d * %(thread)d %(message)s",
              datefmt="%y-%m-%d %H:%M:%S"):
-    
         """
-        init_log - initialize log module
+        初始化日志对象，配置日志输出路径、日志级别、备份数量等参数，并将日志输出到文件和控制台。
 
         Args:
-          log_path      - Log file path prefix.
-                      Log data will go to two files: log_path.log and log_path.log.wf
-                      Any non-exist parent directories will be created automatically
-          level_stream - msg above the level will be displayed,for stream
-          level         - msg above the level will be displayed
-                      DEBUG < INFO < WARNING < ERROR < CRITICAL
-                      the default value is logging.INFO
-          when          - how to split the log file by time interval
-                      'S' : Seconds
-                      'M' : Minutes
-                      'H' : Hours
-                      'D' : Days
-                      'W' : Week day
-                      default value: 'D'
-          format        - format of the log
-                      default format:
-                      %(levelname)s: %(asctime)s: %(filename)s:%(lineno)d * %(thread)d %(message)s
-                      INFO: 2015-11-10 15:28:56: log.py:50 * 140146946344672 debuginfo message
-          backup        - how many backup file to keep
-                      default value: 7
+            log_path (str): 日志文件路径。
+            level_stream (int): 输出到控制台的日志级别。
+            level (int, optional): 日志级别。默认为 logging.INFO。
+            when (str, optional): 时间间隔选项，用于 TimedRotatingFileHandler。默认为 "D"。
+            backup (int, optional): 备份日志文件的个数。默认为 7。
+            format (str, optional): 日志格式。默认为 "%(levelname)s: %(asctime)s: %(filename)s:%(lineno)d * %(thread)d %(message)s"。
+            datefmt (str, optional): 日期格式。默认为 "%y-%m-%d %H:%M:%S"。
 
-        Raises:
-        OSError: fail to create log directories
-        IOError: fail to open log file
+        Returns:
+            logging.Logger: 日志对象。
         """
         formatter = logging.Formatter(format, datefmt)
         self.logger = logging.getLogger()
@@ -85,13 +70,21 @@ class Log(object):
         return self.logger
     
     def get_log(self, log_path, log_file, level_stream=logging.INFO):
-        
-        """初始化日志
-        Args:          log_path 日志相对路径
-        log_file:      日志文件
-        Returns:      日志对象
         """
+        初始化日志并返回日志记录器
+
+        Args:
+            log_path (str): 日志文件存储路径
+            log_file (str): 日志文件名
+            level_stream (logging.Level): 日志级别，默认为logging.INFO
+
+        Returns:
+            logging.Logger: 日志记录器
+        """
+        # 获取日志文件的绝对路径
         obs_path = os.path.abspath(log_path)
+        # 拼接日志文件的绝对路径
         logpath = os.path.join(obs_path, log_file)  
+        # 初始化日志记录器
         logger = self.init_log(logpath, level_stream)
         return logger

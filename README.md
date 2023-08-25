@@ -7,7 +7,7 @@ Mini_spider:程序入口，加载配置，初始化参数
 
 log：初始化log
 
-OptParser：参数解析
+opt_help：参数配置
 
 test_all:执行测试
 
@@ -17,9 +17,9 @@ url_table:抓取保存url抓取队列，过滤已经抓取url
 
 crawler: 抓取类,用于抓取对应的URL
 
-Webpage_parser: 解析类，用于解析网页
+html_parser: 解析类，用于解析网页
 
-Webpage_saver: 保存类,用于保存过滤后的网页信息
+save: 保存类,用于保存过滤后的网页信息
 
 Work_thread: 线程类，调用crawler,parser,saver进行抓取,分析,保存
 
@@ -36,9 +36,9 @@ urls: 种子地址列表
 
 crawler: python3 test_crawler.py
 
-webpage_parser: python3 test_webpage_parser.py
+html_parser: python3 test_html_parser.py
 
-webpage_saver: python3 test_webpage_saver.py
+save: python3 test_save.py
 
 url_table: python3 test_url_table.py
 

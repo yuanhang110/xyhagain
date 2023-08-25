@@ -12,7 +12,6 @@ Date:    2023/8/24 11:30:41
 """
 import configparser
 
-
 class config_load(object):
     def __init__(self, conf):
         self.conf = conf
