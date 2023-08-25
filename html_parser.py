@@ -230,7 +230,7 @@ class PageHtmlParser(HTMLParser):
                 self.get_url_list.append(value)
                 break   
 
-    def parse_html(html):
+    def parse_html(self, html):
         """
         解析HTML文本，提取链接并返回链接列表
 

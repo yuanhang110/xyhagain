@@ -117,7 +117,26 @@ class HtmlparseTest(unittest.TestCase):
         res = self.htmlpage_parser_test.get_url_head('http://www.baidu.com')
         # 判断获取URL的域名是否为https://www.baidu.com
         self.assertEqual(res, 'http://www.baidu.com', 'test_get_url_head_not_domain fail')    
-        print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))      
+        print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3])) 
+
+    def test_parse_html(self): 
+        """
+        测试parse_html函数是否能够正确解析HTML文本并返回链接列表。
+
+        Args:
+            无
+
+        Returns:
+            无
+        """
+        print ('\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
+        html = '<html><head><title>测试页面</title></head><body><a href="http://example.com">链接1</a><a href="http://example.org">链接2</a></body></html>'
+        links = self.htmlpage_parser_test.parse_html(html)
+        self.assertEqual(len(links), 2)
+        self.assertIn('http://example.com', links)
+        self.assertIn('http://example.org', links)
+        # 判断获取URL的域名是否为https://www.baidu.com   
+        print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3])) 
        
 if __name__ == '__main__': 
     unittest.main()
