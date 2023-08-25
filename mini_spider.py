@@ -20,9 +20,10 @@ import string
 import opt_parser
 import url_table
 import thread_pool
-import webpage_crawler
-import webpage_parser
-import webpage_saver
+import crawler
+import html_parser
+import save
+import config_load
 
 class MiniSpider(object):
     """网页抓取的主类
@@ -75,14 +76,16 @@ class MiniSpider(object):
                                                self.init_saver(), 
                                                self.url_queue)
         return self.thread_pools
-
+    
     def read_config_file(self):
         """
         读取配置文件，并获取相关的配置参数。
         """
+        #读取配置文件
         self.logger.info("read config file:%s" % (self.conf))
         self.config = configparser.ConfigParser()
         self.config.read(self.conf)
+        #获取配置文件参数
         self.url_list_file = self.config.get("spider", "url_list_file")
         self.output_dir = self.config.get("spider", "output_directory")
         self.max_depth = self.config.getint("spider", "max_depth")
@@ -90,6 +93,21 @@ class MiniSpider(object):
         self.crawl_timeout = self.config.getint("spider", "crawl_timeout")
         self.target_url = self.config.get("spider", "target_url")
         self.thread_count = self.config.getint("spider", "thread_count")
+        #检查配置文件参数
+        if not os.path.exists(self.url_list_file):
+            raise ValueError("url_list_file is not exist")
+        if not os.path.exists(self.output_dir):
+            raise ValueError("output_directory is not exist")
+        if self.max_depth < 0:
+            raise ValueError("max_depth is not less than 0")
+        if self.crawl_interval < 0:
+            raise ValueError("crawl_interval is not less than 0")
+        if self.crawl_timeout < 0:
+            raise ValueError("crawl_timeout is not less than 0")
+        if self.thread_count < 0:
+            raise ValueError("thread_count is not less than 0")
+        if self.target_url == "":
+            raise ValueError("target_url is not null")
 
     def init_url_queue(self):
         """初始化url_queue
@@ -119,15 +137,15 @@ class MiniSpider(object):
         初始化抓取类。
         """
         self.logger.info('init crawler.')
-        page_crawler = webpage_crawler.WebpageCrawler(self.logger)
+        page_crawler = crawler.Crawler(self.logger)
         return page_crawler
 
     def init_parser(self):
-        """
+        """ 
         初始化解析类。
         """
         self.logger.info('init parser.')
-        page_parser = webpage_parser.WebpageParser(self.logger, self.max_depth)
+        page_parser = html_parser.WebpageParser(self.logger, self.max_depth)
         return page_parser
 
     def init_saver(self):
@@ -135,22 +153,32 @@ class MiniSpider(object):
         初始化保存类。
         """
         self.logger.info('init saver.')
-        page_saver = webpage_saver.WebpageSaver(self.logger, self.target_url, self.output_dir)
+        page_saver = save.Save(self.logger, self.target_url, self.output_dir)
         return page_saver
     def get_url_list(self, path):
         """读取url列表
         Args:   文件目录
         Returns:url_list
         """
+        self.logger.info("get url_list")
         url_list = []
         try:
+            file = open(path, 'r')
+            lines = file.readlines()
+            for line in lines:
+                url_list.append(line.strip())
+        except IOError as e:
+            self.logger.warning("Get url_list fail:%s" % e)
+            return -1
+        return url_list
+        """
             with open(path) as url_line:
                 for url in url_line:
                     url_list.append(url.strip())    
         except IOError as e:
             self.logger.warning("Get url_list fail:%s" % e)
             return -1
-        return url_list
+        return url_list"""
 
     def is_finish(self):
         """ 判断抓取是否结束,线程都执行完并且url_queue中无url则结束

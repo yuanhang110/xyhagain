@@ -12,20 +12,20 @@ Date:    2023/8/24 11:30:41
 """
 import threading
 import work_thread
-import webpage_parser
+import html_parser
 
 class ThreadPool(object):
     """
     抓取url和读写html文件的线程
     """  
-    def __init__(self, logger, thread_max_num, webpage_cralwer, webpage_saver, url_queue):
+    def __init__(self, logger, thread_max_num, cralwer, webpage_saver, url_queue):
         """
         初始化函数
 
         Args:
             logger: 用于记录日志的对象
             thread_max_num: 线程池的最大线程数
-            webpage_cralwer: 用于抓取网页的类
+            cralwer: 用于抓取网页的类
             webpage_saver: 用于保存网页内容的类
             url_queue: 用于存储待抓取的URL的队列
 
@@ -36,8 +36,8 @@ class ThreadPool(object):
         self.log = logger
         self.thread_max_num = thread_max_num
         self.mutex = threading.Lock()
-        self.cralwer = webpage_cralwer
-        self.parser = webpage_parser.WebpageParser(logger, 1)
+        self.cralwer = cralwer
+        self.parser = html_parser.WebpageParser(logger, 1)
         self.saver = webpage_saver
         self.url_queue = url_queue
         self.thread_list = []

@@ -69,8 +69,8 @@ class WorkThread(threading.Thread):
             if html != -1:
                 #url_node_list=self.parser.handle_starttag('a','href')
                 url_node_list = self.parser.analys_html(html, url_node)
-                if not url_node_list:
-                   raise ValueError("url_node_list is not get")
+                #if not url_node_list:
+                #   raise ValueError("url_node_list is not get")
                 #print("看看这个urlnodelist"+str(url_node_list))
                 self.url_queue.add_url_node_list(url_node_list)
                 self.saver.save_url(url, html)

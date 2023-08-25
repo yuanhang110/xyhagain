@@ -153,31 +153,33 @@
 <ul><li class="hdline0">
 <i class="dot"></i>
 <strong>
-<a href="http://www.news.cn/politics/leaders/2023-08/24/c_1129820978.htm" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=0">习近平出席金砖国家领导人第十五次会晤特别记者会</a></strong>
+<a href="https://news.cctv.com/2023/08/25/ARTIhGw8eXXSY75U6TmyapSK230825.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=0">习近平出席金砖国家同非洲国家及其他新兴市场和发展中国家领导人对话会</a></strong>
 </li>
 <li class="hdline1">
 <i class="dot"></i>
 <strong>
-<a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7300940852089186381&t=1692865299585&toc_style_id=feeds_default&track_id=4A40B64B-6EF1-441A-9E2A-8B51036403A3_714560283452&share_to=copy_url" target="_blank"  mon="r=1"><b>独家视频｜金砖扩员！习近平主席发表重要讲话</b></a>
+<a href="https://news.cctv.com/2023/08/25/ARTIGBJH0CP7QYOwLgD3YCn3230825.shtml" target="_blank"  mon="r=1"><b>习近平会见伊朗总统</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/25/ARTI2fkRcZKQOvQ5SEP5Wb27230825.shtml" target="_blank"  mon="r=1"><b>会见刚果（布）总统</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/25/ARTIVLVTGJaDabUcSbmNoQcO230825.shtml" target="_blank"  mon="r=1"><b>会见马拉维总统</b></a>
 </strong>
 </li>
 <li class="hdline2">
 <i class="dot"></i>
 <strong>
-<a href="http://www.chinanews.com.cn/gn/2023/08-23/10066151.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>习言道｜不能谁的胳膊粗、嗓门大，谁就说了算</b></a><i style="font-size: 12px">&nbsp;</i><a href="https://h.xinhuaxmt.com/vh512/share/11649593?d=134b2a7&channel=weixin" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>中国高质量发展亮点透视之六</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="http://www.news.cn/world/2023-08/24/c_1129820821.htm" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>阿根廷、埃及、埃塞俄比亚、伊朗等获邀加入金砖国家合作机制</b></a>
+<a href="https://news.cctv.com/2023/08/25/ARTIcb4W5TRFra7vTwbC4w8z230825.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>习近平会见坦桑尼亚总统</b></a><i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/25/ARTIMEPJyqxuP8Yuki9dJlNY230825.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>会见纳米比亚总统</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=17247866482204438747&t=1692915655519&toc_style_id=feeds_default&track_id=09EFF918-962A-4EBE-AA14-1D3FBDD244D8_714609238651&share_to=wechat" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>国际人士：习近平主席的致辞和重要讲话为金砖合作蓬勃发展注入信心和动力</b></a>
 </strong>
 </li>
 <li class="hdline3">
 <i class="dot"></i>
 <strong>
-<a href="http://www.news.cn/world/2023-08/24/c_1129820575.htm" target="_blank"  mon="r=1">外交部发言人就日本政府启动福岛核污染水排海发表谈话</a>
+<a href="http://www.news.cn/world/2023-08/24/c_1129822194.htm" target="_blank"  mon="r=1">金砖合作大有可为，金砖国家未来可期 </a>
 </strong>
 </li>
 <li class="hdline4">
 <i class="dot"></i>
 <strong>
-<a href="http://opinion.haiwainet.cn/n/2023/0824/c353596-32648592.html" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=2">埃塞俄比亚驻华大使塔费拉：金砖机制有多重吸引力</a></strong>
+<a href="https://app.gmdaily.cn/as/opened/n/c93fb15631db4b68bbd8f16e134b0f64" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=2">下好产业升级“先手棋” 跑出高质量发展“加速度”</a></strong>
 </li>
 <li class="hdline5">
 <i class="dot"></i>
@@ -192,9 +194,9 @@
 <span class="dot"></span>
 <a href="https://new.12377.cn/wxxx/2023/740819eb_web.html" mon="ct=1&amp;a=2&amp;c=top&pn=1" target="_blank">优化营商网络环境的长效举措</a></li>
 <li>
-<a href="http://www.news.cn/sports/2023-08/24/c_1129820215.htm" mon="ct=1&amp;a=2&amp;c=top&pn=2" target="_blank">追光｜杭州亚运会颁奖花束不止有鲜花</a></li>
+<a href="http://www.news.cn/world/2023-08/24/c_1129823133.htm" mon="ct=1&amp;a=2&amp;c=top&pn=2" target="_blank">新闻背景：金砖大家庭6名新成员</a></li>
 <li>
-<a href="http://www.news.cn/world/2023-08/24/c_1129820655.htm" mon="ct=1&amp;a=2&amp;c=top&pn=3" target="_blank">国际观察｜起底东京电力公司处理核事故“黑历史”</a></li>
+<a href="http://news.china.com.cn/2023-08/24/content_106991099.htm" mon="ct=1&amp;a=2&amp;c=top&pn=3" target="_blank">日本究竟为何要将核污水排放入海？会带来哪些影响？</a></li>
 <li>
 <a href="https://news.cctv.com/2023/08/24/ARTIAI3vBf3mZWH1VgsYu11z230824.shtml" mon="ct=1&amp;a=2&amp;c=top&pn=4" target="_blank">港珠澳大桥跨境物流商贸发展迅猛 方便快捷顺畅成为关键词</a></li>
 <li>
@@ -207,11 +209,11 @@
 <span class="dot"></span>
 <a href="https://baijiahao.baidu.com/s?id=1775087851709219119&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=7" target="_blank">海关总署：全面暂停进口日本水产品 </a></li>
 <li>
-<a href="https://app.bjtitle.com/8816/newshow.php?newsid=6397042&src=stream&typeid=20&did=2db11ff580af4240b3e10557720402c5&ff=fz&uid=325963&show=0&fSize=M&ver=3.1.2&mood=wx" mon="ct=1&amp;a=2&amp;c=top&pn=8" target="_blank">“建功新时代”百姓宣讲团为清华学子开讲</a></li>
+<a href="https://haokan.baidu.com/v?vid=6970707615919336679&backflow=1&pd=d_push&pagepd=d_push" mon="ct=1&amp;a=2&amp;c=top&pn=8" target="_blank">日本今起排放核污水,国内的日料店还能去吗?多家日料店回应</a></li>
 <li>
-<a href="https://bj.bjd.com.cn/5b165687a010550e5ddc0e6a/contentShare/5e799028e4b0f99f4df7a04e/AP64e60d5de4b03b71707d1cfe.html" mon="ct=1&amp;a=2&amp;c=top&pn=9" target="_blank">百姓身边榜样登上清华讲台，讲述公益志愿救援故事</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775105251592259903&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=9" target="_blank">中国驻缅甸大使馆：5名电诈犯罪嫌疑人从缅甸被押解回国</a></li>
 <li>
-<a href="https://bj.bjd.com.cn/5b165687a010550e5ddc0e6a/contentShare/5b1a1310e4b03aa54d764015/AP64e5f215e4b00547e3ddc68f.html" mon="ct=1&amp;a=2&amp;c=top&pn=10" target="_blank">百姓身边榜样登上高校讲台,"建功新时代"宣讲报告会清华开讲</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775096274936148317&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=10" target="_blank">美商务部长访华，中美双方将讨论哪些话题？商务部回应</a></li>
 <li>
 <a href="https://baijiahao.baidu.com/s?id=1774974043464721196&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=11" target="_blank">洛阳有“不明物体”掉落 排查人员身着防护服？官方回应</a></li>
 <li>
@@ -220,15 +222,15 @@
 <ul class="ulist focuslistnews" >
 <li class="bold-item">
 <span class="dot"></span>
-<a href="http://baijiahao.baidu.com/s?id=1775077006491319991" mon="ct=1&amp;a=2&amp;c=top&pn=13" target="_blank">普里戈任坠机身亡背后：叛徒终遭叛徒杀害？ </a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775100107201628056" mon="ct=1&amp;a=2&amp;c=top&pn=13" target="_blank">普里戈任之后，“白发”指挥官将接手瓦格纳？</a></li>
 <li>
-<a href="http://baijiahao.baidu.com/s?id=1775076015710052692" mon="ct=1&amp;a=2&amp;c=top&pn=14" target="_blank">普里戈任坠机身亡 一文看懂瓦格纳事件时间线 </a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775095479466178300&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=14" target="_blank">普里戈任飞机最后航迹：16年机龄 离开莫斯科约15分钟消失</a></li>
 <li>
 <a href="https://baijiahao.baidu.com/s?id=1775071431557912372&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=15" target="_blank">俄媒：普里戈任的手机在坠机现场一具尸体旁被发现 </a></li>
 <li>
 <a href="http://baijiahao.baidu.com/s?id=1775078653708560813" mon="ct=1&amp;a=2&amp;c=top&pn=16" target="_blank">外媒：普里戈任尸体已被初步确认，DNA分析仍在进行中 </a></li>
 <li>
-<a href="http://baijiahao.baidu.com/s?id=1775075822494618235" mon="ct=1&amp;a=2&amp;c=top&pn=17" target="_blank">俄媒：坠毁现场的两具尸体消失得无影无踪 </a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775114097785420492&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=17" target="_blank">乌国防部独立日发布视频：情报部队趁夜登陆克里米亚</a></li>
 <li>
 <a href="https://baijiahao.baidu.com/s?id=1775065487366085884&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=18" target="_blank">朝鲜宣布军事侦察卫星发射失败，将于10月进行第三次试射 </a></li>
 </ul>
@@ -260,7 +262,7 @@
 <li>
 <a href="https://baijiahao.baidu.com/s?id=1774996027891816611&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=29" target="_blank">两名在缅电诈嫌犯被押解回国，其中一人为赌诈团伙骨干头目</a></li>
 <li>
-<a href="http://baijiahao.baidu.com/s?id=1774931182948772059" mon="ct=1&amp;a=2&amp;c=top&pn=30" target="_blank">盗图参加影赛还把作者P掉获一等奖 主办方回应 </a></li>
+<a href="https://haokan.baidu.com/v?vid=4294888847678942836&backflow=1&pd=d_push&pagepd=d_push" mon="ct=1&amp;a=2&amp;c=top&pn=30" target="_blank">威海街头市民排长队买食盐 知情者：1个小时就抢完了4吨</a></li>
 </ul>
 </div>
 <div id="pane-recommend" class="mod-tab-pane pane-recommend ">
@@ -343,34 +345,34 @@
 <div class="bd">
 <ul class="hotwords clearfix">
 <li class="li_0 li_color_0 button-slide">
-<a href="https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E5%85%B1%E5%BB%BA%E6%9B%B4%E5%8A%A0%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C" target="_blank" class="hotwords_li_a" title="习近平：共建更加美好的世界" mon="ct=1&amp;c=top&amp;a=30&pn=1">习近平：共建更加<br/>美好的世界</a>
+<a href="https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E6%8C%87%E5%BC%95%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E5%8F%91%E5%B1%95%E6%96%B9%E5%90%91" target="_blank" class="hotwords_li_a" title="习近平主席指引金砖合作发展方向" mon="ct=1&amp;c=top&amp;a=30&pn=1">习近平主席指引<br/>金砖合作发展方向</a>
 </li>
 <li class="li_1 li_color_1 button-slide">
-<a href="https://www.baidu.com/s?wd=%E5%9B%A2%E7%BB%93%E5%8D%8F%E4%BD%9C%E8%B0%8B%E5%8F%91%E5%B1%95%E5%8B%87%E4%BA%8E%E6%8B%85%E5%BD%93%E4%BF%83%E5%92%8C%E5%B9%B3" target="_blank" class="hotwords_li_a" title="团结协作谋发展勇于担当促和平" mon="ct=1&amp;c=top&amp;a=30&pn=2">团结协作谋发展<br/>勇于担当促和平</a>
+<a href="https://www.baidu.com/s?wd=%E4%B8%BA%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%9C%BA%E5%88%B6%E6%B3%A8%E5%85%A5%E6%96%B0%E6%B4%BB%E5%8A%9B" target="_blank" class="hotwords_li_a" title="为金砖合作机制注入新活力" mon="ct=1&amp;c=top&amp;a=30&pn=2">为金砖合作机制<br/>注入新活力</a>
 </li>
 <li class="li_2 li_color_2 button-slide">
 <a href="https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%9D%A0%E6%9C%BA" target="_blank" class="hotwords_li_a" title="中方回应瓦格纳领导人普里戈任坠机" mon="ct=1&amp;c=top&amp;a=30&pn=3">中方回应瓦格纳领导人普里戈任坠机</a>
 </li>
 <li class="li_3 li_color_3 button-slide">
-<a href="https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E5%A4%9A%E5%9C%B0%E5%B8%82%E6%B0%91%E6%8A%A2%E7%9B%90%20%E6%9C%89%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%E8%A2%AB%E6%90%AC%E7%A9%BA" target="_blank" class="hotwords_li_a" title="国内多地市民抢盐 有超市货架被搬空" mon="ct=1&amp;c=top&amp;a=30&pn=4">国内多地市民抢盐 有超市货架被搬空</a>
+<a href="https://www.baidu.com/s?wd=%E4%B8%AD%E7%9B%90%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E9%A3%9F%E7%9B%90%E6%8A%A2%E8%B4%AD%E7%8E%B0%E8%B1%A1" target="_blank" class="hotwords_li_a" title="中盐集团回应食盐抢购现象" mon="ct=1&amp;c=top&amp;a=30&pn=4">中盐集团回应<br/>食盐抢购现象</a>
 </li>
 <li class="li_4 li_color_4 button-slide">
-<a href="https://www.baidu.com/s?wd=%E7%A6%8F%E5%B2%9B%E6%A0%B8%E4%BA%8B%E6%95%85%E5%BD%B1%E5%93%8D%EF%BC%9A%E6%82%A3%E7%99%8C%E4%BA%BA%E6%95%B0%E9%80%90%E5%B9%B4%E4%B8%8A%E5%8D%87" target="_blank" class="hotwords_li_a" title="福岛核事故影响：患癌人数逐年上升" mon="ct=1&amp;c=top&amp;a=30&pn=5">福岛核事故影响：患癌人数逐年上升</a>
+<a href="https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%B5%B7%E6%BB%A9%E7%AA%81%E7%84%B6%E6%B6%8C%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E8%99%BE" target="_blank" class="hotwords_li_a" title="广东一海滩突然涌现大量海虾" mon="ct=1&amp;c=top&amp;a=30&pn=5">广东一海滩突然<br/>涌现大量海虾</a>
 </li>
 <li class="li_5 li_color_5 button-slide">
-<a href="https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E7%A7%8D%E5%87%BA59%E5%8E%98%E7%B1%B3%E8%B6%854%E6%96%A4%E9%BB%84%E7%93%9C%E7%8E%8B" target="_blank" class="hotwords_li_a" title="村民种出59厘米超4斤黄瓜王" mon="ct=1&amp;c=top&amp;a=30&pn=6">村民种出59厘米超4斤黄瓜王</a>
+<a href="https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E6%8F%90%E4%BE%9B%E9%BB%84%E7%89%9B%E7%94%B5%E8%AF%9D%E6%8C%82%E5%8F%B7" target="_blank" class="hotwords_li_a" title="卫健委回应医院提供黄牛电话挂号" mon="ct=1&amp;c=top&amp;a=30&pn=6">卫健委回应医院提供黄牛电话<br/>挂号</a>
 </li>
 <li class="li_6 li_color_6 button-slide">
 <a href="https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E5%85%8D%E7%96%AB%E5%8A%9B%E4%BD%8E%E4%B8%8B%E7%A1%AE%E8%AF%8A%E7%B4%AB%E7%99%9C" target="_blank" class="hotwords_li_a" title="女子称熬夜致免疫力低下确诊紫癜" mon="ct=1&amp;c=top&amp;a=30&pn=7">女子称熬夜致免疫力低下确诊<br/>紫癜</a>
 </li>
 <li class="li_7 li_color_7 button-slide">
-<a href="https://www.baidu.com/s?wd=%E5%AE%81%E9%9D%99%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1" target="_blank" class="hotwords_li_a" title="宁静公开抨击行业乱象" mon="ct=1&amp;c=top&amp;a=30&pn=8">宁静公开抨击行业乱象</a>
+<a href="https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E9%98%B3%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86%3F%E5%A4%9A%E5%90%8D%E5%8C%BB%E7%94%9F%E5%88%86%E6%9E%90" target="_blank" class="hotwords_li_a" title="“三阳”要来了?多名医生分析" mon="ct=1&amp;c=top&amp;a=30&pn=8">“三阳”要来了?<br/>多名医生分析</a>
 </li>
 <li class="li_8 li_color_8 button-slide">
-<a href="https://www.baidu.com/s?wd=%E7%93%A6%E6%A0%BC%E7%BA%B3%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%A5%BC%E4%BA%AE%E8%B5%B7%E5%8D%81%E5%AD%97%E6%9E%B6" target="_blank" class="hotwords_li_a" title="瓦格纳中心大楼亮起十字架" mon="ct=1&amp;c=top&amp;a=30&pn=9">瓦格纳中心大楼亮起十字架</a>
+<a href="https://www.baidu.com/s?wd=%E4%BD%8E%E6%94%B6%E5%85%A5%E8%80%85%E5%8F%96%E7%8E%B03000%E4%B8%87%E8%A7%A6%E5%8F%91%E9%A2%84%E8%AD%A6" target="_blank" class="hotwords_li_a" title="低收入者取现3000万触发预警" mon="ct=1&amp;c=top&amp;a=30&pn=9">低收入者取现3000万触发预警</a>
 </li>
 <li class="li_9 li_color_9 button-slide">
-<a href="https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%AE%A3%E5%B8%83%E5%86%9B%E4%BA%8B%E4%BE%A6%E5%AF%9F%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5" target="_blank" class="hotwords_li_a" title="朝鲜宣布军事侦察卫星发射失败" mon="ct=1&amp;c=top&amp;a=30&pn=10">朝鲜宣布军事侦察卫星发射失败</a>
+<a href="https://www.baidu.com/s?wd=%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B43000%E5%A4%A9%E6%A8%AA%E8%B7%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B" target="_blank" class="hotwords_li_a" title="核污染水3000天横跨太平洋" mon="ct=1&amp;c=top&amp;a=30&pn=10">核污染水3000天<br/>横跨太平洋</a>
 </li>
 </ul>
 </div>
@@ -391,16 +393,16 @@
 <div class="imagearea">
 <div class="imagearea-top" style="height:164px;">
 <div class="image-mask-item">
-<a href="https://baijiahao.baidu.com/s?id=1774982268630341160" target="_blank" class="item-image" mon="&a=12" title="边砍边省，快手终于赚钱了" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/cb8b95cbdb54cfb8198732a86eda8c3e.jpeg?x-bce-process=image/crop,x_88,y_0,w_1073,h_720)"></a>
-<a href="https://baijiahao.baidu.com/s?id=1774982268630341160" target="_blank" class="item-title" title="边砍边省，快手终于赚钱了" mon="&a=9">边砍边省，快手终于赚钱了</a>
+<a href="https://baijiahao.baidu.com/s?id=1775165067981307493" target="_blank" class="item-image" mon="&a=12" title="大功率无线充电与“边走边充”还有多远？" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/99a23b0e870cd5a79c97c08e220c9e49.jpeg?x-bce-process=image/crop,x_11,y_0,w_1246,h_836)"></a>
+<a href="https://baijiahao.baidu.com/s?id=1775165067981307493" target="_blank" class="item-title" title="大功率无线充电与“边走边充”还有多远？" mon="&a=9">大功率无线充电与“边走边充”还有多远？</a>
 </div>
 </div>
 <div class="imagearea-bottom">
 <div class="image-list-item">
-<a href="https://baijiahao.baidu.com/s?id=1774981356933662945" title="用友升级，面向全球竞争布局" target="_blank" mon="&a=12" class="img" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/0ecc01fe4519538ee5c46ad526ce9c15.jpeg?x-bce-process=image/crop,x_85,y_0,w_1115,h_748)"></a><a href="https://baijiahao.baidu.com/s?id=1774981356933662945" mon="&a=9"  class="txt" target="_blank">用友升级，面向全球竞争布局</a>
+<a href="https://baijiahao.baidu.com/s?id=1775157391170286145" title="七夕的浪漫生意不灵了" target="_blank" mon="&a=12" class="img" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/c162f3305f534d891e044970148d7d20.jpeg?x-bce-process=image/crop,x_12,y_0,w_1246,h_836)"></a><a href="https://baijiahao.baidu.com/s?id=1775157391170286145" mon="&a=9"  class="txt" target="_blank">七夕的浪漫生意不灵了</a>
 </div>
 <div class="image-list-item">
-<a href="https://baijiahao.baidu.com/s?id=1774980318957121766" title="耗电又耗水，谁能拯救AI能耗之伤？" target="_blank" mon="&a=12" class="img" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/bede086dc41d6f2bfdff547ba6ea416b.jpeg?x-bce-process=image/crop,x_37,y_0,w_1207,h_810)"></a><a href="https://baijiahao.baidu.com/s?id=1774980318957121766" mon="&a=9"  class="txt" target="_blank">耗电又耗水，谁能拯救AI能耗之伤？</a>
+<a href="https://baijiahao.baidu.com/s?id=1775161261239325860" title="游戏本成为PC市场「止血剂」" target="_blank" mon="&a=12" class="img" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/5045ba4df4254400de9010529662934b.jpeg?x-bce-process=image/crop,x_79,y_0,w_1115,h_748)"></a><a href="https://baijiahao.baidu.com/s?id=1775161261239325860" mon="&a=9"  class="txt" target="_blank">游戏本成为PC市场「止血剂」</a>
 </div>
 </div>
 </div>
@@ -408,26 +410,26 @@
 <div class="l-right-col" style="width:290px;" alog-group="log-baijia-right-up">
 <div class="baijia-focus-list">
 <ul class="ulist bdlist">
-<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1774979374313569900" target="_blank" mon="a=9">岚图终身免费充电，是韭菜还是真香？</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774979374314917896" target="_blank" mon="a=9">多面岩石股份</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774978430877007579" target="_blank" mon="a=9">短剧营销：已爆红，未暴富</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774978430879725398" target="_blank" mon="a=9">东方甄选入驻淘宝直播，想要什么？</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774977429106115886" target="_blank" mon="a=9">吉利汽车：终于有希望 “熬出头” 了？</a></li>
+<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1775162800841813663" target="_blank" mon="a=9">谁在小红书做电商？</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775162644216084425" target="_blank" mon="a=9">SpaceX实现盈利</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775122852532452608" target="_blank" mon="a=9">核污水背刺日本化妆品</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775103083826949128" target="_blank" mon="a=9">“赔”了1000亿，这家公司为何更稳了？</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775065063150436017" target="_blank" mon="a=9">东南亚没有资本寒冬</a></li>
 </ul>
 <ul class="ulist bdlist" style="padding-top:5px">
-<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1774978430877720337" target="_blank" mon="a=9">今年全球最大IPO！Arm申请赴美上市</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774896263315447204" target="_blank" mon="a=9">小米透露“大模型方法论”</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774972956667397150" target="_blank" mon="a=9">最牛的公司，赚钱却这么难</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774939409076964371" target="_blank" mon="a=9">寻路三年，钉钉小成</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774969184496261409" target="_blank" mon="a=9">英伟达与VMWare强强联手</a></li>
+<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1775158349250279767" target="_blank" mon="a=9">终究是海外市场救了阳光电源</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775143993347758451" target="_blank" mon="a=9">苹果态度大转变：支持加州维修权法案</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775139314726395170" target="_blank" mon="a=9">美国经济韧性退潮，零售股惨淡</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775123835591807835" target="_blank" mon="a=9">产能过剩风险下，46电池成亿纬救命稻草</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775106050858507246" target="_blank" mon="a=9">GPT-4生图未解禁？CMU华人博士新作</a></li>
 </ul>
 <ul class="ulist bdlist" style="padding-top:5px">
-<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1774979563083254855" target="_blank" mon="a=9">OpenAI更应警惕的是这件事</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774920640925197222" target="_blank" mon="a=9">国产开源大模型，首次实现代码解释</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774983496492439265" target="_blank" mon="a=9">“8月魔咒”后，美股后市何去何从？</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774983496491255267" target="_blank" mon="a=9">全球投资者大举投资日本酒店</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774925229160609532" target="_blank" mon="a=9">AI机器识别突破登Nature</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1774914110501890047" target="_blank" mon="a=9">这份扩散模型编年简史值得拥有</a></li>
+<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1775112475369835426" target="_blank" mon="a=9">千亿级数学大模型MathGPT推出</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775158398630287808" target="_blank" mon="a=9">美团度过最紧张的时刻</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775120689266968830" target="_blank" mon="a=9">不是每家车企，都有资格卷</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775105509415951543" target="_blank" mon="a=9">被AI取代后，我们会成为什么样的人？</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775161261240979154" target="_blank" mon="a=9">久其软件股价狂飙背后</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775122253239544613" target="_blank" mon="a=9">旅游市场再出发，OTA平台迎价值重估拐点</a></li>
 </ul>
 </div>
 </div>
@@ -437,8 +439,8 @@
 <div class="imagearea">
 <div class="imagearea-top">
 <div class="image-mask-item">
-<a href="https://baijiahao.baidu.com/s?id=1774979374717617916" target="_blank" class="item-image" mon="&a=12" title="Meta发布 AI 模型SeamlessM4T" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/3569e902e0cc1a644bcd1250491bf86b.jpeg?x-bce-process=image/crop,x_83,y_0,w_1070,h_718)"></a>
-<a href="https://baijiahao.baidu.com/s?id=1774979374717617916" target="_blank" class="item-title" title="Meta发布 AI 模型SeamlessM4T" mon="&a=9">Meta发布 AI 模型SeamlessM4T</a>
+<a href="https://baijiahao.baidu.com/s?id=1775155440694315469" target="_blank" class="item-image" mon="&a=12" title="英伟达市值一夜暴涨5000亿" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/b808150c0f7f2115b73497fad514d150.jpeg?x-bce-process=image/crop,x_15,y_0,w_1240,h_832)"></a>
+<a href="https://baijiahao.baidu.com/s?id=1775155440694315469" target="_blank" class="item-title" title="英伟达市值一夜暴涨5000亿" mon="&a=9">英伟达市值一夜暴涨5000亿</a>
 </div>
 </div>
 </div>
@@ -929,14 +931,14 @@ mod.init();
         imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/24\/PHOAfNN0U9vSutr3U2QfqdXQ230824.shtml?spm=C35449.P80754075394.S41437.9#sZOn54Oxexp7230824_1"});
                                 cpOptions_1.data.push({
           "index": 3,
-          //"title": "福州地铁4号线开启试乘",
-          "title": "福州地铁4号线开启试乘",
-          "url": "https:\/\/photo.cctv.com\/2023\/08\/24\/PHOAlWHAMiE3DrBw0SsOPHav230824.shtml?spm=C35449.P80754075394.S41437.18#RbnSvph1TpS230824_10",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/574cb5b6d65bc0c81ecfe8f308b15bb9.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1906,h_1037",
+          //"title": "虎山长城夏日之美",
+          "title": "虎山长城夏日之美",
+          "url": "http:\/\/www.news.cn\/photo\/2023-08\/24\/c_1129820629_8.htm",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/55442a81dc4d5dcd1dd49a64ec4a6e44.jpeg?x-bce-process=image\/crop,x_0,y_0,w_639,h_348",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/24\/PHOAlWHAMiE3DrBw0SsOPHav230824.shtml?spm=C35449.P80754075394.S41437.18#RbnSvph1TpS230824_10"});
+        imgList.push({"url":"http:\/\/www.news.cn\/photo\/2023-08\/24\/c_1129820629_8.htm"});
                                 cpOptions_1.data.push({
           "index": 4,
           //"title": "亚运志愿者岗前“充电”",

@@ -15,7 +15,7 @@ thread_pool:线程池,获取线程和保存线程
 
 url_table:抓取保存url抓取队列，过滤已经抓取url
 
-Webpage_crawler: 抓取类,用于抓取对应的URL
+crawler: 抓取类,用于抓取对应的URL
 
 Webpage_parser: 解析类，用于解析网页
 
@@ -34,7 +34,7 @@ urls: 种子地址列表
 
 单个功能单元测试,在Test目录下
 
-webpage_crawler: python3 test_webpage_crawler.py
+crawler: python3 test_crawler.py
 
 webpage_parser: python3 test_webpage_parser.py
 
