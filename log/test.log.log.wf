@@ -244,3 +244,7 @@ WARNING - 23-08-25 15:44:48 - crawler.py - url error:http://www.baidu.com/page4.
 WARNING - 23-08-25 16:05:55 - crawler.py - url error:http://www.baidu.com/page4.html HTTP Error 404: Not Found
 WARNING - 23-08-25 16:06:24 - crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
 WARNING - 23-08-25 16:07:02 - crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-25 17:07:07 - crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-25 17:07:45 - crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out
+WARNING - 23-08-25 17:08:19 - crawler.py - url error:https://beian.miit.gov.cn HTTP Error 521: 
+WARNING - 23-08-25 17:08:56 - crawler.py - url error:http://pycm.baidu.com:8081 HTTP Error 504: Gateway Time-out

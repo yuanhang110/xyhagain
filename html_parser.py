@@ -84,7 +84,7 @@ class PageHtmlParser(HTMLParser):
             curr_node['level'] = url_node['level'] + 1
             # 将当前url的父级url设置为父级url
             curr_node['father'] = url_node['father']
-            self.logger.info('curr_level:' + str(curr_node['level']) + ' max_level:' + str(self.max_depth))
+            #self.logger.info('curr_level:' + str(curr_node['level']) + ' max_level:' + str(self.max_depth))
             # 如果当前url的level小于等于最大深度，则将其添加到url_node_list中
             if int(curr_node['level']) <= int(self.max_depth):
                 url_node_list.append(curr_node)
