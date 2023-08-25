@@ -153,21 +153,21 @@
 <ul><li class="hdline0">
 <i class="dot"></i>
 <strong>
-<a href="https://news.cctv.com/2023/08/25/ARTIhGw8eXXSY75U6TmyapSK230825.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=0">习近平出席金砖国家同非洲国家及其他新兴市场和发展中国家领导人对话会</a></strong>
+<a href="http://www.news.cn/politics/leaders/2023-08/25/c_1129823846.htm" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=0">习近平结束出席金砖国家领导人第十五次会晤并对南非进行国事访问回国</a></strong>
 </li>
 <li class="hdline1">
 <i class="dot"></i>
 <strong>
-<a href="https://news.cctv.com/2023/08/25/ARTIGBJH0CP7QYOwLgD3YCn3230825.shtml" target="_blank"  mon="r=1"><b>习近平会见伊朗总统</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/25/ARTI2fkRcZKQOvQ5SEP5Wb27230825.shtml" target="_blank"  mon="r=1"><b>会见刚果（布）总统</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/25/ARTIVLVTGJaDabUcSbmNoQcO230825.shtml" target="_blank"  mon="r=1"><b>会见马拉维总统</b></a>
+<a href="http://www.news.cn/politics/leaders/2023-08/25/c_1129823736.htm" target="_blank"  mon="r=1"><b>习近平擘画高水平中非命运共同体美好未来</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/24/ARTIOuXusicxsLsDF5ETuPll230823.shtml" target="_blank"  mon="r=1"><b> 2023“金砖时间” 习近平典论合作与发展</b></a>
 </strong>
 </li>
 <li class="hdline2">
 <i class="dot"></i>
 <strong>
-<a href="https://news.cctv.com/2023/08/25/ARTIcb4W5TRFra7vTwbC4w8z230825.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>习近平会见坦桑尼亚总统</b></a><i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/25/ARTIMEPJyqxuP8Yuki9dJlNY230825.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>会见纳米比亚总统</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=17247866482204438747&t=1692915655519&toc_style_id=feeds_default&track_id=09EFF918-962A-4EBE-AA14-1D3FBDD244D8_714609238651&share_to=wechat" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>国际人士：习近平主席的致辞和重要讲话为金砖合作蓬勃发展注入信心和动力</b></a>
+<a href="http://cpc.people.com.cn/n1/2023/0823/c164113-40062538.html" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>推动中南全面战略伙伴关系迈上新台阶 习近平提出四点建议</b></a><i style="font-size: 12px">&nbsp;</i><a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=15115367901561221112&toc_style_id=feeds_default&track_id=E9567836-7847-4CEB-AD35-C97F611A4152_714560453532&share_to=copy_url" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>时隔12年，金砖国家再度宣布扩员</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="http://cpc.people.com.cn/n1/2023/0823/c64387-40062456.html" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>“花果山”上“酿出”甜蜜新生活</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="http://wap.cztv.com/articles/index.html?pubId=2067453&play=1" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>乐动无双</b></a>
 </strong>
 </li>
 <li class="hdline3">
@@ -179,7 +179,8 @@
 <li class="hdline4">
 <i class="dot"></i>
 <strong>
-<a href="https://app.gmdaily.cn/as/opened/n/c93fb15631db4b68bbd8f16e134b0f64" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=2">下好产业升级“先手棋” 跑出高质量发展“加速度”</a></strong>
+<a href="http://world.people.com.cn/n1/2023/0825/c1002-40063884.html" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=2">真实亲诚 携手同行</a><i style="font-size: 12px">&nbsp;</i><a href="http://world.people.com.cn/n1/2023/0825/c1002-40063629.html" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=2">携手构建发展共同体</a>
+</strong>
 </li>
 <li class="hdline5">
 <i class="dot"></i>
@@ -196,7 +197,7 @@
 <li>
 <a href="http://www.news.cn/world/2023-08/24/c_1129823133.htm" mon="ct=1&amp;a=2&amp;c=top&pn=2" target="_blank">新闻背景：金砖大家庭6名新成员</a></li>
 <li>
-<a href="http://news.china.com.cn/2023-08/24/content_106991099.htm" mon="ct=1&amp;a=2&amp;c=top&pn=3" target="_blank">日本究竟为何要将核污水排放入海？会带来哪些影响？</a></li>
+<a href="http://www.news.cn/world/2023-08/24/c_1212260133.htm" mon="ct=1&amp;a=2&amp;c=top&pn=3" target="_blank">夏威夷野火幸存者一家讲述求生故事</a></li>
 <li>
 <a href="https://news.cctv.com/2023/08/24/ARTIAI3vBf3mZWH1VgsYu11z230824.shtml" mon="ct=1&amp;a=2&amp;c=top&pn=4" target="_blank">港珠澳大桥跨境物流商贸发展迅猛 方便快捷顺畅成为关键词</a></li>
 <li>
@@ -222,22 +223,22 @@
 <ul class="ulist focuslistnews" >
 <li class="bold-item">
 <span class="dot"></span>
-<a href="http://baijiahao.baidu.com/s?id=1775100107201628056" mon="ct=1&amp;a=2&amp;c=top&pn=13" target="_blank">普里戈任之后，“白发”指挥官将接手瓦格纳？</a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775163367981319573" mon="ct=1&amp;a=2&amp;c=top&pn=13" target="_blank">普里戈任：“普京的屠夫”消逝在飞机火光中</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775095479466178300&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=14" target="_blank">普里戈任飞机最后航迹：16年机龄 离开莫斯科约15分钟消失</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775153459209368644&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=14" target="_blank">韩国多个海鲜市场空无一人 商贩：疫情期间生意都比现在好</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775071431557912372&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=15" target="_blank">俄媒：普里戈任的手机在坠机现场一具尸体旁被发现 </a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775161827635108851&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=15" target="_blank">特朗普保释后讲话:这是美国悲伤的一天 我没做错任何事 </a></li>
 <li>
-<a href="http://baijiahao.baidu.com/s?id=1775078653708560813" mon="ct=1&amp;a=2&amp;c=top&pn=16" target="_blank">外媒：普里戈任尸体已被初步确认，DNA分析仍在进行中 </a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775159720187883063" mon="ct=1&amp;a=2&amp;c=top&pn=16" target="_blank">普里戈任生命中的最后60天：从指挥武装叛乱到离奇遭遇坠机</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775114097785420492&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=17" target="_blank">乌国防部独立日发布视频：情报部队趁夜登陆克里米亚</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775155519508576211&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=17" target="_blank">日本本州东海岸远海发生5.8级地震，震源深度10公里</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775065487366085884&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=18" target="_blank">朝鲜宣布军事侦察卫星发射失败，将于10月进行第三次试射 </a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775167355931275920&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=18" target="_blank">俄多地民众街头悼念普利戈任 有瓦格纳士兵现场痛哭</a></li>
 </ul>
 <ul class="ulist focuslistnews" >
 <li class="bold-item">
 <span class="dot"></span>
-<a href="https://baijiahao.baidu.com/s?id=1775076028361764479&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=19" target="_blank">网传连云港一村民浑身着火坠楼？当地回应 </a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775168946759317331" mon="ct=1&amp;a=2&amp;c=top&pn=19" target="_blank">浙江卫视：暂停播出《中国好声音》</a></li>
 <li>
 <a href="https://baijiahao.baidu.com/s?id=1775080417887543765&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=20" target="_blank">山西一高速公路隧道内大巴车撞墙，已致5人死亡3人重伤 </a></li>
 <li>
@@ -252,9 +253,9 @@
 <ul class="ulist focuslistnews" >
 <li class="bold-item">
 <span class="dot"></span>
-<a href="https://baijiahao.baidu.com/s?id=1774988502941813887&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=25" target="_blank">李玟经纪公司：将持续关注调查情况并全力配合</a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775117428038103209" mon="ct=1&amp;a=2&amp;c=top&pn=25" target="_blank">日料还能吃吗？多家店铺紧急声明</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1774981333079439817&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=26" target="_blank">男子中奖1000万彩票粘手机壳取不下：这次中奖准备购房 </a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775108212315333290&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=26" target="_blank">核辐射检测仪电商爆单，专家：用普通仪器很难发现差别</a></li>
 <li>
 <a href="https://baijiahao.baidu.com/s?id=1774986328365728483&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=27" target="_blank">老人误将2万结婚汉服当垃圾扔掉 民警顶高温翻垃圾帮找回 </a></li>
 <li>
@@ -345,10 +346,10 @@
 <div class="bd">
 <ul class="hotwords clearfix">
 <li class="li_0 li_color_0 button-slide">
-<a href="https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E6%8C%87%E5%BC%95%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E5%8F%91%E5%B1%95%E6%96%B9%E5%90%91" target="_blank" class="hotwords_li_a" title="习近平主席指引金砖合作发展方向" mon="ct=1&amp;c=top&amp;a=30&pn=1">习近平主席指引<br/>金砖合作发展方向</a>
+<a href="https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%88%90%E7%AB%8B%E5%85%A8%E7%90%83%E5%8F%91%E5%B1%95%E5%92%8C%E5%8D%97%E5%8D%97%E5%90%88%E4%BD%9C%E5%9F%BA%E9%87%91" target="_blank" class="hotwords_li_a" title="中方成立全球发展和南南合作基金" mon="ct=1&amp;c=top&amp;a=30&pn=1">中方成立全球发展和南南合作基金</a>
 </li>
 <li class="li_1 li_color_1 button-slide">
-<a href="https://www.baidu.com/s?wd=%E4%B8%BA%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%9C%BA%E5%88%B6%E6%B3%A8%E5%85%A5%E6%96%B0%E6%B4%BB%E5%8A%9B" target="_blank" class="hotwords_li_a" title="为金砖合作机制注入新活力" mon="ct=1&amp;c=top&amp;a=30&pn=2">为金砖合作机制<br/>注入新活力</a>
+<a href="https://www.baidu.com/s?wd=%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E9%93%BA%E5%B0%B1%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E6%96%B0%E9%80%9A%E9%80%94" target="_blank" class="hotwords_li_a" title="中欧班列铺就“一带一路”新通途" mon="ct=1&amp;c=top&amp;a=30&pn=2">中欧班列铺就“一带一路”新通途</a>
 </li>
 <li class="li_2 li_color_2 button-slide">
 <a href="https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%9D%A0%E6%9C%BA" target="_blank" class="hotwords_li_a" title="中方回应瓦格纳领导人普里戈任坠机" mon="ct=1&amp;c=top&amp;a=30&pn=3">中方回应瓦格纳领导人普里戈任坠机</a>

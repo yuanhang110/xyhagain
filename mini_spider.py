@@ -16,25 +16,27 @@ import os
 import configparser
 import log
 import time
-import string
 import opt_parser
 import url_table
 import thread_pool
 import crawler
 import html_parser
 import save
-import config_load
 
 class MiniSpider(object):
-    """网页抓取的主类
-    Attributes:
-        conf:文件配置
-    """    
+    """
+    爬虫类，用于初始化爬虫，开始爬虫工作
+    """  
     def __init__(self, conf):
         """
-        Init Mini_spider class and variables
-        Args:   conf:配置文件
-        Return:
+        初始化函数
+
+        Args:
+            conf (dict): 爬虫配置信息
+
+        Returns:
+            None
+
         """
         spider_log = log.Log()
         self.logger = spider_log.get_log('log', 'test.log')
@@ -43,8 +45,15 @@ class MiniSpider(object):
         self.interval = 0
     
     def init(self):
-        """初始化根节点和crawler,parser,save类，
-           分别用于抓取，分析和保存
+        """
+        初始化函数
+
+        Args:
+            无
+
+        Returns:
+            int: 返回0表示初始化成功，返回-1表示初始化失败
+
         """
         self.logger.info('init')
         try:
@@ -54,6 +63,7 @@ class MiniSpider(object):
             return -1
         #初始化url_queue,保存已经抓取的URL列表和去除重复
         self.url_queue = self.init_url_queue()
+        #如果初始化url_queue失败，则返回-1
         if self.url_queue == -1:
             self.logger.warn('init url queue fail,return...')
             return -1 
@@ -69,6 +79,13 @@ class MiniSpider(object):
     def init_thread_pool(self):
         """
         初始化线程池。
+
+        Args:
+            无
+
+        Returns:
+            thread_pool: ThreadPool对象，表示初始化后的线程池
+
         """
         self.logger.info('init thread_pool.')
         self.thread_pools = thread_pool.ThreadPool(self.logger, self.thread_count, 
@@ -110,55 +127,92 @@ class MiniSpider(object):
             raise ValueError("target_url is not null")
 
     def init_url_queue(self):
-        """初始化url_queue
+        """
+        初始化url队列
+
         Args:
-        Returns:    url_queue
+            无
+
+        Returns:
+            UrlQueue: 初始化完成的url队列
+
         """
         #获取root_url
         root_url_list = self.get_url_list(self.url_list_file)
+        #如果获取root_url失败，则返回-1
         if root_url_list == -1:
             self.logger.warn("get root url fail")
             return -1
         #初始化父节点
         father_node_list = []
+        #将root_url添加到父节点中
         for url in root_url_list:
             url_node = {}
             url_node['url'] = url
             url_node['level'] = 0
             url_node['father'] = url
             father_node_list.append(url_node)
-        #初始化url_queue
+        #初始化url队列
         url_queue = url_table.UrlTable(self.logger)
+        #将父节点添加到url队列中
         url_queue.add_url_node_list(father_node_list)
         return url_queue 
 
     def init_crawler(self):
         """
-        初始化抓取类。
+        初始化爬虫
+
+        Args:
+            无
+
+        Returns:
+            PageCrawler: 页面爬虫对象
         """
         self.logger.info('init crawler.')
         page_crawler = crawler.Crawler(self.logger)
         return page_crawler
 
     def init_parser(self):
-        """ 
-        初始化解析类。
+        """
+        初始化解析器。
+
+        Args:
+            无
+
+        Returns:
+            PageHtmlParser: 初始化完成的页面解析器。
+
         """
         self.logger.info('init parser.')
-        page_parser = html_parser.WebpageParser(self.logger, self.max_depth)
+        page_parser = html_parser.PageHtmlParser(self.logger, self.max_depth)
         return page_parser
 
     def init_saver(self):
         """
-        初始化保存类。
+        初始化页面保存器。
+
+        Args:
+            无
+
+        Returns:
+            save.Save: 页面保存器对象，用于保存页面内容。
+
         """
-        self.logger.info('init saver.')
-        page_saver = save.Save(self.logger, self.target_url, self.output_dir)
-        return page_saver
+        self.logger.info('init save.')
+        page_save = save.Save(self.logger, self.target_url, self.output_dir)
+        return page_save
     def get_url_list(self, path):
-        """读取url列表
-        Args:   文件目录
-        Returns:url_list
+        """
+        从文件中读取url列表
+
+        Args:
+            path: url列表文件路径
+
+        Returns:
+            返回一个包含url的列表
+
+        Raises:
+            IOError: 读取文件时出错
         """
         self.logger.info("get url_list")
         url_list = []
@@ -172,31 +226,47 @@ class MiniSpider(object):
             return -1
         return url_list
         """
+        try:
             with open(path) as url_line:
                 for url in url_line:
                     url_list.append(url.strip())    
         except IOError as e:
             self.logger.warning("Get url_list fail:%s" % e)
             return -1
-        return url_list"""
+        return url_list
+        """
 
     def is_finish(self):
-        """ 判断抓取是否结束,线程都执行完并且url_queue中无url则结束
+        """
+        判断是否完成抓取任务
+
         Args:
-        Returns:抓取状态,   True 结束  
-                            False 未结束
-        """ 
-        if self.url_queue.get_url_node_len() <= 0: #如果抓取队列里没有url
-            self.thread_pools.wait() #等所有线程执行完
-            if self.url_queue.get_url_node_len() <= 0: #线程执行完后，url list还是空，则抓取完成
+            无
+
+        Returns:
+            bool: 是否完成抓取任务
+
+        """
+        #如果url list为空，则判断线程池中的线程是否执行完
+        if self.url_queue.get_url_node_len() <= 0:
+            #如果线程池中的线程执行完，则返回True 
+            self.thread_pools.wait() 
+            #如果url list为空，则返回True
+            if self.url_queue.get_url_node_len() <= 0: 
                 self.logger.info('finish')
                 return True
         return False
  
     def run(self):
-        """开始抓取网页
+        """
+        开始抓取网页
+
         Args:
-        Returns:执行状态，成功返回0，失败返回-1
+            无
+
+        Returns:
+            int: 返回0表示成功，返回-1表示失败
+
         """
         self.logger.info('begin to run...')
         #初始化
@@ -206,15 +276,21 @@ class MiniSpider(object):
             return -1
         #开始抓取工作
         while(1):
+            #获取线程池中的线程
             work_threads = self.thread_pools.get_thread()
+            #如果线程池中的线程数达到最大线程数，则等待
             if work_threads != -1:
-                if self.is_finish():
+                status=self.is_finish()
+                #如果抓取任务完成，则退出循环
+                if status == True:
                     self.logger.info('spider end')
                     break
+                #如果抓取任务未完成，则开始抓取
                 else:
                     work_threads.start()
                     time.sleep(self.crawl_interval)
                     self.logger.info('sleep: %d' % self.crawl_interval)
+            #如果线程池中的线程数达到最大线程数，则等待
             else:
                 self.logger.info('wait...')
                 time.sleep(self.crawl_interval)

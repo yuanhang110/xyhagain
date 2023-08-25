@@ -19,28 +19,52 @@ class OptParser(object):
     参数解析模块
     """
     def __init__(self):
-        """获取参数
-        return: 0 参数正确，不需退出
-                1 参数正确，需要退出
-                -1 出现异常，需要退出
-        Except : getopt.GetoptError
+        """
+        初始化函数
+            Args:
+                无
+
+            Returns:
+                无
         """
         ret_val = 0
         try:
+            # 默认配置文件
             self.conf = "spider.conf"
+            # 获取命令行参数
             opts, args = getopt.getopt(sys.argv[1:], 'hvc:', ['help'])
+            # 遍历命令行参数
             for opt, arg in opts:
-                if (opt == '-h') or (opt == '--help'):
+                # 如果是-h或者--help
+                if  opt in ('-h', '--help'):
+                    # 打印帮助信息
                     self.usage()
+                    # 退出程序
                     ret_val = 1
-                elif opt == '-v':
-                    print(" mini_spider version 1.0.0.1")
+                # 如果是-v或者--version
+                elif opt == '-v' or opt == '--version'or opt == '--version1':
+                    # 打印版本信息
+                    print(" mini_spider version 1.0.0")
+                    # 退出程序
                     ret_val = 1
-                else:
-                    self.conf = arg
-                    if os.path.exists(self.conf) == False:
-                        print ("conf not exists: %s " % self.conf)
+                # 如果是-c或者--config
+                elif opt == '-c' or opt == '--config':
+                    # 如果配置文件不存在
+                    if os.path.exists(arg) == False:
+                        # 打印错误信息
+                        print ("conf not exists: %s " % arg)
+                        # 退出程序
                         ret_val = -1
+                    # 如果配置文件存在
+                    else:
+                        # 保存配置文件路径
+                        self.conf = arg
+                # 如果是其它参数
+                else:
+                    # 打印错误信息
+                    print ("unknown option: %s " % opt)
+                    # 退出程序
+                    ret_val = -1
         except getopt.GetoptError as e:
             print (e)
             self.usage()
@@ -49,11 +73,21 @@ class OptParser(object):
             sys.exit(ret_val)
 
     def usage(self):
-        """help information
         """
-        print("Usage:python mini_sider.py -c spider.conf")
+        输出mini_spider的使用方法和参数说明。
+
+        Args:
+            无
+
+        Returns:
+            无
+
+        """
         print("-----------------------------------------------------------")
-        print("     -h(--help)        :    show help info")
-        print("     -v                :    the version of mini_spider")
-        print("     -c                :    Configuration file")
-        print("-----------------------------------------------------------")
+        sys.stderr.write("Mini Spider v1.0.0\n" )
+        sys.stderr.write("usage: mini_spider [options]\n")
+        sys.stderr.write("options:\n")
+        sys.stderr.write("  -h, --help            show this help message and exit\n")
+        sys.stderr.write("  -v, --version         show version message and exit\n")
+        sys.stderr.write("  -c, --config          set configuration file\n")
+        sys.stderr.write("-----------------------------------------------------------\n")

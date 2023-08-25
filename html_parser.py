@@ -10,7 +10,7 @@
 Authors: xiaoyuanhang(xiaoyuanhang@baidu.com)
 Date:    2023/8/24 11:30:41
 """
-from urllib.parse import urlparse,urljoin
+from urllib.parse import urlparse
 import urllib
 import urllib.request
 import log

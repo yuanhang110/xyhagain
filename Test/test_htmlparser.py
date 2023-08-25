@@ -6,13 +6,12 @@
 #
 ################################################################################
 """
-webpage_parser的单元测试
+html_parser的单元测试
 Authors: xiaoyuanhang(xiaoyuanhang@baidu.com)
 Date:    2023/8/24 11:30:41
 """
 
 import unittest
-import urllib
 import sys
 import inspect
 sys.path.append("../")

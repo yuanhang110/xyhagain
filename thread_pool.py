@@ -37,7 +37,7 @@ class ThreadPool(object):
         self.thread_max_num = thread_max_num
         self.mutex = threading.Lock()
         self.cralwer = cralwer
-        self.parser = html_parser.WebpageParser(logger, 1)
+        self.parser = html_parser.PageHtmlParser(logger, 1)
         self.saver = webpage_saver
         self.url_queue = url_queue
         self.thread_list = []
