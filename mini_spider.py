@@ -38,9 +38,12 @@ class MiniSpider(object):
             None
 
         """
+        # 初始化日志
         spider_log = log.Log()
+        # 获取日志对象
         self.logger = spider_log.get_log('log', 'test.log')
         self.logger.info('Init Mini_spider')
+        # 初始化配置文件
         self.conf = conf
         self.interval = 0
     
@@ -88,6 +91,7 @@ class MiniSpider(object):
 
         """
         self.logger.info('init thread_pool.')
+        # 初始化线程池
         self.thread_pools = thread_pool.ThreadPool(self.logger, self.thread_count, 
                                                self.init_crawler(), 
                                                self.init_saver(), 
@@ -215,12 +219,16 @@ class MiniSpider(object):
             IOError: 读取文件时出错
         """
         self.logger.info("get url_list")
+        # 初始化url列表
         url_list = []
+        # 读取url列表文件
         try:
             file = open(path, 'r')
             lines = file.readlines()
+            # 将url添加到url列表中
             for line in lines:
                 url_list.append(line.strip())
+        # 如果读取文件失败，则返回-1
         except IOError as e:
             self.logger.warning("Get url_list fail:%s" % e)
             return -1

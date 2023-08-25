@@ -16,7 +16,7 @@ import html_parser
 
 class ThreadPool(object):
     """
-    抓取url和读写html文件的线程
+    线程池类，用于获取线程和保存线程
     """  
     def __init__(self, logger, thread_max_num, cralwer, webpage_saver, url_queue):
         """
@@ -31,7 +31,6 @@ class ThreadPool(object):
 
         Returns:
             无返回值
-
         """
         self.log = logger
         self.thread_max_num = thread_max_num
@@ -51,7 +50,6 @@ class ThreadPool(object):
 
         Returns:
             无
-
         """
         # 遍历线程列表
         for thread in self.thread_list:
@@ -70,29 +68,42 @@ class ThreadPool(object):
         Returns:
             work_thread.WorkThread: 返回新建线程
             如果线程数达到最大线程数则返回-1
-
         """
+        # 获取线程锁
         self.mutex.acquire(1)
-        self.check_thread()#先把线程池中，执行完的线程从thread_list中去掉
-        #线程数小于最大线程数，则分配新的线程
+        # 检查线程列表中是否有未运行的线程
+        self.check_thread()
+        # 如果线程数小于最大线程数则返回-1
         if len(self.thread_list) < self.thread_max_num:
+            # 新建线程
             work_threads = work_thread.WorkThread(self.log, self.cralwer, self.parser
                                                   , self.saver, self.url_queue) 
+            # 将线程添加到线程列表中
             self.thread_list.append(work_threads)
+            # 释放线程锁
             self.mutex.release()
             return work_threads
+        # 如果线程数达到最大线程数则返回-1
         else:
             self.log.info('no thread could get')
+            # 释放线程锁
             self.mutex.release()
             return -1
 
     def check_thread(self):
-    
-        """从线程池中去掉执行完的线程
-            Args:
-            Returns:
         """
+        检查线程列表中是否有未运行的线程。
+
+        Args:
+            无
+
+        Returns:
+            无
+        """
+        # 遍历线程列表
         for work in self.thread_list:
+            #  如果线程已经结束，则从线程列表中删除
             if not work.thread_is_runed():
                 self.log.info('线程完成have thread finish')
+                # 从线程列表中删除线程
                 self.thread_list.remove(work)

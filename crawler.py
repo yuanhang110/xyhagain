@@ -15,31 +15,38 @@ import socket
 
 class Crawler(object):
     """
-    抓取url
-    Attributes:
-        logger: 用于写日志的对象
+    抓取类,用于抓取对应的URL
     """ 
     
     def __init__(self, logger):
-        
-        """初始化
+        """
+        初始化函数
+            
         Args:
-        logger: 用于写日志的对象
+            logger: 用于记录日志的对象
         Returns:
+            None
         """
         self.logger = logger
  
     def get_html(self, url):  
-        
-        """从url获取html
-        Args:需要抓取的url
-        Returns: html
-        """ 
+        """
+        获取指定URL的HTML内容
+
+        Args:
+            url (str): 指定的URL
+
+        Returns:
+            bytes: 返回指定URL的HTML内容，如果获取失败则返回-1或-2
+        """
         try:
             self.logger.info('start get url:' + url)
+            # 使用urllib.request.urlopen打开指定的URL
             page=urllib.request.urlopen(url)
+            # 读取页面内容
             html=page.read() 
             page.close()
+        # 如果出现URLError或socket.timeout异常，则记录日志并返回-1或-2
         except urllib.request.URLError as e:
             self.logger.warning('url error:' + url + ' ' + str(e))
             return -1

@@ -158,16 +158,16 @@
 <li class="hdline1">
 <i class="dot"></i>
 <strong>
-<a href="http://www.news.cn/politics/leaders/2023-08/25/c_1129823736.htm" target="_blank"  mon="r=1"><b>习近平擘画高水平中非命运共同体美好未来</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/24/ARTIOuXusicxsLsDF5ETuPll230823.shtml" target="_blank"  mon="r=1"><b> 2023“金砖时间” 习近平典论合作与发展</b></a>
+<a href="http://www.news.cn/politics/leaders/2023-08/24/c_1129821575.htm" target="_blank"  mon="r=1"><b>新起点、新活力！习近平这样寄语金砖历史性扩员</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="http://www.news.cn/politics/leaders/2023-08/24/c_1129819984.htm" target="_blank"  mon="r=1"><b>镜观·领航｜团结协作谋发展 勇于担当促和平</b></a>
 </strong>
 </li>
 <li class="hdline2">
 <i class="dot"></i>
 <strong>
-<a href="http://cpc.people.com.cn/n1/2023/0823/c164113-40062538.html" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>推动中南全面战略伙伴关系迈上新台阶 习近平提出四点建议</b></a><i style="font-size: 12px">&nbsp;</i><a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=15115367901561221112&toc_style_id=feeds_default&track_id=E9567836-7847-4CEB-AD35-C97F611A4152_714560453532&share_to=copy_url" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>时隔12年，金砖国家再度宣布扩员</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="http://cpc.people.com.cn/n1/2023/0823/c64387-40062456.html" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>“花果山”上“酿出”甜蜜新生活</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="http://wap.cztv.com/articles/index.html?pubId=2067453&play=1" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>乐动无双</b></a>
+<a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7377200123284499380&toc_style_id=feeds_default&track_id=8E63EF5C-A8BF-4312-A82D-F63D9168CB26_714574978017&share_to=copy_url" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>金砖，加！“金砖+”</b></a><i style="font-size: 12px">&nbsp;</i><a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13141156450281460864&toc_style_id=feeds_default&share_to=wechat&track_id=84b715f7-ecae-4c64-8895-5e7ad8f37428" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>现场见证金砖扩员！来听各国记者们怎么说</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=5045422553628036310&toc_style_id=feeds_default&track_id=2933FCE0-5ED3-407F-AF37-522D6EEC8F4A_714584748062&share_to=copy_url" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>搬“砖”现场 媒体同行们都在忙点啥</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/24/ARTINhPnTLye9KVxdwrdlqv5230824.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>杭州亚运会各项筹备工作进入最后冲刺阶段</b></a>
 </strong>
 </li>
 <li class="hdline3">
@@ -912,54 +912,54 @@ mod.init();
   
                           cpOptions_1.data.push({
           "index": 1,
-          //"title": "青岛：秋高气爽 游客金沙滩观看海上日出",
-          "title": "青岛：秋高气爽 游客金沙滩观看海上日出",
-          "url": "https:\/\/photo.cctv.com\/2023\/08\/24\/PHOAHJROfcrebVtOlaYCn43y230824.shtml?spm=C35449.P80754075394.S41437.13#yJIOpseIJWPO230824_1",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/41327b8fdab7384321446ead2e6097d5.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1824,h_993",
+          //"title": "北京：雨后故宫蓝天白云",
+          "title": "北京：雨后故宫蓝天白云",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAKPKvkFYH4EMVeCcj17Pa230825.shtml?spm=C35449.P80754075394.S41437.43#afC20uJRzYrt230825_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/19b2d62d67c7aaa24422cab3e61fe2e1.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/24\/PHOAHJROfcrebVtOlaYCn43y230824.shtml?spm=C35449.P80754075394.S41437.13#yJIOpseIJWPO230824_1"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAKPKvkFYH4EMVeCcj17Pa230825.shtml?spm=C35449.P80754075394.S41437.43#afC20uJRzYrt230825_1"});
                                 cpOptions_1.data.push({
           "index": 2,
-          //"title": "四川甘孜：游客打卡“异域星球”",
-          "title": "四川甘孜：游客打卡“异域星球”",
-          "url": "https:\/\/photo.cctv.com\/2023\/08\/24\/PHOAfNN0U9vSutr3U2QfqdXQ230824.shtml?spm=C35449.P80754075394.S41437.9#sZOn54Oxexp7230824_1",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/71fc402c24fa60d9325ff5a936487969.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1845,h_1005",
+          //"title": "秋日采菱",
+          "title": "秋日采菱",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOA2f0yKmZrHEmAk6TArvho230825.shtml?spm=C35449.P80754075394.S41437.27#8lRJW9wx2cK230825_10",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/4a1b34898cc16e62d2dcb6c38c077a49.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/24\/PHOAfNN0U9vSutr3U2QfqdXQ230824.shtml?spm=C35449.P80754075394.S41437.9#sZOn54Oxexp7230824_1"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOA2f0yKmZrHEmAk6TArvho230825.shtml?spm=C35449.P80754075394.S41437.27#8lRJW9wx2cK230825_10"});
                                 cpOptions_1.data.push({
           "index": 3,
-          //"title": "虎山长城夏日之美",
-          "title": "虎山长城夏日之美",
-          "url": "http:\/\/www.news.cn\/photo\/2023-08\/24\/c_1129820629_8.htm",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/55442a81dc4d5dcd1dd49a64ec4a6e44.jpeg?x-bce-process=image\/crop,x_0,y_0,w_639,h_348",
+          //"title": "内蒙古鄂尔多斯：北大池盐场迎来丰收季",
+          "title": "内蒙古鄂尔多斯：北大池盐场迎来丰收季",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAE5qTfZq0VbtWbbAty5Fj230825.shtml?spm=C35449.P80754075394.S41437.32#d8PfOoTIRfLa230825_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/82d7c4d678cdbc3881278542b719bf22.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"http:\/\/www.news.cn\/photo\/2023-08\/24\/c_1129820629_8.htm"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAE5qTfZq0VbtWbbAty5Fj230825.shtml?spm=C35449.P80754075394.S41437.32#d8PfOoTIRfLa230825_1"});
                                 cpOptions_1.data.push({
           "index": 4,
-          //"title": "亚运志愿者岗前“充电”",
-          "title": "亚运志愿者岗前“充电”",
-          "url": "http:\/\/pic.people.com.cn\/n1\/2023\/0824\/c1016-40063014.html",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/72d817a917af5f38aa6d788197697861.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1669,h_908",
+          //"title": "新疆巴音郭楞：丰收季来临 农民晾晒辣椒",
+          "title": "新疆巴音郭楞：丰收季来临 农民晾晒辣椒",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAfvVnTNZLb0THkvpmjjcG230825.shtml?spm=C35449.P80754075394.S41437.7#sfjw6Du3jhpm230825_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/3b912e1b591972106682a6e3e85a9361.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"http:\/\/pic.people.com.cn\/n1\/2023\/0824\/c1016-40063014.html"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAfvVnTNZLb0THkvpmjjcG230825.shtml?spm=C35449.P80754075394.S41437.7#sfjw6Du3jhpm230825_1"});
                                 cpOptions_1.data.push({
           "index": 5,
-          //"title": "北京：山区小学抢修待开学",
-          "title": "北京：山区小学抢修待开学",
-          "url": "http:\/\/pic.people.com.cn\/n1\/2023\/0824\/c1016-40063017.html",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/c96a3fbd7246fb1d956a0b6239e152e5.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1421,h_774",
+          //"title": "贵州黔东南：加榜梯田雨后云雾缭绕",
+          "title": "贵州黔东南：加榜梯田雨后云雾缭绕",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOABqty125PO47GiL4HxLb0230825.shtml?spm=C35449.P80754075394.S41437.17#QOW0oHkJreCV230825_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/45c11990d10a769facc15d3c05c76193.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"http:\/\/pic.people.com.cn\/n1\/2023\/0824\/c1016-40063017.html"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOABqty125PO47GiL4HxLb0230825.shtml?spm=C35449.P80754075394.S41437.17#QOW0oHkJreCV230825_1"});
                                 cpOptions_1.data.push({
           "index": 6,
           //"title": "俄一架飞机坠毁机上10人遇难 乘客名单包括普里戈任",

@@ -13,7 +13,9 @@ Date:    2023/8/24 11:30:41
 import threading
  
 class WorkThread(threading.Thread): 
-    
+    """
+    线程类，调用crawler,parser,saver进行抓取,分析,保存
+    """
     def __init__(self, logger, crawler, parser, saver, url_queue):
         """
         初始化函数

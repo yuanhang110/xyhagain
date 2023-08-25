@@ -16,10 +16,8 @@ import logging.handlers
 
 class Log(object):
     """
-    log
-    Attributes:
-        logger:log module
-    """  
+    初始化log的类
+    """
     
     def init_log(self, log_path, level_stream, level=logging.INFO, when="D", backup=7,
              format="%(levelname)s: %(asctime)s: %(filename)s:%(lineno)d * %(thread)d %(message)s",
@@ -39,32 +37,46 @@ class Log(object):
         Returns:
             logging.Logger: 日志对象。
         """
+        # 创建一个logger对象
         formatter = logging.Formatter(format, datefmt)
+        # 设置日志级别
         self.logger = logging.getLogger()
+        # 设置日志级别
         self.logger.setLevel(level)
+        # 设置日志输出路径
         dir = os.path.dirname(log_path)
+        # 如果日志文件夹不存在，则创建
         if not os.path.isdir(dir):
             try:
+                # 创建日志文件夹
                 os.makedirs(dir)  
             except IOError as err:
                 return -1
+        # 设置日志文件名
         handler = logging.handlers.TimedRotatingFileHandler(log_path + ".log",
                                                         when=when,
                                                         backupCount=backup)
+        # 设置日志格式
         handler.setLevel(level)
         handler.setFormatter(formatter)
         self.logger.addHandler(handler)
-    
+        # 设置控制台日志
         ch = logging.StreamHandler()  
         formatter = logging.Formatter('%(levelname)s - %(asctime)s - %(filename)s - %(message)s',\
-                                     datefmt)  
+                                     datefmt) 
+        # 设置控制台日志级别 
         ch.setLevel(level_stream)  
+        # 设置控制台日志格式
         ch.setFormatter(formatter)
+        # 设置控制台日志
         handler = logging.handlers.TimedRotatingFileHandler(log_path + ".log.wf",
                                                         when=when,
                                                         backupCount=backup)
+        # 设置控制台日志级别
         handler.setLevel(logging.WARNING)
+        # 设置控制台日志格式
         handler.setFormatter(formatter)
+        # 将日志输出到文件和控制台
         self.logger.addHandler(handler)  
         self.logger.addHandler(ch) 
         return self.logger
