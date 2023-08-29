@@ -14,8 +14,9 @@ Date:    2023/8/24 11:30:41
 import sys
 import os
 import configparser
-import log
 import time
+
+import log
 import opt_help
 import url_table
 import thread_pool
@@ -62,13 +63,13 @@ class MiniSpider(object):
         try:
             self.read_config_file()
         except configparser.Error as e: 
-            self.logger.warn(e)
+            self.logger.warning(e)
             return -1
         #初始化url_queue,保存已经抓取的URL列表和去除重复
         self.url_queue = self.init_url_queue()
         #如果初始化url_queue失败，则返回-1
         if self.url_queue == -1:
-            self.logger.warn('init url queue fail,return...')
+            self.logger.warning('init url queue fail,return...')
             return -1 
         #初始化抓取类
         self.init_crawler()
@@ -145,7 +146,7 @@ class MiniSpider(object):
         root_url_list = self.get_url_list(self.url_list_file)
         #如果获取root_url失败，则返回-1
         if root_url_list == -1:
-            self.logger.warn("get root url fail")
+            self.logger.warning("get root url fail")
             return -1
         #初始化父节点
         father_node_list = []
@@ -233,16 +234,6 @@ class MiniSpider(object):
             self.logger.warning("Get url_list fail:%s" % e)
             return -1
         return url_list
-        """
-        try:
-            with open(path) as url_line:
-                for url in url_line:
-                    url_list.append(url.strip())    
-        except IOError as e:
-            self.logger.warning("Get url_list fail:%s" % e)
-            return -1
-        return url_list
-        """
 
     def is_finish(self):
         """

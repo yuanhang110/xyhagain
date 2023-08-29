@@ -23,19 +23,32 @@ class Log(object):
              format="%(levelname)s: %(asctime)s: %(filename)s:%(lineno)d * %(thread)d %(message)s",
              datefmt="%y-%m-%d %H:%M:%S"):
         """
-        初始化日志对象，配置日志输出路径、日志级别、备份数量等参数，并将日志输出到文件和控制台。
+        init_log - initialize log module
 
         Args:
-            log_path (str): 日志文件路径。
-            level_stream (int): 输出到控制台的日志级别。
-            level (int, optional): 日志级别。默认为 logging.INFO。
-            when (str, optional): 时间间隔选项，用于 TimedRotatingFileHandler。默认为 "D"。
-            backup (int, optional): 备份日志文件的个数。默认为 7。
-            format (str, optional): 日志格式。默认为 "%(levelname)s: %(asctime)s: %(filename)s:%(lineno)d * %(thread)d %(message)s"。
-            datefmt (str, optional): 日期格式。默认为 "%y-%m-%d %H:%M:%S"。
-
-        Returns:
-            logging.Logger: 日志对象。
+            log_path - Log file path prefix.
+            Log data will go to two files: log_path.log and log_path.log.wf
+            Any non-exist parent directories will be created automatically
+            level - msg above the level will be displayed
+            DEBUG < INFO < WARNING < ERROR < CRITICAL
+            the default value is logging.INFO
+            when - how to split the log file by time interval
+            'S' : Seconds
+            'M' : Minutes
+            'H' : Hours
+            'D' : Days
+            'W' : Week day
+            default value: 'D'
+            format - format of the log
+            default format:
+            %(levelname)s: %(asctime)s: %(filename)s:%(lineno)d * %(thread)d %(message)s
+            INFO: 12-09 18:02:42: log.py:40 * 139814749787872 HELLO WORLD
+            backup - how many backup file to keep
+            default value: 7
+    
+        Raises:
+            OSError: fail to create log directories
+            IOError: fail to open log file
         """
         # 创建一个logger对象
         formatter = logging.Formatter(format, datefmt)

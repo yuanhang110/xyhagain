@@ -12,6 +12,7 @@ Date:    2023/8/24 11:30:41
 """
 import os
 import re
+
 import chardet 
 
 class Save(object):
@@ -59,9 +60,9 @@ class Save(object):
         Returns:
             bool: 如果URL是图片，则返回True；否则返回False
         """
-        pattern = re.compile('.*.(gif|png|jpg|bmp)$')
-        match = pattern.match(url)
-        if match:
+        prog = re.compile('.*.(gif|png|jpg|bmp)$')
+        result = prog.match(url)
+        if result:
             self.logger.info(url + "is picture")
             return True
         self.logger.info(url + "is not a picture")
@@ -79,10 +80,10 @@ class Save(object):
             int: 0表示保存成功，-1表示保存失败
         """
         #匹配url的正则
-        match = self.pattern.match(url)
+        res = self.pattern.match(url)
         self.logger.info('cur url: ' + str(url))
         #如果符合写入文件
-        if match:
+        if res:
             #获取绝对路径
             obslute_path = os.path.abspath(self.output_path)
             #如果路径不存在则创建
@@ -100,7 +101,7 @@ class Save(object):
             #如果不是图片则判断编码类型
             if not self.is_image(url):
                 encode = self.judge_chaset(html)
-                self.logger.info("encoding: " + encode)
+                self.logger.info("encoding: " + str(encode))
                 #如果编码类型为utf-8则直接写入文件
                 if encode == 'GB2312':
                     try:

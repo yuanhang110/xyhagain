@@ -1,0 +1,3 @@
+INFO: 23-08-29 15:22:29: url_table.py:66 * 140704317576960 将url列表按照深度进行深度排序，sort url list
+INFO: 23-08-29 15:22:29: url_table.py:78 * 140704317576960 get url node finish
+INFO: 23-08-29 15:22:29: url_table.py:96 * 140704317576960 url exits

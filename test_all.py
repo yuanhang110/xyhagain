@@ -10,17 +10,19 @@
 Authors: xiaoyuanhang(xiaoyuanhang@baidu.com)
 Date:    2023/8/24 11:30:41
 """
+import sys
+
+sys.path.append('./Test')
+
 import unittest
 import os
-import sys
-sys.path.append('./Test')
 
 if __name__ == '__main__':
     # 初始化测试环境
     print (os.getcwd())
     all_files = os.listdir('./Test')
     # 获取所有测试文件
-    test_files = [ff for ff in all_files if ff.startswith('test_')]
+    test_files = [name for name in all_files if name.endswith('_test.py')]
     # 导入所有测试文件
     for ff in test_files: 
         # 通过exec动态导入模块

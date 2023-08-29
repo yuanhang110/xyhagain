@@ -11,8 +11,9 @@ Authors: xiaoyuanhang(xiaoyuanhang@baidu.com)
 Date:    2023/8/24 11:30:41
 """
 import threading
-import work_thread
+
 import html_parser
+import crawl_thread
 
 class ThreadPool(object):
     """
@@ -66,7 +67,7 @@ class ThreadPool(object):
             无
 
         Returns:
-            work_thread.WorkThread: 返回新建线程
+            work_thread.CrawlThread: 返回新建线程
             如果线程数达到最大线程数则返回-1
         """
         # 获取线程锁
@@ -76,7 +77,7 @@ class ThreadPool(object):
         # 如果线程数小于最大线程数则返回-1
         if len(self.thread_list) < self.thread_max_num:
             # 新建线程
-            work_threads = work_thread.WorkThread(self.log, self.cralwer, self.parser
+            work_threads = crawl_thread.CrawlThread(self.log, self.cralwer, self.parser
                                                   , self.saver, self.url_queue) 
             # 将线程添加到线程列表中
             self.thread_list.append(work_threads)

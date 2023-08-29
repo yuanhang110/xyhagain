@@ -11,11 +11,11 @@ Authors: xiaoyuanhang(xiaoyuanhang@baidu.com)
 Date:    2023/8/24 11:30:41
 """
 import unittest
-import urllib
 import sys
 import inspect
+
 sys.path.append("../")
-import log
+
 import mini_spider
 
 class MiniSpiderTest(unittest.TestCase):  
@@ -79,7 +79,8 @@ class MiniSpiderTest(unittest.TestCase):
         """
         print ('\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
         # 获取url列表
-        res_exits = self.mini_spider_test.get_url_list('../urls')
+        res_exits = self.mini_spider_test.get_url_list('./urls')
+        print(res_exits)
         # 判断url列表的长度是否为3
         self.assertEqual(len(res_exits), 3, 'get_url_list_sucess fail')
         print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
@@ -99,9 +100,10 @@ class MiniSpiderTest(unittest.TestCase):
         """
         print ('\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
         # 获取url列表
-        res = self.mini_spider_test.get_url_list('../url')
+        # 获取url列表失败的情况
+        fail_res = self.mini_spider_test.get_url_list('../url')
         # 判断url列表的长度是否为-1
-        self.assertEqual(res, -1, 'get_url_list_fail fail')
+        self.assertEqual(fail_res, -1, 'get_url_list_fail fail')
         print ('\033[1;32m[PASS]\033[0m\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
         
     def test_init_url_queue(self):
@@ -116,7 +118,7 @@ class MiniSpiderTest(unittest.TestCase):
         """
         print ('\n[Start]\tclass:\033[1;33m%s\033[0m\tcase:\033[1;33m%s\033[0m' % (self.__class__.__name__, inspect.stack()[0][3]))
         # 初始化url队列
-        self.mini_spider_test.url_list_file = '../urls'
+        self.mini_spider_test.url_list_file = './urls'
         res = self.mini_spider_test.init_url_queue()
         # 判断url队列的长度是否为3
         self.assertEqual(res.get_url_node_len(), 3, 'init_url_queue_sucess fail')

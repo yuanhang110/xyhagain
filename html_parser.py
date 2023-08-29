@@ -10,12 +10,12 @@
 Authors: xiaoyuanhang(xiaoyuanhang@baidu.com)
 Date:    2023/8/24 11:30:41
 """
-from urllib.parse import urlparse
 import urllib
 import urllib.request
-import log
-
 from html.parser import HTMLParser
+from urllib.parse import urlparse
+
+import log
 
 class PageHtmlParser(HTMLParser):
     """
@@ -153,7 +153,7 @@ class PageHtmlParser(HTMLParser):
     
     def print_result(self):
         """
-        从html中获取url列表。
+        打印url列表结果
 
         Args:
             无。

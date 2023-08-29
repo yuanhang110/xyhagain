@@ -153,39 +153,35 @@
 <ul><li class="hdline0">
 <i class="dot"></i>
 <strong>
-<a href="http://www.news.cn/politics/leaders/2023-08/25/c_1129823846.htm" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=0">习近平结束出席金砖国家领导人第十五次会晤并对南非进行国事访问回国</a></strong>
+<a href="https://news.cctv.com/2023/08/29/ARTIXmju0yEbUbmpIAI71HO8230720.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=0">总书记“公开课”｜以学增智</a></strong>
 </li>
 <li class="hdline1">
 <i class="dot"></i>
 <strong>
-<a href="http://www.news.cn/politics/leaders/2023-08/24/c_1129821575.htm" target="_blank"  mon="r=1"><b>新起点、新活力！习近平这样寄语金砖历史性扩员</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="http://www.news.cn/politics/leaders/2023-08/24/c_1129819984.htm" target="_blank"  mon="r=1"><b>镜观·领航｜团结协作谋发展 勇于担当促和平</b></a>
+<a href="http://www.chinanews.com.cn/gn/2023/08-29/10068694.shtml" target="_blank"  mon="r=1"><b>【开学第一课】习言道｜立大志、明大德、成大才、担大任</b></a>
+<i style="font-size: 12px">&nbsp;</i><a href="https://wap.peopleapp.com/article/7185324/7030349" target="_blank"  mon="r=1"><b>用行动书写对党和人民的忠诚</b></a>
 </strong>
 </li>
 <li class="hdline2">
 <i class="dot"></i>
 <strong>
-<a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7377200123284499380&toc_style_id=feeds_default&track_id=8E63EF5C-A8BF-4312-A82D-F63D9168CB26_714574978017&share_to=copy_url" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>金砖，加！“金砖+”</b></a><i style="font-size: 12px">&nbsp;</i><a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13141156450281460864&toc_style_id=feeds_default&share_to=wechat&track_id=84b715f7-ecae-4c64-8895-5e7ad8f37428" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>现场见证金砖扩员！来听各国记者们怎么说</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=5045422553628036310&toc_style_id=feeds_default&track_id=2933FCE0-5ED3-407F-AF37-522D6EEC8F4A_714584748062&share_to=copy_url" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>搬“砖”现场 媒体同行们都在忙点啥</b></a>
-<i style="font-size: 12px">&nbsp;</i><a href="https://news.cctv.com/2023/08/24/ARTINhPnTLye9KVxdwrdlqv5230824.shtml" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1"><b>杭州亚运会各项筹备工作进入最后冲刺阶段</b></a>
-</strong>
+<a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7320901812543701238&t=1693229001714&toc_style_id=feeds_default&share_to=copy_url&track_id=163da69d-cd2b-46b9-9489-47d26c3f6f95" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=1">科创激发新动能 上海高质量发展如“沪”添翼</a></strong>
 </li>
 <li class="hdline3">
 <i class="dot"></i>
 <strong>
-<a href="http://www.news.cn/world/2023-08/24/c_1129822194.htm" target="_blank"  mon="r=1">金砖合作大有可为，金砖国家未来可期 </a>
+<a href="http://www.news.cn/2023-08/28/c_1129830951.htm" target="_blank"  mon="r=1">10.79亿网民如何共享美好数字生活？</a>
 </strong>
 </li>
 <li class="hdline4">
 <i class="dot"></i>
 <strong>
-<a href="http://world.people.com.cn/n1/2023/0825/c1002-40063884.html" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=2">真实亲诚 携手同行</a><i style="font-size: 12px">&nbsp;</i><a href="http://world.people.com.cn/n1/2023/0825/c1002-40063629.html" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=2">携手构建发展共同体</a>
-</strong>
+<a href="https://wap.peopleapp.com/article/7185387/7030412" target="_blank" class="a3" mon="ct=1&a=1&c=top&pn=2">规范使用地图 一点都不能错（美丽中国）</a></strong>
 </li>
 <li class="hdline5">
 <i class="dot"></i>
 <strong>
-<a href="https://h.xinhuaxmt.com/vh512/share/11648856?d=134b2a7 " target="_blank"  mon="r=1">今年全国早稻总产量2833.7万吨 增长0.8% </a>
+<a href="http://www.chinanews.com.cn/sh/2023/08-28/10068465.shtml" target="_blank"  mon="r=1">中新网评：指尖跃动正能量，凝聚澎湃的奋进力量</a>
 </strong>
 </li>
 </ul>
@@ -195,11 +191,11 @@
 <span class="dot"></span>
 <a href="https://new.12377.cn/wxxx/2023/740819eb_web.html" mon="ct=1&amp;a=2&amp;c=top&pn=1" target="_blank">优化营商网络环境的长效举措</a></li>
 <li>
-<a href="http://www.news.cn/world/2023-08/24/c_1129823133.htm" mon="ct=1&amp;a=2&amp;c=top&pn=2" target="_blank">新闻背景：金砖大家庭6名新成员</a></li>
+<a href="https://wap.peopleapp.com/article/7185340/7030365" mon="ct=1&amp;a=2&amp;c=top&pn=2" target="_blank">外交部发言人——金砖扩员顺应了历史发展潮流</a></li>
 <li>
-<a href="http://www.news.cn/world/2023-08/24/c_1212260133.htm" mon="ct=1&amp;a=2&amp;c=top&pn=3" target="_blank">夏威夷野火幸存者一家讲述求生故事</a></li>
+<a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=1753263130999749833&toc_style_id=feeds_default&share_to=copy_url&track_id=41ca5c72-fcab-41c8-a645-a3636ac7f931" mon="ct=1&amp;a=2&amp;c=top&pn=3" target="_blank">美军集束炸弹袭击幸存者：家园无法重建 伤痛仍未远离</a></li>
 <li>
-<a href="https://news.cctv.com/2023/08/24/ARTIAI3vBf3mZWH1VgsYu11z230824.shtml" mon="ct=1&amp;a=2&amp;c=top&pn=4" target="_blank">港珠澳大桥跨境物流商贸发展迅猛 方便快捷顺畅成为关键词</a></li>
+<a href="https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051023617634&to_app=hwbrowser&dy_scenario=today1&tn=eaf93c2d6b9cebe85c97557c93b6fcf08ed62b73a0eda9b183dc25886e608164&channel=HW_TRENDING&ctype=news&cpid=666&r=CN&share_to=weixin#/" mon="ct=1&amp;a=2&amp;c=top&pn=4" target="_blank">“这是欧盟屈从于美国的又一证明”</a></li>
 <li>
 <a href="http://www.news.cn/politics/ztjyhd/index.htm" mon="ct=1&amp;a=2&amp;c=top&pn=5" target="_blank">专题｜学习贯彻习近平新时代中国特色社会主义思想主题教育</a></li>
 <li>
@@ -208,62 +204,62 @@
 <ul class="ulist focuslistnews" >
 <li class="bold-item">
 <span class="dot"></span>
-<a href="https://baijiahao.baidu.com/s?id=1775087851709219119&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=7" target="_blank">海关总署：全面暂停进口日本水产品 </a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775092173935560104&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=7" target="_blank">王昀：亚运火炬“薪火”背后的故事</a></li>
 <li>
-<a href="https://haokan.baidu.com/v?vid=6970707615919336679&backflow=1&pd=d_push&pagepd=d_push" mon="ct=1&amp;a=2&amp;c=top&pn=8" target="_blank">日本今起排放核污水,国内的日料店还能去吗?多家日料店回应</a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775526215292586946" mon="ct=1&amp;a=2&amp;c=top&pn=8" target="_blank">有一个快递小哥每天都在丢件</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775105251592259903&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=9" target="_blank">中国驻缅甸大使馆：5名电诈犯罪嫌疑人从缅甸被押解回国</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775387257161345876&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=9" target="_blank">“小青荷”已“初长成”，杭州亚运会志愿者们准备好了</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775096274936148317&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=10" target="_blank">美商务部长访华，中美双方将讨论哪些话题？商务部回应</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775526048747624791&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=10" target="_blank">中纪委再公布5名"内鬼":海南省委巡视组原组长韩太光等被查</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1774974043464721196&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=11" target="_blank">洛阳有“不明物体”掉落 排查人员身着防护服？官方回应</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775545069539181573&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=11" target="_blank">日本驻北京使馆被扔砖头？外交部回应</a></li>
 <li>
 <a href="http://www.bjjubao.org.cn/node_1606.html" mon="ct=1&amp;a=2&amp;c=top&pn=12" target="_blank">北京地区网站联合辟谣平台</a>&nbsp;<a href="https://www.piyao.org.cn/" mon="ct=1&amp;a=2&amp;c=top&pn=12" target="_blank">中国互联网联合辟谣平台</a></li>
 </ul>
 <ul class="ulist focuslistnews" >
 <li class="bold-item">
 <span class="dot"></span>
-<a href="http://baijiahao.baidu.com/s?id=1775163367981319573" mon="ct=1&amp;a=2&amp;c=top&pn=13" target="_blank">普里戈任：“普京的屠夫”消逝在飞机火光中</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775440393780549440&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=13" target="_blank">罗马尼亚加油站爆炸近60人死伤：巨大火球直冲天空</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775153459209368644&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=14" target="_blank">韩国多个海鲜市场空无一人 商贩：疫情期间生意都比现在好</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775522825913964455&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=14" target="_blank">金正恩视察朝鲜人民军海军司令部 要求海军保持常备战备状态</a></li>
 <li>
-<a href="http://baijiahao.baidu.com/s?id=1775184281881700229" mon="ct=1&amp;a=2&amp;c=top&pn=15" target="_blank">拍下犯罪嫌疑人大头照，特朗普又“创造历史”</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775434953269827383&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=15" target="_blank">日本东电承认储罐中超6成的核污水放射物含量超标</a></li>
 <li>
-<a href="http://baijiahao.baidu.com/s?id=1775159720187883063" mon="ct=1&amp;a=2&amp;c=top&pn=16" target="_blank">普里戈任生命中的最后60天：从指挥武装叛乱到离奇遭遇坠机</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775460217009884593&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=16" target="_blank">美第七舰队司令在菲律宾谈南海 外交部:歪曲事实,挑拨离间</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775155519508576211&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=17" target="_blank">日本本州东海岸远海发生5.8级地震，震源深度10公里</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775469928662414416&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=17" target="_blank">日本核污染水3天排海量累计超1000吨</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775167355931275920&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=18" target="_blank">俄多地民众街头悼念普利戈任 有瓦格纳士兵现场痛哭</a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775469293601773334" mon="ct=1&amp;a=2&amp;c=top&pn=18" target="_blank">日本福岛县附近海域突发地震</a></li>
 </ul>
 <ul class="ulist focuslistnews" >
 <li class="bold-item">
 <span class="dot"></span>
-<a href="http://baijiahao.baidu.com/s?id=1775168946759317331" mon="ct=1&amp;a=2&amp;c=top&pn=19" target="_blank">浙江卫视：暂停播出《中国好声音》</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775428405002384894&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=19" target="_blank">“排完核废水就砸日本车”？西安公安辟谣 </a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775184268360335408&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=20" target="_blank">台湾一载78人轮船出港撞沉拖船，沉没全过程曝光</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775541740022469356&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=20" target="_blank">浙江一地提倡适龄婚育:奖励女方25周岁及以下初婚夫妇1000</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775063054249594724&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=21" target="_blank">浙江余姚一公司钢结构建筑倒塌 致2死3危重7轻伤 </a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775297726673560625" mon="ct=1&amp;a=2&amp;c=top&pn=21" target="_blank">15岁少年疑被带往缅甸电诈园近一年 家属：一共8人都十几岁</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775004550674865344&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=22" target="_blank">老人骨灰被殡仪馆弄错，工作人员夜赴墓地连磕三头取回!</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775542200927636780&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=22" target="_blank">江宁婆婆起底电诈骗局:去境外电诈的大部分不是被骗而是贪婪</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1774977214056349205&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=23" target="_blank">最硬核逼婚!未经商量准新人被"办"婚礼:人不到就放照片举办</a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775460468404892758" mon="ct=1&amp;a=2&amp;c=top&pn=23" target="_blank">中学小卖部5年租金943万？当地教育局回应</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1774973596930576233&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=24" target="_blank">河南女子七夕赴上海奔现被拒路边痛哭，见民警后崩溃</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775524351450654395&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=24" target="_blank">台风"苏拉"逼近 福建广东局地将有特大暴雨 最新路径图公布</a></li>
 </ul>
 <ul class="ulist focuslistnews" >
 <li class="bold-item">
 <span class="dot"></span>
-<a href="http://baijiahao.baidu.com/s?id=1775181740039395957" mon="ct=1&amp;a=2&amp;c=top&pn=25" target="_blank">多地餐饮行业协会倡议：抵制、停用日本海鲜产品</a></li>
+<a href="http://baijiahao.baidu.com/s?id=1775518936266626737" mon="ct=1&amp;a=2&amp;c=top&pn=25" target="_blank">退休还乡，不要总盯着“宅基地”</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775108212315333290&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=26" target="_blank">核辐射检测仪电商爆单，专家：用普通仪器很难发现差别</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775463021159095535&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=26" target="_blank">三孩不享受村集体待遇？西安市回应：依据当地村规民约</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1774986328365728483&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=27" target="_blank">老人误将2万结婚汉服当垃圾扔掉 民警顶高温翻垃圾帮找回 </a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775452956589144491&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=27" target="_blank">福建一男子当街持剪刀扎人 警方：已被刑拘，3人受伤送医 </a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1774989672920151649&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=28" target="_blank">百万女网红在东南亚被绑架?潮汕商会杨经纬:未接受任何采访</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775527962277840119&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=28" target="_blank">东莞一学校趴桌午休收费200元 教育局:收到投诉,正研究处理</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1774996027891816611&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=29" target="_blank">两名在缅电诈嫌犯被押解回国，其中一人为赌诈团伙骨干头目</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775529532203934090&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=29" target="_blank">官方通报河南一高中宿舍住116人:系部分军训学生暂住图书馆</a></li>
 <li>
-<a href="https://baijiahao.baidu.com/s?id=1775186648833363787&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=30" target="_blank">“湖南千万富翁被送精神病院”,警方:已在精神病院自缢身亡</a></li>
+<a href="https://baijiahao.baidu.com/s?id=1775521426900104349&wfr=content" mon="ct=1&amp;a=2&amp;c=top&pn=30" target="_blank">四川一学校教练疯狂殴打学生,只因学生私自外出 官方:已行拘</a></li>
 </ul>
 </div>
 <div id="pane-recommend" class="mod-tab-pane pane-recommend ">
@@ -346,34 +342,34 @@
 <div class="bd">
 <ul class="hotwords clearfix">
 <li class="li_0 li_color_0 button-slide">
-<a href="https://www.baidu.com/s?wd=2023%E2%80%9C%E9%87%91%E7%A0%96%E6%97%B6%E9%97%B4%E2%80%9D" target="_blank" class="hotwords_li_a" title="2023“金砖时间”" mon="ct=1&amp;c=top&amp;a=30&pn=1">2023“金砖时间”</a>
+<a href="https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%81%A2%E5%A4%8D" target="_blank" class="hotwords_li_a" title="如何看待中国经济恢复" mon="ct=1&amp;c=top&amp;a=30&pn=1">如何看待<br/>中国经济恢复</a>
 </li>
 <li class="li_1 li_color_1 button-slide">
-<a href="https://www.baidu.com/s?wd=%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F" target="_blank" class="hotwords_li_a" title="金砖国家未来可期" mon="ct=1&amp;c=top&amp;a=30&pn=2">金砖国家未来可期</a>
+<a href="https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%BF%90%E5%8A%A8%E5%91%98%E9%A4%90%E5%8E%85%E8%8F%9C%E5%8D%95%E7%A1%AE%E5%AE%9A" target="_blank" class="hotwords_li_a" title="杭州亚运会运动员餐厅菜单确定" mon="ct=1&amp;c=top&amp;a=30&pn=2">杭州亚运会运动员<br/>餐厅菜单确定</a>
 </li>
 <li class="li_2 li_color_2 button-slide">
-<a href="https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9:%E4%B8%A5%E7%A6%81%E7%94%A8%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E5%88%B6%E4%BD%9C%E9%A4%90%E9%A3%9F" target="_blank" class="hotwords_li_a" title="官方:严禁用日本水产品制作餐食" mon="ct=1&amp;c=top&amp;a=30&pn=3">官方:严禁用日本水产品制作餐食</a>
+<a href="https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E8%BF%98%E4%B9%A1%20%E4%B8%8D%E8%A6%81%E6%80%BB%E7%9B%AF%E7%9D%80%E2%80%9C%E5%AE%85%E5%9F%BA%E5%9C%B0%E2%80%9D" target="_blank" class="hotwords_li_a" title="退休还乡 不要总盯着“宅基地”" mon="ct=1&amp;c=top&amp;a=30&pn=3">退休还乡 不要总盯着“宅基地”</a>
 </li>
 <li class="li_3 li_color_3 button-slide">
-<a href="https://www.baidu.com/s?wd=%E7%91%9E%E5%A3%AB%E5%90%91%E4%B8%AD%E5%9B%BD%E8%BF%94%E8%BF%985%E4%BB%B6%E6%B5%81%E5%A4%B1%E6%96%87%E7%89%A9" target="_blank" class="hotwords_li_a" title="瑞士向中国返还5件流失文物" mon="ct=1&amp;c=top&amp;a=30&pn=4">瑞士向中国返还<br/>5件流失文物</a>
+<a href="https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E8%B5%8C%E8%AF%88%E5%9B%A2%E4%BC%99%E5%A4%B4%E7%9B%AE%E5%A4%A7%E8%87%B4%E4%B8%BA%E8%BF%99%E4%B8%89%E7%B1%BB%E4%BA%BA" target="_blank" class="hotwords_li_a" title="缅甸赌诈团伙头目大致为这三类人" mon="ct=1&amp;c=top&amp;a=30&pn=4">缅甸赌诈团伙<br/>头目大致为这<br/>三类人</a>
 </li>
 <li class="li_4 li_color_4 button-slide">
-<a href="https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%B5%B7%E6%BB%A9%E7%AA%81%E7%84%B6%E6%B6%8C%E7%8E%B0%E5%A4%A7%E9%87%8F%E6%B5%B7%E8%99%BE" target="_blank" class="hotwords_li_a" title="广东一海滩突然涌现大量海虾" mon="ct=1&amp;c=top&amp;a=30&pn=5">广东一海滩突然<br/>涌现大量海虾</a>
+<a href="https://www.baidu.com/s?wd=%E2%80%9C%E5%AD%90%E6%B6%B5%E2%80%9D%E2%80%9C%E6%AC%A3%E6%80%A1%E2%80%9D%E6%88%90%E6%96%B0%E7%94%9F%E7%88%86%E6%AC%BE%E5%90%8C%E5%90%8D" target="_blank" class="hotwords_li_a" title="“子涵”“欣怡”成新生爆款同名" mon="ct=1&amp;c=top&amp;a=30&pn=5">“子涵”“欣怡”成<br/>新生爆款同名</a>
 </li>
 <li class="li_5 li_color_5 button-slide">
-<a href="https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E6%8F%90%E4%BE%9B%E9%BB%84%E7%89%9B%E7%94%B5%E8%AF%9D%E6%8C%82%E5%8F%B7" target="_blank" class="hotwords_li_a" title="卫健委回应医院提供黄牛电话挂号" mon="ct=1&amp;c=top&amp;a=30&pn=6">卫健委回应医院提供黄牛电话<br/>挂号</a>
+<a href="https://www.baidu.com/s?wd=%E5%B9%BF%E6%B7%B1%E4%B8%A4%E5%B8%82%E5%B7%B2%E6%97%A0%E5%AE%B6%E4%B9%90%E7%A6%8F" target="_blank" class="hotwords_li_a" title="广深两市已无家乐福" mon="ct=1&amp;c=top&amp;a=30&pn=6">广深两市已无<br/>家乐福</a>
 </li>
 <li class="li_6 li_color_6 button-slide">
-<a href="https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%86%AC%E5%A4%9C%E8%87%B4%E5%85%8D%E7%96%AB%E5%8A%9B%E4%BD%8E%E4%B8%8B%E7%A1%AE%E8%AF%8A%E7%B4%AB%E7%99%9C" target="_blank" class="hotwords_li_a" title="女子称熬夜致免疫力低下确诊紫癜" mon="ct=1&amp;c=top&amp;a=30&pn=7">女子称熬夜致免疫力低下确诊<br/>紫癜</a>
+<a href="https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%8E%A8%E8%BF%9F%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%AE%B6%E7%AD%BE%E8%AF%81%E5%AE%A1%E6%89%B9" target="_blank" class="hotwords_li_a" title="印度推迟中国专家签证审批" mon="ct=1&amp;c=top&amp;a=30&pn=7">印度推迟中国<br/>专家签证审批</a>
 </li>
 <li class="li_7 li_color_7 button-slide">
-<a href="https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%89%E9%98%B3%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86%3F%E5%A4%9A%E5%90%8D%E5%8C%BB%E7%94%9F%E5%88%86%E6%9E%90" target="_blank" class="hotwords_li_a" title="“三阳”要来了?多名医生分析" mon="ct=1&amp;c=top&amp;a=30&pn=8">“三阳”要来了?<br/>多名医生分析</a>
+<a href="https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E8%92%9F%E8%92%BB%E6%9E%9C%E5%86%BB%E5%90%83%E5%87%BA%E6%95%B4%E5%8F%AA%E8%99%AB" target="_blank" class="hotwords_li_a" title="女子网购蒟蒻果冻吃出整只虫" mon="ct=1&amp;c=top&amp;a=30&pn=8">女子网购蒟蒻<br/>果冻吃出整只虫</a>
 </li>
 <li class="li_8 li_color_8 button-slide">
-<a href="https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%88%86%E6%9E%90%E5%AF%8C%E5%A3%AB%E5%B1%B1%E5%96%B7%E5%8F%91%E5%8F%AF%E8%83%BD%E6%80%A7" target="_blank" class="hotwords_li_a" title="专家分析富士山喷发可能性" mon="ct=1&amp;c=top&amp;a=30&pn=9">专家分析富士山<br/>喷发可能性</a>
+<a href="https://www.baidu.com/s?wd=%E5%8D%8E%E5%A4%8F%E9%93%B6%E8%A1%8C:%E6%88%BF%E8%B4%B7%E6%8F%90%E5%89%8D%E8%BF%98%E6%AC%BE%E6%9C%89%E6%89%80%E7%BC%93%E8%A7%A3" target="_blank" class="hotwords_li_a" title="华夏银行:房贷提前还款有所缓解" mon="ct=1&amp;c=top&amp;a=30&pn=9">华夏银行:房贷提前还款有所缓解</a>
 </li>
 <li class="li_9 li_color_9 button-slide">
-<a href="https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E6%97%A5%E6%9C%AC%E8%B6%85%E5%B8%82:%E7%A6%8F%E5%B2%9B%E4%BA%A7%E5%93%81%E5%8D%8A%E4%BB%B7%E6%97%A0%E4%BA%BA%E4%B9%B0" target="_blank" class="hotwords_li_a" title="实探日本超市:福岛产品半价无人买" mon="ct=1&amp;c=top&amp;a=30&pn=10">实探日本超市:<br/>福岛产品半价<br/>无人买</a>
+<a href="https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%9E%81%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E6%B5%B7%E4%B8%8A%E7%B2%AE%E4%BB%93" target="_blank" class="hotwords_li_a" title="中国在南极意外发现海上粮仓" mon="ct=1&amp;c=top&amp;a=30&pn=10">中国在南极意外<br/>发现海上粮仓</a>
 </li>
 </ul>
 </div>
@@ -394,16 +390,16 @@
 <div class="imagearea">
 <div class="imagearea-top" style="height:164px;">
 <div class="image-mask-item">
-<a href="https://baijiahao.baidu.com/s?id=1775165067981307493" target="_blank" class="item-image" mon="&a=12" title="大功率无线充电与“边走边充”还有多远？" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/99a23b0e870cd5a79c97c08e220c9e49.jpeg?x-bce-process=image/crop,x_11,y_0,w_1246,h_836)"></a>
-<a href="https://baijiahao.baidu.com/s?id=1775165067981307493" target="_blank" class="item-title" title="大功率无线充电与“边走边充”还有多远？" mon="&a=9">大功率无线充电与“边走边充”还有多远？</a>
+<a href="https://baijiahao.baidu.com/s?id=1775436072629404518" target="_blank" class="item-image" mon="&a=12" title="亚朵的下一个千店在中端？" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/b79ecf3420586e1bd88f7c54ac25d74b.jpeg?x-bce-process=image/crop,x_68,y_0,w_1138,h_764)"></a>
+<a href="https://baijiahao.baidu.com/s?id=1775436072629404518" target="_blank" class="item-title" title="亚朵的下一个千店在中端？" mon="&a=9">亚朵的下一个千店在中端？</a>
 </div>
 </div>
 <div class="imagearea-bottom">
 <div class="image-list-item">
-<a href="https://baijiahao.baidu.com/s?id=1775157391170286145" title="七夕的浪漫生意不灵了" target="_blank" mon="&a=12" class="img" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/c162f3305f534d891e044970148d7d20.jpeg?x-bce-process=image/crop,x_12,y_0,w_1246,h_836)"></a><a href="https://baijiahao.baidu.com/s?id=1775157391170286145" mon="&a=9"  class="txt" target="_blank">七夕的浪漫生意不灵了</a>
+<a href="https://baijiahao.baidu.com/s?id=1775435159041698029" title="当贷款利率跌破“3字头”" target="_blank" mon="&a=12" class="img" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/1ea4f624f696f7d08099e1b6a7a63f94.jpeg?x-bce-process=image/crop,x_0,y_19,w_1272,h_854)"></a><a href="https://baijiahao.baidu.com/s?id=1775435159041698029" mon="&a=9"  class="txt" target="_blank">当贷款利率跌破“3字头”</a>
 </div>
 <div class="image-list-item">
-<a href="https://baijiahao.baidu.com/s?id=1775161261239325860" title="游戏本成为PC市场「止血剂」" target="_blank" mon="&a=12" class="img" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/5045ba4df4254400de9010529662934b.jpeg?x-bce-process=image/crop,x_79,y_0,w_1115,h_748)"></a><a href="https://baijiahao.baidu.com/s?id=1775161261239325860" mon="&a=9"  class="txt" target="_blank">游戏本成为PC市场「止血剂」</a>
+<a href="https://baijiahao.baidu.com/s?id=1775433241445384738" title="直播登“C位”，美团稳稳交出成绩单" target="_blank" mon="&a=12" class="img" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/5fe42d58ffd796ab0e2948b27f7932a7.jpeg?x-bce-process=image/crop,x_0,y_47,w_1272,h_854)"></a><a href="https://baijiahao.baidu.com/s?id=1775433241445384738" mon="&a=9"  class="txt" target="_blank">直播登“C位”，美团稳稳交出成绩单</a>
 </div>
 </div>
 </div>
@@ -411,26 +407,26 @@
 <div class="l-right-col" style="width:290px;" alog-group="log-baijia-right-up">
 <div class="baijia-focus-list">
 <ul class="ulist bdlist">
-<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1775162800841813663" target="_blank" mon="a=9">谁在小红书做电商？</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775162644216084425" target="_blank" mon="a=9">SpaceX实现盈利</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775122852532452608" target="_blank" mon="a=9">核污水背刺日本化妆品</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775103083826949128" target="_blank" mon="a=9">“赔”了1000亿，这家公司为何更稳了？</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775065063150436017" target="_blank" mon="a=9">东南亚没有资本寒冬</a></li>
+<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1775427550117985208" target="_blank" mon="a=9">读书郎不买“读书郎”，陈志勇困守线下</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775433241443901917" target="_blank" mon="a=9">一年完成三轮融资，新能源重卡还有新故事？</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775435662690944948" target="_blank" mon="a=9">跌出世界500强，格力的好日子真的过去了</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775366174020038369" target="_blank" mon="a=9">李书福拔刀子，捅合资心窝子？</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775279758921551755" target="_blank" mon="a=9">从20家大厂财报，一窥半导体复苏轨迹</a></li>
 </ul>
 <ul class="ulist bdlist" style="padding-top:5px">
-<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1775158349250279767" target="_blank" mon="a=9">终究是海外市场救了阳光电源</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775143993347758451" target="_blank" mon="a=9">苹果态度大转变：支持加州维修权法案</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775139314726395170" target="_blank" mon="a=9">美国经济韧性退潮，零售股惨淡</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775123835591807835" target="_blank" mon="a=9">产能过剩风险下，46电池成亿纬救命稻草</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775106050858507246" target="_blank" mon="a=9">GPT-4生图未解禁？CMU华人博士新作</a></li>
+<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1775362343746225339" target="_blank" mon="a=9">Code Llama神秘版本曝光</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775437646578869718" target="_blank" mon="a=9">连年亏损的阿里大文娱“翻身了”</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775435820125452452" target="_blank" mon="a=9">重磅！小鹏、滴滴官宣“大动作”</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775428919771931560" target="_blank" mon="a=9">比亚迪电子158亿元收购捷普旗下子公司</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775371395208027889" target="_blank" mon="a=9">250亿美元回购！英伟达的股东也懵了</a></li>
 </ul>
 <ul class="ulist bdlist" style="padding-top:5px">
-<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1775112475369835426" target="_blank" mon="a=9">千亿级数学大模型MathGPT推出</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775158398630287808" target="_blank" mon="a=9">美团度过最紧张的时刻</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775120689266968830" target="_blank" mon="a=9">不是每家车企，都有资格卷</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775105509415951543" target="_blank" mon="a=9">被AI取代后，我们会成为什么样的人？</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775161261240979154" target="_blank" mon="a=9">久其软件股价狂飙背后</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1775122253239544613" target="_blank" mon="a=9">旅游市场再出发，OTA平台迎价值重估拐点</a></li>
+<li class="bold-item"><a href="https://baijiahao.baidu.com/s?id=1775354200927718030" target="_blank" mon="a=9">RISC，诸神乱斗的时代！</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775385011894948317" target="_blank" mon="a=9">Her2靶点之争：寻找最优解</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775448464928513444" target="_blank" mon="a=9">马斯克直播自动驾驶「去小扎家」</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775393108131290178" target="_blank" mon="a=9">两位40后先后研发五笔和智能ABC输入法</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775392628315874545" target="_blank" mon="a=9">科学家成功模拟人类早期胚胎发育</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1775438020813185083" target="_blank" mon="a=9">进取的沙特：不只是土豪，还很努力</a></li>
 </ul>
 </div>
 </div>
@@ -440,8 +436,8 @@
 <div class="imagearea">
 <div class="imagearea-top">
 <div class="image-mask-item">
-<a href="https://baijiahao.baidu.com/s?id=1775155440694315469" target="_blank" class="item-image" mon="&a=12" title="英伟达市值一夜暴涨5000亿" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/b808150c0f7f2115b73497fad514d150.jpeg?x-bce-process=image/crop,x_15,y_0,w_1240,h_832)"></a>
-<a href="https://baijiahao.baidu.com/s?id=1775155440694315469" target="_blank" class="item-title" title="英伟达市值一夜暴涨5000亿" mon="&a=9">英伟达市值一夜暴涨5000亿</a>
+<a href="https://baijiahao.baidu.com/s?id=1775430283963441754" target="_blank" class="item-image" mon="&a=12" title="二季度净亏28亿，小鹏：拐点已至" style="background-image:url(http://contentcms-bj.cdn.bcebos.com/cmspic/82bd420b9ab31eca223cfef9d344c629.jpeg?x-bce-process=image/crop,x_23,y_0,w_1219,h_818)"></a>
+<a href="https://baijiahao.baidu.com/s?id=1775430283963441754" target="_blank" class="item-title" title="二季度净亏28亿，小鹏：拐点已至" mon="&a=9">二季度净亏28亿，小鹏：拐点已至</a>
 </div>
 </div>
 </div>
@@ -912,84 +908,84 @@ mod.init();
   
                           cpOptions_1.data.push({
           "index": 1,
-          //"title": "北京：雨后故宫蓝天白云",
-          "title": "北京：雨后故宫蓝天白云",
-          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAKPKvkFYH4EMVeCcj17Pa230825.shtml?spm=C35449.P80754075394.S41437.43#afC20uJRzYrt230825_1",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/19b2d62d67c7aaa24422cab3e61fe2e1.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
+          //"title": "开学第一课",
+          "title": "开学第一课",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAYDlhkfjC3KoSSfwlbrLh230828.shtml?spm=C35449.P80754075394.S41437.47#0bv2y8cS1qeF230828_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/eb44583be8f26def841e0d173dbce5b9.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1871,h_1018",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAKPKvkFYH4EMVeCcj17Pa230825.shtml?spm=C35449.P80754075394.S41437.43#afC20uJRzYrt230825_1"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAYDlhkfjC3KoSSfwlbrLh230828.shtml?spm=C35449.P80754075394.S41437.47#0bv2y8cS1qeF230828_1"});
                                 cpOptions_1.data.push({
           "index": 2,
-          //"title": "秋日采菱",
-          "title": "秋日采菱",
-          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOA2f0yKmZrHEmAk6TArvho230825.shtml?spm=C35449.P80754075394.S41437.27#8lRJW9wx2cK230825_10",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/4a1b34898cc16e62d2dcb6c38c077a49.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
+          //"title": "河南济源：黄河湿地好生态",
+          "title": "河南济源：黄河湿地好生态",
+          "url": "http:\/\/www.news.cn\/photo\/2023-08\/29\/c_1129831568_4.htm",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/29e02305e80f2a1013f5a18ffc594bfa.jpeg?x-bce-process=image\/crop,x_0,y_0,w_664,h_361",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOA2f0yKmZrHEmAk6TArvho230825.shtml?spm=C35449.P80754075394.S41437.27#8lRJW9wx2cK230825_10"});
+        imgList.push({"url":"http:\/\/www.news.cn\/photo\/2023-08\/29\/c_1129831568_4.htm"});
                                 cpOptions_1.data.push({
           "index": 3,
-          //"title": "内蒙古鄂尔多斯：北大池盐场迎来丰收季",
-          "title": "内蒙古鄂尔多斯：北大池盐场迎来丰收季",
-          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAE5qTfZq0VbtWbbAty5Fj230825.shtml?spm=C35449.P80754075394.S41437.32#d8PfOoTIRfLa230825_1",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/82d7c4d678cdbc3881278542b719bf22.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
+          //"title": "色彩斑斓的达瓦错",
+          "title": "色彩斑斓的达瓦错",
+          "url": "http:\/\/www.news.cn\/photo\/2023-08\/29\/c_1129831797_3.htm",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/22a6f2de52dbc2c4794fc6fa46a4cd36.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAE5qTfZq0VbtWbbAty5Fj230825.shtml?spm=C35449.P80754075394.S41437.32#d8PfOoTIRfLa230825_1"});
+        imgList.push({"url":"http:\/\/www.news.cn\/photo\/2023-08\/29\/c_1129831797_3.htm"});
                                 cpOptions_1.data.push({
           "index": 4,
-          //"title": "新疆巴音郭楞：丰收季来临 农民晾晒辣椒",
-          "title": "新疆巴音郭楞：丰收季来临 农民晾晒辣椒",
-          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAfvVnTNZLb0THkvpmjjcG230825.shtml?spm=C35449.P80754075394.S41437.7#sfjw6Du3jhpm230825_1",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/3b912e1b591972106682a6e3e85a9361.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
+          //"title": "初秋收获忙",
+          "title": "初秋收获忙",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAKIyRYQEYylN2YEzgeBhf230828.shtml?spm=C35449.P80754075394.S41437.19#dDiWNNabC1tg230828_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/9713b14e51e10ab18e7415798bd9a973.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOAfvVnTNZLb0THkvpmjjcG230825.shtml?spm=C35449.P80754075394.S41437.7#sfjw6Du3jhpm230825_1"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAKIyRYQEYylN2YEzgeBhf230828.shtml?spm=C35449.P80754075394.S41437.19#dDiWNNabC1tg230828_1"});
                                 cpOptions_1.data.push({
           "index": 5,
-          //"title": "贵州黔东南：加榜梯田雨后云雾缭绕",
-          "title": "贵州黔东南：加榜梯田雨后云雾缭绕",
-          "url": "https:\/\/photo.cctv.com\/2023\/08\/25\/PHOABqty125PO47GiL4HxLb0230825.shtml?spm=C35449.P80754075394.S41437.17#QOW0oHkJreCV230825_1",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/45c11990d10a769facc15d3c05c76193.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
+          //"title": "葫芦方寸间 演绎大世界",
+          "title": "葫芦方寸间 演绎大世界",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAF7sm3JD7osBtLA9yVBet230828.shtml?spm=C35449.P80754075394.S41437.60#XiGUhgfm7xzO230828_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/0df8cbdebe14e8c4ea0b833a8c5acda7.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/25\/PHOABqty125PO47GiL4HxLb0230825.shtml?spm=C35449.P80754075394.S41437.17#QOW0oHkJreCV230825_1"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAF7sm3JD7osBtLA9yVBet230828.shtml?spm=C35449.P80754075394.S41437.60#XiGUhgfm7xzO230828_1"});
                                 cpOptions_1.data.push({
           "index": 6,
-          //"title": "俄一架飞机坠毁机上10人遇难 乘客名单包括普里戈任",
-          "title": "俄一架飞机坠毁机上10人遇难 乘客名单包括普里戈任",
-          "url": "https:\/\/www.chinanews.com.cn\/tp\/hd2011\/2023\/08-24\/1076930.shtml",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/0ece6daa7347b3e15313849bfae8ee74.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1765,h_960",
+          //"title": "浙江嘉兴：钱塘江退潮后现“潮汐树”景观",
+          "title": "浙江嘉兴：钱塘江退潮后现“潮汐树”景观",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/28\/PHOABNIhSoc6gvL4cM75PGET230828.shtml?spm=C35449.P80754075394.S41437.4#z44XHzvE1HBd230828_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/d6863e47c326001ac2dfc6e2f3180c61.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1934,h_1053",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"https:\/\/www.chinanews.com.cn\/tp\/hd2011\/2023\/08-24\/1076930.shtml"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/28\/PHOABNIhSoc6gvL4cM75PGET230828.shtml?spm=C35449.P80754075394.S41437.4#z44XHzvE1HBd230828_1"});
                                 cpOptions_1.data.push({
           "index": 7,
-          //"title": "福岛民众反对日本政府决定启动核污染水排海",
-          "title": "福岛民众反对日本政府决定启动核污染水排海",
-          "url": "http:\/\/www.news.cn\/photo\/2023-08\/24\/c_1129819880.htm",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/470ea16de5033a500e931e348eedf555.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1945,h_1058",
+          //"title": "俄罗斯克拉斯诺亚尔斯克举办变装滑梯比赛",
+          "title": "俄罗斯克拉斯诺亚尔斯克举办变装滑梯比赛",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAlADHnBrQJyyUUSQ9dulx230828.shtml?spm=C35449.P80754075394.S41437.12#9OIY4SR6YAVc230828_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/1cb7d982f867067e2714d1d605090c8a.jpeg?x-bce-process=image\/crop,x_0,y_0,w_665,h_362",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"http:\/\/www.news.cn\/photo\/2023-08\/24\/c_1129819880.htm"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAlADHnBrQJyyUUSQ9dulx230828.shtml?spm=C35449.P80754075394.S41437.12#9OIY4SR6YAVc230828_1"});
                                 cpOptions_1.data.push({
           "index": 8,
-          //"title": "福岛冷清的海岸和低迷的旅游业",
-          "title": "福岛冷清的海岸和低迷的旅游业",
-          "url": "http:\/\/www.news.cn\/photo\/2023-08\/24\/c_1129819861.htm",
-          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/0ed514c486681a7b99063513e432779d.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1717,h_935",
+          //"title": "马来西亚万名民众反对日本核污染水排海",
+          "title": "马来西亚万名民众反对日本核污染水排海",
+          "url": "https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAn8A5c021eNLuaQIdHjhA230828.shtml?spm=C35449.P80754075394.S41437.39#bp8TpT8OoiNc230828_1",
+          "imgUrl": "http:\/\/contentcms-bj.cdn.bcebos.com\/cmspic\/11657725707e309e42f5451dfcae8f9f.jpeg?x-bce-process=image\/crop,x_0,y_0,w_1462,h_796",
           "abs": "",
           "meadia": ""
         });
-        imgList.push({"url":"http:\/\/www.news.cn\/photo\/2023-08\/24\/c_1129819861.htm"});
+        imgList.push({"url":"https:\/\/photo.cctv.com\/2023\/08\/28\/PHOAn8A5c021eNLuaQIdHjhA230828.shtml?spm=C35449.P80754075394.S41437.39#bp8TpT8OoiNc230828_1"});
             
     var index = 0 ;
     var url = location.href.substr(location.href.indexOf("?")+1).split("&");

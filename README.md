@@ -21,7 +21,7 @@ html_parser: 解析类，用于解析网页
 
 save: 保存类,用于保存过滤后的网页信息
 
-Work_thread: 线程类，调用crawler,parser,saver进行抓取,分析,保存
+crawl_thread: 线程类，调用crawler,parser,saver进行抓取,分析,保存
 
 urls: 种子地址列表  
 
